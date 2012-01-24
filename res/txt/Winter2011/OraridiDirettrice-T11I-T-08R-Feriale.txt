@@ -1,0 +1,488 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                                          Ü                                                Ý 
+Linea                                                                                                                3 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                  5.09      6.07     6.27      6.37      6.57      7.07      7.12      7.17 
+MATTARELLO        Catoni                         5.10      6.08     6.28      6.38      6.58      7.08      7.13      7.18 
+MATTARELLO        via Nazionale                  5.11      6.09     6.29      6.39      6.59      7.09      7.14      7.19 
+MATTARELLO        "Ronchi"                       5.12      6.10     6.30      6.40      7.00      7.10      7.15      7.20 
+SS 12  "Casteller"                               5.13      6.11     6.31      6.41      7.01      7.11      7.16      7.21 
+Stella  Marighetto                               5.14      6.12     6.32      6.42      7.02      7.12      7.17      7.22 
+Madonna Bianca  "S.Gaetano"                      5.15      6.13     6.33      6.43      7.03      7.13      7.18      7.23 
+Degasperi  "Big Center"                            |        |         |         |         |         |         |         | 
+Degasperi  la Clarina                              |        |         |         |         |         |         |         | 
+S.Pio X  Matteotti                                 |        |         |         |         |         |         |         | 
+Vittorio Veneto  "S.Giuseppe"                      |        |         |         |         |         |         |         | 
+Verona  Menguzzato                               5.15      6.14     6.34      6.44      7.04      7.14      7.19      7.24 
+Verona  "Big Center"                             5.15      6.14     6.34      6.44      7.04      7.14      7.19      7.24 
+Verona  "S.Bartolameo"                           5.17      6.16     6.36      6.46      7.06      7.16      7.21      7.26 
+Verona  Fogazzaro                                5.18      6.17     6.37      6.47      7.07      7.17      7.22      7.27 
+3 Nov.   "Ponte Cavalleggeri"                    5.19      6.19     6.39      6.49      7.09      7.19      7.24      7.29 
+3 Nov.   "Centro S.Chiara"                       5.20      6.21     6.41      6.51      7.11      7.21      7.26      7.31 
+ Piazza di Fiera                                 5.21      6.22     6.42      6.52      7.12      7.22      7.27      7.32 
+ Piazza Venezia                                  5.23      6.24     6.44      6.54      7.14      7.24      7.29      7.34 
+Sanzio  "Castello"                               5.25      6.27     6.47      6.57      7.17      7.27      7.32      7.37 
+Piazza Dante  Dogana                               |        |         |         |         |       7.30        |         | 
+Gazzoletti  Piazza Dante                         5.32      6.30     6.50      7.00      7.20                7.35      7.40 
+ Largo Sauro                                     5.34      6.32     6.52      7.02      7.22                7.37      7.42 
+ Piazza Gen. Cantore                             5.37      6.36     6.56      7.06      7.26                7.41        | 
+Maccani  "rotatoria"                             5.39      6.38     6.58      7.08      7.28                7.43        | 
+Brennero  "Bren Center"                            |        |       7.01      7.11      7.31                7.46      7.49 
+Zambra  "Top Center"                               |        |         |         |         |                   |       7.50 
+Guardini  "Centochiavi"                            |        |       7.02      7.12      7.32                7.47 
+RONCAFORT                                        5.43      6.44 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                      Ý        Þ                   Þ         Ý 
+Linea                                                                        3 
+
+MATTARELLO        "Vestimenta"                                                                                       8.04 
+MATTARELLO        Piazza Perini                           7.22      7.27                         7.42      7.57        | 
+MATTARELLO        Catoni                                  7.23      7.28                         7.43      7.58      8.06 
+MATTARELLO        via Nazionale                           7.24      7.29                         7.44      7.59      8.07 
+MATTARELLO        "Ronchi"                                7.25      7.30                         7.45      8.00      8.08 
+SS 12  "Casteller"                                        7.26      7.31                         7.46      8.01      8.09 
+Stella  Marighetto                                        7.27      7.32                         7.47      8.02      8.10 
+Madonna Bianca  "S.Gaetano"                               7.28      7.33                         7.48      8.03      8.11 
+Degasperi  "Big Center"                                     |         |                            |         |         | 
+Degasperi  la Clarina                                       |         |                7.40        |         |         | 
+S.Pio X  Matteotti                                          |         |                7.44        |         |         | 
+Vittorio Veneto  "S.Giuseppe"                  7.33         |         |                7.46        |         |         | 
+Verona  Menguzzato                                |       7.29      7.34      7.35       |       7.49      8.04      8.12 
+Verona  "Big Center"                              |       7.29      7.34      7.35       |       7.49      8.04      8.12 
+Verona  "S.Bartolameo"                            |       7.31      7.36      7.37       |       7.51      8.06      8.14 
+Verona  Fogazzaro                                 |       7.32      7.37      7.38       |       7.52      8.07      8.15 
+3 Nov.   "Ponte Cavalleggeri"                     |       7.34      7.39      7.40       |       7.54      8.09      8.17 
+3 Nov.   "Centro S.Chiara"                     7.36       7.36      7.41      7.42     7.49      7.56      8.11      8.19 
+ Piazza di Fiera                               7.37       7.37      7.42      7.43     7.50      7.57      8.12      8.20 
+ Piazza Venezia                                7.39       7.39      7.44      7.45     7.52      7.59      8.14      8.22 
+Sanzio  "Castello"                             7.42       7.42      7.47      7.48     7.55      8.02      8.17      8.25 
+Piazza Dante  Dogana                              |         |         |         |        |         |         |         | 
+Gazzoletti  Piazza Dante                       7.45       7.45      7.50      7.51     7.58      8.05      8.20      8.28 
+ Largo Sauro                                              7.47      7.52      7.53               8.07      8.22      8.30 
+ Piazza Gen. Cantore                                      7.51      7.56        |                8.11      8.26      8.34 
+Maccani  "rotatoria"                                      7.53      7.58        |                8.13      8.28      8.36 
+Brennero  "Bren Center"                                   7.56      8.01      8.00               8.16      8.31      8.39 
+Zambra  "Top Center"                                        |         |       8.01                 |         |         | 
+Guardini  "Centochiavi"                                   7.57      8.02                         8.17      8.32      8.40 
+RONCAFORT 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                  8.12      8.27     8.42      8.57      9.12      9.27      9.42      9.57 
+MATTARELLO        Catoni                         8.13      8.28     8.43      8.58      9.13      9.28      9.43      9.58 
+MATTARELLO        via Nazionale                  8.14      8.29     8.44      8.59      9.14      9.29      9.44      9.59 
+MATTARELLO        "Ronchi"                       8.15      8.30     8.45      9.00      9.15      9.30      9.45     10.00 
+SS 12  "Casteller"                               8.16      8.31     8.46      9.01      9.16      9.31      9.46     10.01 
+Stella  Marighetto                               8.17      8.32     8.47      9.02      9.17      9.32      9.47     10.02 
+Madonna Bianca  "S.Gaetano"                      8.18      8.33     8.48      9.03      9.18      9.33      9.48     10.03 
+Degasperi  "Big Center"                            |        |         |         |         |         |         |         | 
+Degasperi  la Clarina                              |        |         |         |         |         |         |         | 
+S.Pio X  Matteotti                                 |        |         |         |         |         |         |         | 
+Vittorio Veneto  "S.Giuseppe"                      |        |         |         |         |         |         |         | 
+Verona  Menguzzato                               8.19      8.34     8.49      9.04      9.19      9.34      9.49     10.04 
+Verona  "Big Center"                             8.19      8.34     8.49      9.04      9.19      9.34      9.49     10.04 
+Verona  "S.Bartolameo"                           8.21      8.36     8.51      9.06      9.21      9.36      9.51     10.06 
+Verona  Fogazzaro                                8.22      8.37     8.52      9.07      9.22      9.37      9.52     10.07 
+3 Nov.   "Ponte Cavalleggeri"                    8.24      8.39     8.54      9.09      9.24      9.39      9.54     10.09 
+3 Nov.   "Centro S.Chiara"                       8.26      8.41     8.56      9.11      9.26      9.41      9.56     10.11 
+ Piazza di Fiera                                 8.27      8.42     8.57      9.12      9.27      9.42      9.57     10.12 
+ Piazza Venezia                                  8.29      8.44     8.59      9.14      9.29      9.44      9.59     10.14 
+Sanzio  "Castello"                               8.32      8.47     9.02      9.17      9.32      9.47     10.02     10.17 
+Piazza Dante  Dogana                               |        |         |         |         |         |         |         | 
+Gazzoletti  Piazza Dante                         8.35      8.50     9.05      9.20      9.35      9.50     10.05     10.20 
+ Largo Sauro                                     8.37      8.52     9.07      9.22      9.37      9.52     10.07     10.22 
+ Piazza Gen. Cantore                             8.41      8.56     9.11      9.26      9.41      9.56     10.11     10.26 
+Maccani  "rotatoria"                             8.43      8.58     9.13      9.28      9.43      9.58     10.13     10.28 
+Brennero  "Bren Center"                          8.46      9.01     9.16      9.31      9.46     10.01     10.16     10.31 
+Zambra  "Top Center"                               |        |         |         |         |         |         |         | 
+Guardini  "Centochiavi"                          8.47      9.02     9.17      9.32      9.47     10.02     10.17     10.32 
+RONCAFORT 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                10.12     10.27     10.42     10.57     11.12    11.27     11.42     11.57 
+MATTARELLO        Catoni                       10.13     10.28     10.43     10.58     11.13    11.28     11.43     11.58 
+MATTARELLO        via Nazionale                10.14     10.29     10.44     10.59     11.14    11.29     11.44     11.59 
+MATTARELLO        "Ronchi"                     10.15     10.30     10.45     11.00     11.15    11.30     11.45     12.00 
+SS 12  "Casteller"                             10.16     10.31     10.46     11.01     11.16    11.31     11.46     12.01 
+Stella  Marighetto                             10.17     10.32     10.47     11.02     11.17    11.32     11.47     12.02 
+Madonna Bianca  "S.Gaetano"                    10.18     10.33     10.48     11.03     11.18    11.33     11.48     12.03 
+Degasperi  "Big Center"                           |         |         |         |        |         |         |         | 
+Degasperi  la Clarina                             |         |         |         |        |         |         |         | 
+S.Pio X  Matteotti                                |         |         |         |        |         |         |         | 
+Vittorio Veneto  "S.Giuseppe"                     |         |         |         |        |         |         |         | 
+Verona  Menguzzato                             10.19     10.34     10.49     11.04     11.19    11.34     11.49     12.04 
+Verona  "Big Center"                           10.19     10.34     10.49     11.04     11.19    11.34     11.49     12.04 
+Verona  "S.Bartolameo"                         10.21     10.36     10.51     11.06     11.21    11.36     11.51     12.06 
+Verona  Fogazzaro                              10.22     10.37     10.52     11.07     11.22    11.37     11.52     12.07 
+3 Nov.   "Ponte Cavalleggeri"                  10.24     10.39     10.54     11.09     11.24    11.39     11.54     12.09 
+3 Nov.   "Centro S.Chiara"                     10.26     10.41     10.56     11.11     11.26    11.41     11.56     12.11 
+ Piazza di Fiera                               10.27     10.42     10.57     11.12     11.27    11.42     11.57     12.12 
+ Piazza Venezia                                10.29     10.44     10.59     11.14     11.29    11.44     11.59     12.14 
+Sanzio  "Castello"                             10.32     10.47     11.02     11.17     11.32    11.47     12.02     12.17 
+Piazza Dante  Dogana                              |         |         |         |        |         |         |         | 
+Gazzoletti  Piazza Dante                       10.35     10.50     11.05     11.20     11.35    11.50     12.05     12.20 
+ Largo Sauro                                   10.37     10.52     11.07     11.22     11.37    11.52     12.07     12.22 
+ Piazza Gen. Cantore                           10.41     10.56     11.11     11.26     11.41    11.56     12.11     12.26 
+Maccani  "rotatoria"                           10.43     10.58     11.13     11.28     11.43    11.58     12.13     12.28 
+Brennero  "Bren Center"                        10.46     11.01     11.16     11.31     11.46    12.01     12.16     12.31 
+Zambra  "Top Center"                              |         |         |         |        |         |         |         | 
+Guardini  "Centochiavi"                        10.47     11.02     11.17     11.32     11.47    12.02     12.17     12.32 
+RONCAFORT 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                                                                                Ü 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                12.12     12.27     12.42     12.57     13.12    13.27     13.42     13.57 
+MATTARELLO        Catoni                       12.13     12.28     12.43     12.58     13.13    13.28     13.43     13.58 
+MATTARELLO        via Nazionale                12.14     12.29     12.44     12.59     13.14    13.29     13.44     13.59 
+MATTARELLO        "Ronchi"                     12.15     12.30     12.45     13.00     13.15    13.30     13.45     14.00 
+SS 12  "Casteller"                             12.16     12.31     12.46     13.01     13.16    13.31     13.46     14.01 
+Stella  Marighetto                             12.17     12.32     12.47     13.02     13.17    13.32     13.47     14.02 
+Madonna Bianca  "S.Gaetano"                    12.18     12.33     12.48     13.03     13.18    13.33     13.48     14.03 
+Degasperi  "Big Center"                           |         |         |         |        |         |         |         | 
+Degasperi  la Clarina                             |         |         |         |        |         |         |         | 
+S.Pio X  Matteotti                                |         |         |         |        |         |         |         | 
+Vittorio Veneto  "S.Giuseppe"                     |         |         |         |        |         |         |         | 
+Verona  Menguzzato                             12.19     12.34     12.49     13.04     13.19    13.34     13.49     14.04 
+Verona  "Big Center"                           12.19     12.34     12.49     13.04     13.19    13.34     13.49     14.04 
+Verona  "S.Bartolameo"                         12.21     12.36     12.51     13.06     13.21    13.36     13.51     14.06 
+Verona  Fogazzaro                              12.22     12.37     12.52     13.07     13.22    13.37     13.52     14.07 
+3 Nov.   "Ponte Cavalleggeri"                  12.24     12.39     12.54     13.09     13.24    13.39     13.54     14.09 
+3 Nov.   "Centro S.Chiara"                     12.26     12.41     12.56     13.11     13.26    13.41     13.56     14.11 
+ Piazza di Fiera                               12.27     12.42     12.57     13.12     13.27    13.42     13.57     14.12 
+ Piazza Venezia                                12.29     12.44     12.59     13.14     13.29    13.44     13.59     14.14 
+Sanzio  "Castello"                             12.32     12.47     13.02     13.17     13.32    13.47     14.02     14.17 
+Piazza Dante  Dogana                              |         |         |         |        |         |         |         | 
+Gazzoletti  Piazza Dante                       12.35     12.50     13.05     13.20     13.35    13.50     14.05     14.20 
+ Largo Sauro                                   12.37     12.52     13.07     13.22     13.37    13.52     14.07     14.22 
+ Piazza Gen. Cantore                           12.41     12.56     13.11     13.26     13.41    13.56     14.11     14.26 
+Maccani  "rotatoria"                           12.43     12.58     13.13     13.28     13.43    13.58     14.13     14.28 
+Brennero  "Bren Center"                        12.46     13.01     13.16     13.31     13.46    14.01     14.16     14.31 
+Zambra  "Top Center"                              |         |         |         |        |         |         |         | 
+Guardini  "Centochiavi"                        12.47     13.02     13.17     13.32     13.47    14.02     14.17     14.32 
+RONCAFORT 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                     Ü                   Ü                  Ü                   Ü        Ü 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                14.12     14.27    14.42     14.57     15.12     15.27    15.42 
+MATTARELLO        Catoni                       14.13     14.28    14.43     14.58     15.13     15.28    15.43 
+MATTARELLO        via Nazionale                14.14     14.29    14.44     14.59     15.14     15.29    15.44 
+MATTARELLO        "Ronchi"                     14.15     14.30    14.45     15.00     15.15     15.30    15.45 
+SS 12  "Casteller"                             14.16     14.31    14.46     15.01     15.16     15.31    15.46 
+Stella  Marighetto                             14.17     14.32    14.47     15.02     15.17     15.32    15.47 
+Madonna Bianca  "S.Gaetano"                    14.18     14.33    14.48     15.03     15.18     15.33    15.48 
+Degasperi  "Big Center"                           |        |         |         |         |        |         | 
+Degasperi  la Clarina                             |        |         |         |         |        |         | 
+S.Pio X  Matteotti                                |        |         |         |         |        |         | 
+Vittorio Veneto  "S.Giuseppe"                     |        |         |         |         |        |         | 
+Verona  Menguzzato                             14.19     14.34    14.49     15.04     15.19     15.34    15.49 
+Verona  "Big Center"                           14.19     14.34    14.49     15.04     15.19     15.34    15.49 
+Verona  "S.Bartolameo"                         14.21     14.36    14.51     15.06     15.21     15.36    15.51 
+Verona  Fogazzaro                              14.22     14.37    14.52     15.07     15.22     15.37    15.52 
+3 Nov.   "Ponte Cavalleggeri"                  14.24     14.39    14.54     15.09     15.24     15.39    15.54 
+3 Nov.   "Centro S.Chiara"                     14.26     14.41    14.56     15.11     15.26     15.41    15.56 
+ Piazza di Fiera                               14.27     14.42    14.57     15.12     15.27     15.42    15.57 
+ Piazza Venezia                                14.29     14.44    14.59     15.14     15.29     15.44    15.59 
+Sanzio  "Castello"                             14.32     14.47    15.02     15.17     15.32     15.47    16.02 
+Piazza Dante  Dogana                              |        |         |         |         |        |      16.05 
+Gazzoletti  Piazza Dante                       14.35     14.50    15.05     15.20     15.35     15.50             16.10 
+ Largo Sauro                                   14.37     14.52    15.07     15.22     15.37     15.52             16.12 
+ Piazza Gen. Cantore                           14.41     14.56    15.11     15.26     15.41     15.56             16.16 
+Maccani  "rotatoria"                           14.43     14.58    15.13     15.28     15.43     15.58             16.18 
+Brennero  "Bren Center"                        14.46     15.01    15.16     15.31     15.46     16.01             16.21 
+Zambra  "Top Center"                              |        |         |         |         |        |                   | 
+Guardini  "Centochiavi"                        14.47     15.02    15.17     15.32     15.47     16.02             16.22 
+RONCAFORT 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 6 
+
+----------------------- Page 7-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                                         Ü                  Ü         Ü 
+Linea 
+
+MATTARELLO        "Vestimenta"                                                                                     16.56 
+MATTARELLO        Piazza Perini                15.57              16.12     16.27               16.42                 | 
+MATTARELLO        Catoni                       15.58              16.13     16.28               16.43              16.58 
+MATTARELLO        via Nazionale                15.59              16.14     16.29               16.44              16.59 
+MATTARELLO        "Ronchi"                     16.00              16.15     16.30               16.45              17.00 
+SS 12  "Casteller"                             16.01              16.16     16.31               16.46              17.01 
+Stella  Marighetto                             16.02              16.17     16.32               16.47              17.02 
+Madonna Bianca  "S.Gaetano"                    16.03              16.18     16.33               16.48              17.03 
+Degasperi  "Big Center"                           |                  |         |                  |                   | 
+Degasperi  la Clarina                             |                  |         |                  |                   | 
+S.Pio X  Matteotti                                |                  |         |                  |                   | 
+Vittorio Veneto  "S.Giuseppe"                     |                  |         |                  |                   | 
+Verona  Menguzzato                             16.04              16.19     16.34               16.49              17.04 
+Verona  "Big Center"                           16.04              16.19     16.34               16.49              17.04 
+Verona  "S.Bartolameo"                         16.06              16.21     16.36               16.51              17.06 
+Verona  Fogazzaro                              16.07              16.22     16.37               16.52              17.07 
+3 Nov.   "Ponte Cavalleggeri"                  16.09              16.24     16.39               16.54              17.09 
+3 Nov.   "Centro S.Chiara"                     16.11              16.26     16.41               16.56              17.11 
+ Piazza di Fiera                               16.12              16.27     16.42               16.57              17.12 
+ Piazza Venezia                                16.14              16.29     16.44               16.59              17.14 
+Sanzio  "Castello"                             16.17              16.32     16.47               17.02              17.17 
+Piazza Dante  Dogana                           16.20              16.35     16.50               17.05              17.20 
+Gazzoletti  Piazza Dante                                16.30                        16.50              17.10 
+ Largo Sauro                                            16.32                        16.52              17.12 
+ Piazza Gen. Cantore                                    16.36                        16.56              17.16 
+Maccani  "rotatoria"                                    16.38                        16.58              17.18 
+Brennero  "Bren Center"                                 16.41                        17.01              17.21 
+Zambra  "Top Center"                                       |                             |                  | 
+Guardini  "Centochiavi"                                 16.42                        17.02              17.22 
+RONCAFORT 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 7 
+
+----------------------- Page 8-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                     Ü         Ü                            Ü         Ü 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                          17.12    17.27               17.42              17.57 
+MATTARELLO        Catoni                                 17.13    17.28               17.43              17.58 
+MATTARELLO        via Nazionale                          17.14    17.29               17.44              17.59 
+MATTARELLO        "Ronchi"                               17.15    17.30               17.45              18.00 
+SS 12  "Casteller"                                       17.16    17.31               17.46              18.01 
+Stella  Marighetto                                       17.17    17.32               17.47              18.02 
+Madonna Bianca  "S.Gaetano"                              17.18    17.33               17.48              18.03 
+Degasperi  "Big Center"                                    |         |                   |                  | 
+Degasperi  la Clarina                                      |         |                   |                  | 
+S.Pio X  Matteotti                                         |         |                   |                  | 
+Vittorio Veneto  "S.Giuseppe"                              |         |                   |                  | 
+Verona  Menguzzato                                       17.19    17.34               17.49              18.04 
+Verona  "Big Center"                                     17.19    17.34               17.49              18.04 
+Verona  "S.Bartolameo"                                   17.21    17.36               17.51              18.06 
+Verona  Fogazzaro                                        17.22    17.37               17.52              18.07 
+3 Nov.   "Ponte Cavalleggeri"                            17.24    17.39               17.54              18.09 
+3 Nov.   "Centro S.Chiara"                               17.26    17.41               17.56              18.11 
+ Piazza di Fiera                                         17.27    17.42               17.57              18.12 
+ Piazza Venezia                                          17.29    17.44               17.59              18.14 
+Sanzio  "Castello"                                       17.32    17.47               18.02              18.17 
+Piazza Dante  Dogana                                     17.35    17.50               18.05              18.20 
+Gazzoletti  Piazza Dante                      17.30                        17.50              18.10               18.25 
+ Largo Sauro                                  17.32                        17.52              18.12               18.27 
+ Piazza Gen. Cantore                          17.36                        17.56              18.16               18.31 
+Maccani  "rotatoria"                          17.38                        17.58              18.18               18.33 
+Brennero  "Bren Center"                       17.41                        18.01              18.21               18.36 
+Zambra  "Top Center"                              |                            |                  |                   | 
+Guardini  "Centochiavi"                       17.42                        18.02              18.22               18.37 
+RONCAFORT 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 8 
+
+----------------------- Page 9-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                     Ü         Ü                            Ü                   Ü 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                18.12              18.27               18.42     18.57    19.12     19.27 
+MATTARELLO        Catoni                       18.13              18.28               18.43     18.58    19.13     19.28 
+MATTARELLO        via Nazionale                18.14              18.29               18.44     18.59    19.14     19.29 
+MATTARELLO        "Ronchi"                     18.15              18.30               18.45     19.00    19.15     19.30 
+SS 12  "Casteller"                             18.16              18.31               18.46     19.01    19.16     19.31 
+Stella  Marighetto                             18.17              18.32               18.47     19.02    19.17     19.32 
+Madonna Bianca  "S.Gaetano"                    18.18              18.33               18.48     19.03    19.18     19.33 
+Degasperi  "Big Center"                           |                  |                   |        |         |         | 
+Degasperi  la Clarina                             |                  |                   |        |         |         | 
+S.Pio X  Matteotti                                |                  |                   |        |         |         | 
+Vittorio Veneto  "S.Giuseppe"                     |                  |                   |        |         |         | 
+Verona  Menguzzato                             18.19              18.34               18.49     19.04    19.19     19.34 
+Verona  "Big Center"                           18.19              18.34               18.49     19.04    19.19     19.34 
+Verona  "S.Bartolameo"                         18.21              18.36               18.51     19.06    19.21     19.36 
+Verona  Fogazzaro                              18.22              18.37               18.52     19.07    19.22     19.37 
+3 Nov.   "Ponte Cavalleggeri"                  18.24              18.39               18.54     19.09    19.24     19.39 
+3 Nov.   "Centro S.Chiara"                     18.26              18.41               18.56     19.11    19.26     19.41 
+ Piazza di Fiera                               18.27              18.42               18.57     19.12    19.27     19.42 
+ Piazza Venezia                                18.29              18.44               18.59     19.14    19.29     19.44 
+Sanzio  "Castello"                             18.32              18.47               19.02     19.17    19.32     19.47 
+Piazza Dante  Dogana                           18.35              18.50                  |        |         |         | 
+Gazzoletti  Piazza Dante                                18.40              18.55      19.05     19.20    19.35     19.50 
+ Largo Sauro                                            18.42              18.57      19.07     19.22    19.37     19.52 
+ Piazza Gen. Cantore                                    18.46              19.01      19.11     19.26    19.41     19.56 
+Maccani  "rotatoria"                                    18.48              19.03      19.13     19.28    19.43     19.58 
+Brennero  "Bren Center"                                 18.51              19.06      19.16     19.31    19.46     20.01 
+Zambra  "Top Center"                                       |                   |         |        |         |         | 
+Guardini  "Centochiavi"                                 18.52              19.07      19.17     19.32    19.47     20.02 
+RONCAFORT 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 9 
+
+----------------------- Page 10-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza                                      Ü                  Ü                   Ü 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                19.42     19.57     20.12     20.27    20.47     21.07     21.30     22.00 
+MATTARELLO        Catoni                       19.43     19.58     20.13     20.28    20.48     21.08     21.31     22.01 
+MATTARELLO        via Nazionale                19.44     19.59     20.14     20.29    20.49     21.09     21.32     22.02 
+MATTARELLO        "Ronchi"                     19.45     20.00     20.15     20.30    20.50     21.10     21.33     22.03 
+SS 12  "Casteller"                             19.46     20.01     20.16     20.31    20.51     21.11     21.34     22.04 
+Stella  Marighetto                             19.47     20.02     20.17     20.32    20.52     21.12     21.35     22.05 
+Madonna Bianca  "S.Gaetano"                    19.48     20.03     20.18     20.33    20.53     21.13     21.36     22.06 
+Degasperi  "Big Center"                           |         |         |         |        |         |      21.37     22.07 
+Degasperi  la Clarina                             |         |         |         |        |         |      21.38     22.08 
+S.Pio X  Matteotti                                |         |         |         |        |         |      21.40     22.10 
+Vittorio Veneto  "S.Giuseppe"                     |         |         |         |        |         |      21.40     22.10 
+Verona  Menguzzato                             19.49     20.04     20.19     20.34    20.53     21.13        |         | 
+Verona  "Big Center"                           19.49     20.04     20.19     20.34    20.53     21.13        |         | 
+Verona  "S.Bartolameo"                         19.51     20.06     20.21     20.36    20.55     21.15        |         | 
+Verona  Fogazzaro                              19.52     20.07     20.22     20.37    20.56     21.16        |         | 
+3 Nov.   "Ponte Cavalleggeri"                  19.54     20.09     20.24     20.39    20.57     21.17        |         | 
+3 Nov.   "Centro S.Chiara"                     19.56     20.11     20.26     20.41    20.58     21.18     21.43     22.13 
+ Piazza di Fiera                               19.57     20.12     20.27     20.42    20.59     21.19     21.44     22.14 
+ Piazza Venezia                                19.59     20.14     20.29     20.44    21.01     21.21     21.46     22.16 
+Sanzio  "Castello"                             20.02     20.17     20.32     20.47    21.03     21.23     21.48     22.18 
+Piazza Dante  Dogana                              |         |         |         |        |         |         |         | 
+Gazzoletti  Piazza Dante                       20.05     20.20     20.35     20.50    21.05     21.25     21.50     22.20 
+ Largo Sauro                                   20.07     20.22     20.37     20.52    21.07     21.27     21.52     22.22 
+ Piazza Gen. Cantore                           20.11     20.26     20.41     20.56    21.10     21.30     21.55     22.25 
+Maccani  "rotatoria"                           20.13     20.28     20.43     20.58    21.12     21.32     21.57     22.27 
+Brennero  "Bren Center"                        20.16        |         |         |        |         |         |         | 
+Zambra  "Top Center"                              |         |         |         |        |         |         |         | 
+Guardini  "Centochiavi"                        20.17        |         |         |        |         |         |         | 
+RONCAFORT                                                20.34     20.49     21.04    21.16     21.36     22.01     22.31 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                               Pag. 10 
+
+----------------------- Page 11-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    8      Mattarello -  Piazza Dante -  Centochiavi 
+
+Frequenza 
+Linea 
+
+MATTARELLO        "Vestimenta" 
+MATTARELLO        Piazza Perini                 22.30     23.00    23.30 
+MATTARELLO        Catoni                        22.31     23.01    23.31 
+MATTARELLO        via Nazionale                 22.32     23.02    23.32 
+MATTARELLO        "Ronchi"                      22.33     23.03    23.33 
+SS 12  "Casteller"                              22.34     23.04    23.34 
+Stella  Marighetto                              22.35     23.05    23.35 
+Madonna Bianca  "S.Gaetano"                     22.36     23.06    23.36 
+Degasperi  "Big Center"                         22.37     23.07    23.37 
+Degasperi  la Clarina                           22.38     23.08    23.38 
+S.Pio X  Matteotti                              22.40     23.10    23.40 
+Vittorio Veneto  "S.Giuseppe"                   22.40     23.10    23.40 
+Verona  Menguzzato                                 |        |         | 
+Verona  "Big Center"                               |        |         | 
+Verona  "S.Bartolameo"                             |        |         | 
+Verona  Fogazzaro                                  |        |         | 
+3 Nov.   "Ponte Cavalleggeri"                      |        |         | 
+3 Nov.   "Centro S.Chiara"                      22.43     23.13    23.43 
+ Piazza di Fiera                                22.44     23.14    23.44 
+ Piazza Venezia                                 22.46     23.16    23.46 
+Sanzio  "Castello"                              22.48     23.18    23.48 
+Piazza Dante  Dogana                               |        |         | 
+Gazzoletti  Piazza Dante                        22.50     23.20    23.50 
+ Largo Sauro                                    22.52     23.22    23.52 
+ Piazza Gen. Cantore                            22.55     23.25    23.55 
+Maccani  "rotatoria"                            22.57     23.27    23.57 
+Brennero  "Bren Center"                            |        |         | 
+Zambra  "Top Center"                               |        |         | 
+Guardini  "Centochiavi"                            |        |         | 
+RONCAFORT                                       23.01     23.31     0.01 
+
+Frequenze 
+  Þ    Scolastica da Lunedì a Venerdì 
+  Ü    Feriale da Lunedì a Venerdì 
+  Ý    Scolastica da Lunedì a Sabato 
+
+www.eureka.ra.it                                                                                                   Pag. 11 

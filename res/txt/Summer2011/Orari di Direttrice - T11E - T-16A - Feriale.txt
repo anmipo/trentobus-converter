@@ -1,0 +1,39 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                        ORARIO FERIALE 
+
+                                                   ORARIO Trento Estate 2011     Valido dal 12/06/2011 al 11/09/2011 
+
+   16     Centochiavi-Martignano-Cognola-Povo 
+
+Frequenza                                    Ü        Ü         Ü        Ü         Ü        Ü         Ü        Ü 
+Linea 
+
+Trener  "3 Torri PAT"                                  12.10                                 17.10 
+Guardini  "Centochiavi"                       7.50     12.10     13.10    14.10     15.10    17.10     18.10    19.10 
+Guardini  Gilli                               7.51     12.11     13.11    14.11     15.11    17.11     18.11    19.11 
+Zambra  "Top Center"                          7.52     12.12     13.12    14.12     15.12    17.12     18.12    19.12 
+Zambra  "Ist. d'Arte Vittoria"                7.52     12.12     13.12    14.12     15.12    17.12     18.12    19.12 
+MARTIGNANO  Capitel                             |      12.17     13.17    14.17     15.17    17.17     18.17    19.17 
+MARTIGNANO  Castori                             |      12.18     13.18    14.18     15.18    17.18     18.18    19.18 
+MARTIGNANO  Cesarini                            |      12.19     13.19    14.19     15.19    17.19     18.19    19.19 
+MARTIGNANO  "Chiesa"                            |      12.20     13.20    14.20     15.20    17.20     18.20    19.20 
+MARTIGNANO  Formigheta                          |      12.21     13.21    14.21     15.21    17.21     18.21    19.21 
+SP 131  "Maso Pradiscola"                       |      12.22     13.22    14.22     15.22    17.22     18.22    19.22 
+ZELL  Marnighe                                  |      12.23     13.23    14.23     15.23    17.23     18.23    19.23 
+COGNOLA      "Chiesa"                           |      12.24     13.24    14.24     15.24    17.24     18.24    19.24 
+COGNOLA      S.Vito                             |      12.25     13.25    14.25     15.25    17.25     18.25    19.25 
+SAN VITO                                        |      12.26     13.26    14.26     15.26    17.26     18.26    19.26 
+SAN DONÀ                                      8.00     12.27     13.27    14.27     15.27    17.27     18.27    19.27 
+MESIANO  "Fac. Ingegneria"                    8.02     12.29     13.29    14.29     15.29    17.29     18.29    19.29 
+MESIANO      "Stazione FS"                    8.03     12.30     13.30    14.30     15.30    17.30     18.30    19.30 
+POVO  Valoni                                  8.03     12.30     13.30    14.30     15.30    17.30     18.30    19.30 
+POVO  Pantè                                   8.05     12.32     13.32    14.32     15.32    17.32     18.32    19.32 
+POVO  Piazza Manci                            8.06     12.33     13.33    14.33     15.33    17.33     18.33    19.33 
+POVO  S.Agata                                 8.06     12.33     13.33    14.33     15.33    17.33     18.33    19.33 
+POVO  "Polo sociale"                          8.07     12.34     13.34    14.34     15.34    17.34     18.34    19.34 
+
+Frequenze 
+  Ü    Feriale da lunedì a venerdì 
+
+www.eureka.ra.it                                                                                               Pag. 1 

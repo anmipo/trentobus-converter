@@ -1,0 +1,260 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza                                                                   Ü 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                                                            6.50      7.15      7.35      7.55 
+Gazzoletti  Piazza Dante                                                               6.50      7.15      7.35      7.55 
+ Largo Sauro                                                                           6.52      7.17      7.37      7.57 
+Brennero  "ex Scalo Filzi"                                                             6.54      7.19      7.39      7.59 
+Brennero  Marconi                                                                      6.56      7.21      7.41      8.01 
+Marconi   Brennero                                                                       |         |         |         | 
+Solteri  "Nido La Trottola"                                                              |         |         |         | 
+Solteri  Largaiolli                                                                      |         |         |         | 
+Centochiavi  Dalla Fior                                                                  |         |         |         | 
+ "Parco di Melta"                                                                        |         |         |         | 
+MELTA  centro                                                                            |         |         |         | 
+GARDOLO       Don Milani 8 marzo                                                         |         |         |         | 
+GARDOLO       Piazza Libertà                                                             |         |         |         | 
+GARDOLO       S.Anna                                                                     |         |         |         | 
+GARDOLO       S.Anna  Carpenedi                                                          |         |         |         | 
+Brennero  "Tridente"                                                6.46               6.58      7.23      7.43      8.03 
+Brennero  "Bren Center"                                             6.47               6.59      7.24      7.44      8.04 
+SS 12  Canova                                                       6.48               7.00      7.25      7.45      8.05 
+SS 12  Talvera                                                      6.49               7.01      7.26      7.46      8.06 
+SS 12  "Pioppeto"                                                   6.50               7.02      7.27      7.47      8.07 
+SS 12  "Zona Ind.le FTM"                                            6.53               7.05      7.30      7.50      8.10 
+LAMAR  "Via rossa"                                                  6.54               7.06      7.31      7.51      8.11 
+LAMAR  "FTM"                                   6.25      6.45       6.55     7.06      7.07      7.32      7.52      8.12 
+LAMAR  ponte Avisio                            6.27      6.47       6.57     7.08      7.09      7.34      7.54      8.14 
+LAVIS    "stazione FTM"                        6.29      6.49       6.59     7.10      7.11      7.36      7.56      8.16 
+LAVIS    Cembra                                6.30      6.50       7.00     7.11      7.12      7.37      7.57      8.17 
+LAVIS    Rosmini  Segantini                    6.31      6.51       7.01     7.12      7.13      7.38      7.58      8.18 
+SAN LAZZARO        ponte Avisio                 6.36     6.56       7.06     7.17      7.21      7.46      8.06      8.26 
+SPINI DI GARDOLO 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011       Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                      8.15      8.35      8.55      9.15      9.35      9.55     10.15     10.35 
+Gazzoletti  Piazza Dante                         8.15      8.35      8.55      9.15      9.35      9.55     10.15     10.35 
+ Largo Sauro                                     8.17      8.37      8.57      9.17      9.37      9.57     10.17     10.37 
+Brennero  "ex Scalo Filzi"                       8.19      8.39      8.59      9.19      9.39      9.59     10.19     10.39 
+Brennero  Marconi                                8.21      8.41      9.01      9.21      9.41     10.01     10.21     10.41 
+Marconi    Brennero                                |         |         |         |         |         |         |         | 
+Solteri  "Nido La Trottola"                        |         |         |         |         |         |         |         | 
+Solteri  Largaiolli                                |         |         |         |         |         |         |         | 
+Centochiavi  Dalla Fior                            |         |         |         |         |         |         |         | 
+ "Parco di Melta"                                  |         |         |         |         |         |         |         | 
+MELTA  centro                                      |         |         |         |         |         |         |         | 
+GARDOLO       Don Milani 8 marzo                   |         |         |         |         |         |         |         | 
+GARDOLO       Piazza Libertà                       |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna                               |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna  Carpenedi                    |         |         |         |         |         |         |         | 
+Brennero  "Tridente"                             8.23      8.43      9.03      9.23      9.43     10.03     10.23     10.43 
+Brennero  "Bren Center"                          8.24      8.44      9.04      9.24      9.44     10.04     10.24     10.44 
+SS 12  Canova                                    8.25      8.45      9.05      9.25      9.45     10.05     10.25     10.45 
+SS 12  Talvera                                   8.26      8.46      9.06      9.26      9.46     10.06     10.26     10.46 
+SS 12  "Pioppeto"                                8.27      8.47      9.07      9.27      9.47     10.07     10.27     10.47 
+SS 12  "Zona Ind.le FTM"                         8.30      8.50      9.10      9.30      9.50     10.10     10.30     10.50 
+LAMAR  "Via rossa"                               8.31      8.51      9.11      9.31      9.51     10.11     10.31     10.51 
+LAMAR  "FTM"                                     8.32      8.52      9.12      9.32      9.52     10.12     10.32     10.52 
+LAMAR  ponte Avisio                              8.34      8.54      9.14      9.34      9.54     10.14     10.34     10.54 
+LAVIS    "stazione FTM"                          8.36      8.56      9.16      9.36      9.56     10.16     10.36     10.56 
+LAVIS    Cembra                                  8.37      8.57      9.17      9.37      9.57     10.17     10.37     10.57 
+LAVIS    Rosmini  Segantini                      8.38      8.58      9.18      9.38      9.58     10.18     10.38     10.58 
+SAN LAZZARO        ponte Avisio                  8.46      9.06      9.26      9.46    10.06      10.26     10.46     11.06 
+SPINI DI GARDOLO 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                  Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011       Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                     10.55     11.15     11.35     11.55     12.15     12.35     12.55     13.15 
+Gazzoletti  Piazza Dante                        10.55     11.15     11.35     11.55     12.15     12.35     12.55     13.15 
+ Largo Sauro                                    10.57     11.17     11.37     11.57     12.17     12.37     12.57     13.17 
+Brennero  "ex Scalo Filzi"                      10.59     11.19     11.39     11.59     12.19     12.39     12.59     13.19 
+Brennero  Marconi                               11.01     11.21     11.41     12.01     12.21     12.41     13.01     13.21 
+Marconi    Brennero                                |         |         |         |         |         |         |         | 
+Solteri  "Nido La Trottola"                        |         |         |         |         |         |         |         | 
+Solteri  Largaiolli                                |         |         |         |         |         |         |         | 
+Centochiavi  Dalla Fior                            |         |         |         |         |         |         |         | 
+ "Parco di Melta"                                  |         |         |         |         |         |         |         | 
+MELTA  centro                                      |         |         |         |         |         |         |         | 
+GARDOLO       Don Milani 8 marzo                   |         |         |         |         |         |         |         | 
+GARDOLO       Piazza Libertà                       |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna                               |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna  Carpenedi                    |         |         |         |         |         |         |         | 
+Brennero  "Tridente"                            11.03     11.23     11.43     12.03     12.23     12.43     13.03     13.23 
+Brennero  "Bren Center"                         11.04     11.24     11.44     12.04     12.24     12.44     13.04     13.24 
+SS 12  Canova                                   11.05     11.25     11.45     12.05     12.25     12.45     13.05     13.25 
+SS 12  Talvera                                  11.06     11.26     11.46     12.06     12.26     12.46     13.06     13.26 
+SS 12  "Pioppeto"                               11.07     11.27     11.47     12.07     12.27     12.47     13.07     13.27 
+SS 12  "Zona Ind.le FTM"                        11.10     11.30     11.50     12.10     12.30     12.50     13.10     13.30 
+LAMAR  "Via rossa"                              11.11     11.31     11.51     12.11     12.31     12.51     13.11     13.31 
+LAMAR  "FTM"                                    11.12     11.32     11.52     12.12     12.32     12.52     13.12     13.32 
+LAMAR  ponte Avisio                             11.14     11.34     11.54     12.14     12.34     12.54     13.14     13.34 
+LAVIS    "stazione FTM"                         11.16     11.36     11.56     12.16     12.36     12.56     13.16     13.36 
+LAVIS    Cembra                                 11.17     11.37     11.57     12.17     12.37     12.57     13.17     13.37 
+LAVIS    Rosmini  Segantini                     11.18     11.38     11.58     12.18     12.38     12.58     13.18     13.38 
+SAN LAZZARO        ponte Avisio                 11.26     11.46     12.06     12.26     12.46     13.06     13.26 
+SPINI DI GARDOLO 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                  Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza                                                          Ü                            Ü 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                     13.35     13.55     14.15    14.35     14.55     15.15     15.35     15.55 
+Gazzoletti  Piazza Dante                        13.35     13.55     14.15    14.35     14.55     15.15     15.35     15.55 
+ Largo Sauro                                    13.37     13.57     14.17    14.37     14.57     15.17     15.37     15.57 
+Brennero  "ex Scalo Filzi"                      13.39     13.59     14.19    14.39     14.59     15.19     15.39     15.59 
+Brennero  Marconi                               13.41     14.01     14.21    14.41     15.01     15.21     15.41     16.01 
+Marconi   Brennero                                |         |         |         |         |         |         |         | 
+Solteri  "Nido La Trottola"                       |         |         |         |         |         |         |         | 
+Solteri  Largaiolli                               |         |         |         |         |         |         |         | 
+Centochiavi  Dalla Fior                           |         |         |         |         |         |         |         | 
+ "Parco di Melta"                                 |         |         |         |         |         |         |         | 
+MELTA  centro                                     |         |         |         |         |         |         |         | 
+GARDOLO       Don Milani 8 marzo                  |         |         |         |         |         |         |         | 
+GARDOLO       Piazza Libertà                      |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna                              |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna  Carpenedi                   |         |         |         |         |         |         |         | 
+Brennero  "Tridente"                            13.43     14.03     14.23    14.43     15.03     15.23     15.43     16.03 
+Brennero  "Bren Center"                         13.44     14.04     14.24    14.44     15.04     15.24     15.44     16.04 
+SS 12  Canova                                   13.45     14.05     14.25    14.45     15.05     15.25     15.45     16.05 
+SS 12  Talvera                                  13.46     14.06     14.26    14.46     15.06     15.26     15.46     16.06 
+SS 12  "Pioppeto"                               13.47     14.07     14.27    14.47     15.07     15.27     15.47     16.07 
+SS 12  "Zona Ind.le FTM"                        13.50     14.10     14.30    14.50     15.10     15.30     15.50     16.10 
+LAMAR  "Via rossa"                              13.51     14.11     14.31    14.51     15.11     15.31     15.51     16.11 
+LAMAR  "FTM"                                    13.52     14.12     14.32    14.52     15.12     15.32     15.52     16.12 
+LAMAR  ponte Avisio                             13.54     14.14     14.34    14.54     15.14     15.34     15.54     16.14 
+LAVIS    "stazione FTM"                         13.56     14.16     14.36    14.56     15.16     15.36     15.56     16.16 
+LAVIS    Cembra                                 13.57     14.17     14.37    14.57     15.17     15.37     15.57     16.17 
+LAVIS    Rosmini  Segantini                     13.58     14.18     14.38    14.58     15.18     15.38     15.58     16.18 
+SAN LAZZARO        ponte Avisio                 14.06     14.26     14.46    15.06     15.26     15.46     16.06     16.26 
+SPINI DI GARDOLO 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza                                      Ü                             Ü                            Ü 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                     16.15     16.35     16.55    17.15     17.35     17.55     18.15     18.35 
+Gazzoletti  Piazza Dante                        16.15     16.35     16.55    17.15     17.35     17.55     18.15     18.35 
+ Largo Sauro                                    16.17     16.37     16.57    17.17     17.37     17.57     18.17     18.37 
+Brennero  "ex Scalo Filzi"                      16.19     16.39     16.59    17.19     17.39     17.59     18.19     18.39 
+Brennero  Marconi                               16.21     16.41     17.01    17.21     17.41     18.01     18.21     18.41 
+Marconi   Brennero                                |         |         |         |         |         |         |         | 
+Solteri  "Nido La Trottola"                       |         |         |         |         |         |         |         | 
+Solteri  Largaiolli                               |         |         |         |         |         |         |         | 
+Centochiavi  Dalla Fior                           |         |         |         |         |         |         |         | 
+ "Parco di Melta"                                 |         |         |         |         |         |         |         | 
+MELTA  centro                                     |         |         |         |         |         |         |         | 
+GARDOLO       Don Milani 8 marzo                  |         |         |         |         |         |         |         | 
+GARDOLO       Piazza Libertà                      |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna                              |         |         |         |         |         |         |         | 
+GARDOLO       S.Anna  Carpenedi                   |         |         |         |         |         |         |         | 
+Brennero  "Tridente"                            16.23     16.43     17.03    17.23     17.43     18.03     18.23     18.43 
+Brennero  "Bren Center"                         16.24     16.44     17.04    17.24     17.44     18.04     18.24     18.44 
+SS 12  Canova                                   16.25     16.45     17.05    17.25     17.45     18.05     18.25     18.45 
+SS 12  Talvera                                  16.26     16.46     17.06    17.26     17.46     18.06     18.26     18.46 
+SS 12  "Pioppeto"                               16.27     16.47     17.07    17.27     17.47     18.07     18.27     18.47 
+SS 12  "Zona Ind.le FTM"                        16.30     16.50     17.10    17.30     17.50     18.10     18.30     18.50 
+LAMAR  "Via rossa"                              16.31     16.51     17.11    17.31     17.51     18.11     18.31     18.51 
+LAMAR  "FTM"                                    16.32     16.52     17.12    17.32     17.52     18.12     18.32     18.52 
+LAMAR  ponte Avisio                             16.34     16.54     17.14    17.34     17.54     18.14     18.34     18.54 
+LAVIS    "stazione FTM"                         16.36     16.56     17.16    17.36     17.56     18.16     18.36     18.56 
+LAVIS    Cembra                                 16.37     16.57     17.17    17.37     17.57     18.17     18.37     18.57 
+LAVIS    Rosmini  Segantini                     16.38     16.58     17.18    17.38     17.58     18.18     18.38     18.58 
+SAN LAZZARO        ponte Avisio                 16.46     17.06     17.26    17.46     18.06     18.26     18.46     19.06 
+SPINI DI GARDOLO 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   17      Piazza Dante - Via Bolzano - Lavis 
+
+Frequenza                                               Ü 
+Linea 
+
+Piazza Dante  "Palazzo PAT"                    18.55     19.15     19.35     19.55    20.35     21.35     22.35     23.35 
+Gazzoletti  Piazza Dante                       18.55     19.15     19.35     19.55    20.35     21.35     22.35     23.35 
+ Largo Sauro                                   18.57     19.17     19.37     19.57    20.37     21.37     22.37     23.37 
+Brennero  "ex Scalo Filzi"                     18.59     19.19     19.39     19.59    20.39     21.39     22.39     23.39 
+Brennero  Marconi                              19.01     19.21     19.41     20.01    20.41     21.40     22.40     23.40 
+Marconi   Brennero                                |         |         |         |        |      21.41     22.41     23.41 
+Solteri  "Nido La Trottola"                       |         |         |         |        |      21.42     22.42     23.42 
+Solteri  Largaiolli                               |         |         |         |        |      21.43     22.43     23.43 
+Centochiavi  Dalla Fior                           |         |         |         |        |      21.43     22.43     23.43 
+ "Parco di Melta"                                 |         |         |         |        |      21.44     22.44     23.44 
+MELTA  centro                                     |         |         |         |        |      21.45     22.45     23.45 
+GARDOLO       Don Milani 8 marzo                  |         |         |         |        |      21.46     22.46     23.46 
+GARDOLO       Piazza Libertà                      |         |         |         |        |      21.47     22.47     23.47 
+GARDOLO       S.Anna                              |         |         |         |        |      21.48     22.48     23.48 
+GARDOLO       S.Anna  Carpenedi                   |         |         |         |        |      21.49     22.49     23.49 
+Brennero  "Tridente"                           19.03     19.23     19.43     20.03    20.43        |         |         | 
+Brennero  "Bren Center"                        19.04     19.24     19.44     20.04    20.44        |         |         | 
+SS 12  Canova                                  19.05     19.25     19.45     20.05    20.45        |         |         | 
+SS 12  Talvera                                 19.06     19.26     19.46     20.06    20.46        |         |         | 
+SS 12  "Pioppeto"                              19.07     19.27     19.47     20.07    20.47        |         |         | 
+SS 12  "Zona Ind.le FTM"                       19.10     19.30     19.50     20.10    20.50     21.50     22.50     23.50 
+LAMAR  "Via rossa"                             19.11     19.31     19.51     20.11    20.51     21.51     22.51     23.51 
+LAMAR  "FTM"                                   19.12     19.32     19.52     20.12    20.52     21.52     22.52     23.52 
+LAMAR  ponte Avisio                            19.14     19.34     19.54     20.14    20.54     21.54     22.54     23.54 
+LAVIS    "stazione FTM"                        19.16     19.36     19.56     20.16    20.56     21.55     22.55     23.55 
+LAVIS    Cembra                                19.17     19.37     19.57     20.17    20.57     21.56     22.56     23.56 
+LAVIS    Rosmini  Segantini                    19.18     19.38     19.58     20.18    20.58     21.57     22.57     23.57 
+SAN LAZZARO        ponte Avisio                19.26     19.46     20.06     20.23    21.03     22.03     23.03      0.03 
+SPINI DI GARDOLO                                                                      21.09     22.09     23.09      0.09 
+
+Frequenze 
+  Ü    Feriale da lunedì a venerdì 
+
+www.eureka.ra.it                                                                                                   Pag. 6 

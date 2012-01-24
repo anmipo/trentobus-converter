@@ -1,0 +1,357 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                          ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza                                     Ü                                                          Ý        Ý 
+Linea                                                                                                              8 
+
+SOPRAMONTE  "Maso Banal"                        5.10               6.02                6.38     7.01      7.03      7.05 
+SOPRAMONTE         Piazza Centro                5.12               6.08      6.33      6.48     7.03      7.05      7.07 
+SOPRAMONTE         bivio Baselga                5.13               6.09      6.34      6.49     7.04      7.06      7.08 
+SOPRAMONTE         "Valle"                      5.14               6.10        |       6.50     7.05      7.07      7.09 
+BASELGA DEL BONDONE                             5.16               6.12        |       6.52     7.07      7.09      7.11 
+CADINE  Strada Gardesana                        5.20               6.16        |       6.56     7.11      7.13      7.15 
+SP 85  "Soraval"                                  |                  |       6.36        |        |         |         | 
+ "Forte Bus de Vela"                            5.22               6.18      6.38      6.58     7.13      7.15      7.17 
+Brescia  "Ca dei Gai"                           5.26               6.22      6.42      7.02     7.17      7.19      7.21 
+Brescia  "Piedicastello"                        5.27               6.23      6.43      7.03     7.18      7.20      7.22 
+S.Lorenzo  "Funivia"                            5.29               6.25      6.45      7.05     7.20      7.22      7.24 
+ Cavalcavia S.Lorenzo                           5.29               6.25      6.45      7.05     7.20      7.22      7.24 
+Fermi  la Clarina                                 |                  |         |         |        |         |       7.35 
+Gazzoletti  Piazza Dante                        5.31     5.42      6.27      6.47      7.07     7.22      7.24      7.58 
+ "Castello Buonconsiglio"                                5.44      6.29      6.49      7.09               7.26 
+S.Francesco  Porta Nuova                                 5.46      6.31      6.51      7.11               7.28 
+Barbacovi   "ITG Pozzo"                                  5.47      6.33      6.53      7.13               7.30 
+ Piazza Vicenza                                          5.48      6.34      6.54      7.14               7.31 
+Asiago  "Bellevue"                                       5.50      6.37      6.57      7.17 
+Asiago  "Cernidor"                                       5.51      6.38      6.58      7.18 
+Asiago  S.Bartolameo                                     5.52      6.39      6.59      7.19 
+Asiago "Villazzano FS"                                     |       6.40        |         | 
+Conci   "Villazzano 3"                                     |       6.41        |         | 
+SAN ROCCO  Piazza                                          |       6.44        |         | 
+SS 349  Pozzata                                            |       6.46        |         | 
+VILLAZZANO  "Stazione FS"                                5.52        |       7.00      7.20 
+VILLAZZANO  "Villa Tambosi"                              5.53      6.46      7.01      7.21 
+VILLAZZANO  "Chiesa"                                     5.55      6.48      7.03      7.23 
+VILLAZZANO  Piazza Nicolini                              5.55      6.48      7.03      7.24 
+GROTTA  Piazza                                           6.00                7.08      7.29 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                                   7.22     7.42                7.57      8.17      8.37      9.08 
+SOPRAMONTE         Piazza Centro                 7.13      7.28     7.48      8.03      8.13      8.33      8.48      9.13 
+SOPRAMONTE         bivio Baselga                 7.14      7.29     7.49      8.04      8.14      8.34      8.49      9.14 
+SOPRAMONTE         "Valle"                         |        |       7.50        |         |         |       8.50        | 
+BASELGA DEL BONDONE                                |        |       7.52        |         |         |       8.52        | 
+CADINE  Strada Gardesana                           |        |       7.56        |         |         |       8.56        | 
+SP 85  "Soraval"                                 7.16      7.31       |       8.06      8.16      8.36        |       9.16 
+ "Forte Bus de Vela"                             7.18      7.33     7.58      8.08      8.18      8.38      8.58      9.18 
+Brescia  "Ca dei Gai"                            7.22      7.37     8.02      8.12      8.22      8.42      9.02      9.22 
+Brescia  "Piedicastello"                         7.23      7.38     8.03      8.13      8.23      8.43      9.03      9.23 
+S.Lorenzo  "Funivia"                             7.25      7.40     8.05      8.15      8.25      8.45      9.05      9.25 
+ Cavalcavia S.Lorenzo                            7.25      7.40     8.05      8.15      8.25      8.45      9.05      9.25 
+Fermi  la Clarina                                  |        |         |         |         |         |         |         | 
+Gazzoletti  Piazza Dante                         7.27      7.42     8.07      8.17      8.27      8.47      9.07      9.27 
+ "Castello Buonconsiglio"                        7.29      7.44     8.09                8.29      8.49      9.09      9.29 
+S.Francesco  Porta Nuova                         7.31      7.46     8.11                8.31      8.51      9.11      9.31 
+Barbacovi    "ITG Pozzo"                         7.33      7.48     8.13                8.33      8.53      9.13      9.33 
+ Piazza Vicenza                                  7.34      7.49     8.14                8.34      8.54      9.14      9.34 
+Asiago  "Bellevue"                               7.37      7.52     8.17                8.37      8.57      9.17      9.37 
+Asiago  "Cernidor"                               7.38      7.53     8.18                8.38      8.58      9.18      9.38 
+Asiago  S.Bartolameo                             7.39      7.54     8.19                8.39      8.59      9.19      9.39 
+Asiago "Villazzano FS"                             |        |         |                   |         |         |         | 
+Conci   "Villazzano 3"                             |        |         |                   |         |         |         | 
+SAN ROCCO  Piazza                                  |        |         |                   |         |         |         | 
+SS 349  Pozzata                                    |        |         |                   |         |         |         | 
+VILLAZZANO  "Stazione FS"                        7.40      7.55     8.20                8.40      9.00      9.20      9.40 
+VILLAZZANO  "Villa Tambosi"                      7.41      7.56     8.21                8.41      9.01      9.21      9.41 
+VILLAZZANO  "Chiesa"                             7.43      7.58     8.23                8.43      9.03      9.23      9.43 
+VILLAZZANO  Piazza Nicolini                      7.44      7.58     8.23                8.43      9.03      9.23      9.43 
+GROTTA  Piazza                                   7.49      8.03     8.28                8.48      9.08      9.28      9.48 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                        9.22      9.42     10.08     10.22     10.42    11.08     11.22     11.42 
+SOPRAMONTE         Piazza Centro                9.33      9.48     10.13     10.33     10.48    11.13     11.33     11.53 
+SOPRAMONTE         bivio Baselga                9.34      9.49     10.14     10.34     10.49    11.14     11.34     11.54 
+SOPRAMONTE         "Valle"                        |       9.50        |        |       10.50       |         |      11.55 
+BASELGA DEL BONDONE                               |       9.52        |        |       10.52       |         |      11.57 
+CADINE  Strada Gardesana                          |       9.56        |        |       10.56       |         |      12.01 
+SP 85  "Soraval"                                9.36        |      10.16     10.36       |      11.16     11.36        | 
+ "Forte Bus de Vela"                            9.38      9.58     10.18     10.38     10.58    11.18     11.38     12.03 
+Brescia  "Ca dei Gai"                           9.42     10.02     10.22     10.42     11.02    11.22     11.42     12.07 
+Brescia  "Piedicastello"                        9.43     10.03     10.23     10.43     11.03    11.23     11.43     12.08 
+S.Lorenzo  "Funivia"                            9.45     10.05     10.25     10.45     11.05    11.25     11.45     12.10 
+ Cavalcavia S.Lorenzo                           9.45     10.05     10.25     10.45     11.05    11.25     11.45     12.10 
+Fermi  la Clarina                                 |         |         |        |         |         |         |         | 
+Gazzoletti  Piazza Dante                        9.47     10.07     10.27     10.47     11.07    11.27     11.47     12.12 
+ "Castello Buonconsiglio"                       9.49     10.09     10.29     10.49     11.09    11.29     11.49     12.14 
+S.Francesco  Porta Nuova                        9.51     10.11     10.31     10.51     11.11    11.31     11.51     12.16 
+Barbacovi    "ITG Pozzo"                        9.53     10.13     10.33     10.53     11.13    11.33     11.53     12.18 
+ Piazza Vicenza                                 9.54     10.14     10.34     10.54     11.14    11.34     11.54     12.19 
+Asiago  "Bellevue"                              9.57     10.17     10.37     10.57     11.17    11.37     11.57     12.22 
+Asiago  "Cernidor"                              9.58     10.18     10.38     10.58     11.18    11.38     11.58     12.23 
+Asiago  S.Bartolameo                            9.59     10.19     10.39     10.59     11.19    11.39     11.59     12.24 
+Asiago "Villazzano FS"                            |         |         |        |         |         |         |         | 
+Conci   "Villazzano 3"                            |         |         |        |         |         |         |         | 
+SAN ROCCO  Piazza                                 |         |         |        |         |         |         |         | 
+SS 349  Pozzata                                   |         |         |        |         |         |         |         | 
+VILLAZZANO  "Stazione FS"                      10.00     10.20     10.40     11.00     11.20    11.40     12.00     12.25 
+VILLAZZANO  "Villa Tambosi"                    10.01     10.21     10.41     11.01     11.21    11.41     12.01     12.26 
+VILLAZZANO  "Chiesa"                           10.03     10.23     10.43     11.03     11.23    11.43     12.03     12.28 
+VILLAZZANO  Piazza Nicolini                    10.03     10.23     10.43     11.03     11.23    11.43     12.03     12.29 
+GROTTA  Piazza                                 10.08     10.28     10.48     11.08     11.28    11.48     12.08     12.34 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza                                               Ý                             Þ 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                       12.08               12.27     12.42     12.58    13.08     13.28     13.42 
+SOPRAMONTE         Piazza Centro               12.13               12.33     12.48     13.06    13.13     13.33     13.48 
+SOPRAMONTE         bivio Baselga               12.14               12.34     12.49     13.07    13.14     13.34     13.49 
+SOPRAMONTE         "Valle"                        |                   |      12.50     13.08       |         |      13.50 
+BASELGA DEL BONDONE                               |                   |      12.52     13.10       |         |      13.52 
+CADINE  Strada Gardesana                          |                   |      12.56     13.14       |         |      13.56 
+SP 85  "Soraval"                               12.16               12.36       |         |      13.16     13.36        | 
+ "Forte Bus de Vela"                           12.18               12.38     12.58     13.16    13.18     13.38     13.58 
+Brescia  "Ca dei Gai"                          12.22               12.42     13.02     13.20    13.22     13.42     14.02 
+Brescia  "Piedicastello"                       12.23               12.43     13.03     13.21    13.23     13.43     14.03 
+S.Lorenzo  "Funivia"                           12.25               12.45     13.05     13.23    13.25     13.45     14.05 
+ Cavalcavia S.Lorenzo                          12.25               12.45     13.05     13.23    13.25     13.45     14.05 
+Fermi  la Clarina                                 |                   |        |         |         |         |         | 
+Gazzoletti  Piazza Dante                       12.27     12.37     12.47     13.07     13.25    13.27     13.47     14.07 
+ "Castello Buonconsiglio"                      12.29     12.39     12.49     13.09     13.27    13.29     13.49     14.09 
+S.Francesco  Porta Nuova                       12.31     12.41     12.51     13.11     13.29    13.31     13.51     14.11 
+Barbacovi    "ITG Pozzo"                       12.33     12.43     12.53     13.13     13.31    13.33     13.53     14.13 
+ Piazza Vicenza                                12.34     12.44     12.54     13.14     13.32    13.34     13.54     14.14 
+Asiago  "Bellevue"                             12.37     12.47     12.57     13.17     13.35    13.37     13.57     14.17 
+Asiago  "Cernidor"                             12.38     12.48     12.58     13.18     13.36    13.38     13.58     14.18 
+Asiago  S.Bartolameo                           12.39     12.49     12.59     13.19     13.37    13.39     13.59     14.19 
+Asiago "Villazzano FS"                            |         |         |        |         |         |         |         | 
+Conci   "Villazzano 3"                            |         |         |        |         |         |         |         | 
+SAN ROCCO  Piazza                                 |         |         |        |         |         |         |         | 
+SS 349  Pozzata                                   |         |         |        |         |         |         |         | 
+VILLAZZANO  "Stazione FS"                      12.40     12.50     13.00     13.20     13.38    13.40     14.00     14.20 
+VILLAZZANO  "Villa Tambosi"                    12.41     12.51     13.01     13.21     13.39    13.41     14.01     14.21 
+VILLAZZANO  "Chiesa"                           12.43     12.53     13.03     13.23     13.41    13.43     14.03     14.23 
+VILLAZZANO  Piazza Nicolini                    12.43     12.53     13.03     13.23     13.41    13.43     14.03     14.23 
+GROTTA  Piazza                                 12.48               13.08     13.28              13.48     14.08     14.28 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza                                      Ý 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                       13.48     14.08     14.22     14.42     15.08    15.22     15.42     16.08 
+SOPRAMONTE         Piazza Centro               14.03     14.13     14.33     14.48     15.13    15.33     15.48     16.13 
+SOPRAMONTE         bivio Baselga               14.04     14.14     14.34     14.49     15.14    15.34     15.49     16.14 
+SOPRAMONTE         "Valle"                     14.05        |         |      14.50       |         |      15.50        | 
+BASELGA DEL BONDONE                            14.07        |         |      14.52       |         |      15.52        | 
+CADINE  Strada Gardesana                       14.11        |         |      14.56       |         |      15.56        | 
+SP 85  "Soraval"                                  |      14.16     14.36       |       15.16    15.36        |      16.16 
+ "Forte Bus de Vela"                           14.13     14.18     14.38     14.58     15.18    15.38     15.58     16.18 
+Brescia  "Ca dei Gai"                          14.17     14.22     14.42     15.02     15.22    15.42     16.02     16.22 
+Brescia  "Piedicastello"                       14.18     14.23     14.43     15.03     15.23    15.43     16.03     16.23 
+S.Lorenzo  "Funivia"                           14.20     14.25     14.45     15.05     15.25    15.45     16.05     16.25 
+ Cavalcavia S.Lorenzo                          14.20     14.25     14.45     15.05     15.25    15.45     16.05     16.25 
+Fermi  la Clarina                                 |         |         |        |         |         |         |         | 
+Gazzoletti  Piazza Dante                       14.22     14.27     14.47     15.07     15.27    15.47     16.07     16.27 
+ "Castello Buonconsiglio"                                14.29     14.49     15.09     15.29    15.49     16.09     16.29 
+S.Francesco  Porta Nuova                                 14.31     14.51     15.11     15.31    15.51     16.11     16.31 
+Barbacovi    "ITG Pozzo"                                 14.33     14.53     15.13     15.33    15.53     16.13     16.33 
+ Piazza Vicenza                                          14.34     14.54     15.14     15.34    15.54     16.14     16.34 
+Asiago  "Bellevue"                                       14.37     14.57     15.17     15.37    15.57     16.17     16.37 
+Asiago  "Cernidor"                                       14.38     14.58     15.18     15.38    15.58     16.18     16.38 
+Asiago  S.Bartolameo                                     14.39     14.59     15.19     15.39    15.59     16.19     16.39 
+Asiago "Villazzano FS"                                      |         |        |         |         |         |         | 
+Conci   "Villazzano 3"                                      |         |        |         |         |         |         | 
+SAN ROCCO  Piazza                                           |         |        |         |         |         |         | 
+SS 349  Pozzata                                             |         |        |         |         |         |         | 
+VILLAZZANO  "Stazione FS"                                14.40     15.00     15.20     15.40    16.00     16.20     16.40 
+VILLAZZANO  "Villa Tambosi"                              14.41     15.01     15.21     15.41    16.01     16.21     16.41 
+VILLAZZANO  "Chiesa"                                     14.43     15.03     15.23     15.43    16.03     16.23     16.43 
+VILLAZZANO  Piazza Nicolini                              14.43     15.03     15.23     15.43    16.03     16.23     16.43 
+GROTTA  Piazza                                           14.48     15.08     15.28     15.48    16.08     16.28     16.48 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12       Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                       16.22     16.42     17.08     17.22     17.42    18.08     18.22     18.42 
+SOPRAMONTE         Piazza Centro               16.40     16.48     17.13     17.33     17.48    18.13     18.33     18.53 
+SOPRAMONTE         bivio Baselga               16.41     16.49     17.14     17.34     17.49    18.14     18.34     18.54 
+SOPRAMONTE         "Valle"                        |      16.50        |        |       17.50       |         |      18.55 
+BASELGA DEL BONDONE                               |      16.52        |        |       17.52       |         |      18.57 
+CADINE  Strada Gardesana                          |      16.56        |        |       17.56       |         |      19.01 
+SP 85  "Soraval"                               16.43        |      17.16     17.36       |      18.16     18.36        | 
+ "Forte Bus de Vela"                           16.45     16.58     17.18     17.38     17.58    18.18     18.38     19.03 
+Brescia  "Ca dei Gai"                          16.49     17.02     17.22     17.42     18.02    18.22     18.42     19.07 
+Brescia  "Piedicastello"                       16.50     17.03     17.23     17.43     18.03    18.23     18.43     19.08 
+S.Lorenzo  "Funivia"                           16.52     17.05     17.25     17.45     18.05    18.25     18.45     19.10 
+ Cavalcavia S.Lorenzo                          16.52     17.05     17.25     17.45     18.05    18.25     18.45     19.10 
+Fermi  la Clarina                                 |         |         |        |         |         |         |         | 
+Gazzoletti  Piazza Dante                       16.54     17.07     17.27     17.47     18.07    18.27     18.47     19.12 
+ "Castello Buonconsiglio"                      16.56     17.09     17.29     17.49     18.09    18.29     18.49     19.14 
+S.Francesco  Porta Nuova                       16.58     17.11     17.31     17.51     18.11    18.31     18.51     19.16 
+Barbacovi    "ITG Pozzo"                       17.00     17.13     17.33     17.53     18.13    18.33     18.53     19.18 
+ Piazza Vicenza                                17.01     17.14     17.34     17.54     18.14    18.34     18.54     19.19 
+Asiago  "Bellevue"                             17.04     17.17     17.37     17.57     18.17    18.37     18.57     19.22 
+Asiago  "Cernidor"                             17.05     17.18     17.38     17.58     18.18    18.38     18.58     19.23 
+Asiago  S.Bartolameo                           17.06     17.19     17.39     17.59     18.19    18.39     18.59     19.24 
+Asiago "Villazzano FS"                            |         |         |        |         |         |         |         | 
+Conci   "Villazzano 3"                            |         |         |        |         |         |         |         | 
+SAN ROCCO  Piazza                                 |         |         |        |         |         |         |         | 
+SS 349  Pozzata                                   |         |         |        |         |         |         |         | 
+VILLAZZANO  "Stazione FS"                      17.07     17.20     17.40     18.00     18.20    18.40     19.00     19.25 
+VILLAZZANO  "Villa Tambosi"                    17.08     17.21     17.41     18.01     18.21    18.41     19.01     19.26 
+VILLAZZANO  "Chiesa"                           17.10     17.23     17.43     18.03     18.23    18.43     19.03     19.28 
+VILLAZZANO  Piazza Nicolini                    17.10     17.23     17.43     18.03     18.23    18.43     19.03     19.29 
+GROTTA  Piazza                                 17.15     17.28     17.48     18.08     18.28    18.48     19.08     19.34 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 6 
+
+----------------------- Page 7-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza                                                         Ü                  á         Ü         Ü 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                       19.08     19.22    19.42     20.08     20.22    20.22     20.42     21.08 
+SOPRAMONTE         Piazza Centro               19.13     19.33    19.48     20.13     20.28    20.33     20.48     21.13 
+SOPRAMONTE         bivio Baselga               19.14     19.34    19.49     20.14     20.29    20.34     20.49     21.14 
+SOPRAMONTE         "Valle"                        |        |      19.50        |      20.30       |      20.50     21.15 
+BASELGA DEL BONDONE                               |        |      19.52        |      20.32       |      20.52     21.17 
+CADINE  Strada Gardesana                          |        |      19.56        |      20.36       |      20.56     21.21 
+SP 85  "Soraval"                               19.16     19.36       |      20.16        |     20.36        |         | 
+ "Forte Bus de Vela"                           19.18     19.38    19.58     20.18     20.38    20.38     20.58     21.23 
+Brescia  "Ca dei Gai"                          19.22     19.42    20.02     20.22     20.42    20.42     21.02     21.27 
+Brescia  "Piedicastello"                       19.23     19.43    20.03     20.23     20.43    20.43     21.03     21.28 
+S.Lorenzo  "Funivia"                           19.25     19.45    20.05     20.25     20.45    20.45     21.05     21.30 
+ Cavalcavia S.Lorenzo                          19.25     19.45    20.05     20.25     20.45    20.45     21.05     21.30 
+Fermi  la Clarina                                 |        |         |         |         |        |         |         | 
+Gazzoletti  Piazza Dante                       19.27     19.47    20.07     20.27     20.47    20.47     21.07     21.32 
+ "Castello Buonconsiglio"                      19.29     19.49    20.09     20.29     20.49    20.49     21.09     21.34 
+S.Francesco  Porta Nuova                       19.31     19.51    20.11     20.31     20.51    20.51     21.11     21.36 
+Barbacovi   "ITG Pozzo"                        19.33     19.53    20.13     20.33     20.53    20.53     21.12     21.37 
+ Piazza Vicenza                                19.34     19.54    20.14     20.34     20.54    20.54     21.13     21.38 
+Asiago  "Bellevue"                             19.37     19.57    20.17     20.37     20.57    20.57     21.15     21.40 
+Asiago  "Cernidor"                             19.38     19.58    20.18     20.38     20.58    20.58     21.16     21.41 
+Asiago  S.Bartolameo                           19.39     19.59    20.19     20.39     20.59    20.59     21.17     21.42 
+Asiago "Villazzano FS"                            |        |         |         |         |        |      21.18     21.43 
+Conci   "Villazzano 3"                            |        |         |         |         |        |      21.19     21.44 
+SAN ROCCO  Piazza                                 |        |         |         |         |        |      21.22     21.47 
+SS 349  Pozzata                                   |        |         |         |         |        |      21.24     21.49 
+VILLAZZANO  "Stazione FS"                      19.40     20.00    20.20     20.40     21.00    21.00        |         | 
+VILLAZZANO  "Villa Tambosi"                    19.41     20.01    20.21     20.41     21.01    21.01     21.24     21.49 
+VILLAZZANO  "Chiesa"                           19.43     20.03    20.23     20.43     21.03    21.03     21.26     21.51 
+VILLAZZANO  Piazza Nicolini                    19.43     20.03    20.23     20.43     21.03    21.03     21.26     21.51 
+GROTTA  Piazza                                 19.48     20.08    20.28     20.48     21.08    21.08     21.31     21.56 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 7 
+
+----------------------- Page 8-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2011-12      Valido dal 12/09/2011 al 09/06/2012 
+
+    6      Sopramonte - P.Dante - Villazzano - Grotta 
+
+Frequenza 
+Linea 
+
+SOPRAMONTE  "Maso Banal"                       21.32     22.08    23.08     23.53 
+SOPRAMONTE         Piazza Centro               21.38     22.13    23.10     23.58 
+SOPRAMONTE         bivio Baselga               21.39     22.14    23.11     23.59 
+SOPRAMONTE         "Valle"                        |      22.15       |         | 
+BASELGA DEL BONDONE                               |      22.17       |         | 
+CADINE  Strada Gardesana                          |      22.21       |         | 
+SP 85  "Soraval"                               21.41       |      23.13      0.01 
+ "Forte Bus de Vela"                           21.43     22.23    23.15      0.03 
+Brescia  "Ca dei Gai"                          21.47     22.27    23.19      0.07 
+Brescia  "Piedicastello"                       21.48     22.28    23.20      0.08 
+S.Lorenzo  "Funivia"                           21.50     22.30    23.22      0.10 
+ Cavalcavia S.Lorenzo                          21.50     22.30    23.22      0.10 
+Fermi  la Clarina                                 |        |         |         | 
+Gazzoletti  Piazza Dante                       21.52     22.32    23.32      0.12 
+ "Castello Buonconsiglio"                                22.34    23.34 
+S.Francesco  Porta Nuova                                 22.36    23.36 
+Barbacovi   "ITG Pozzo"                                  22.37    23.37 
+ Piazza Vicenza                                          22.38    23.38 
+Asiago  "Bellevue"                                       22.40    23.40 
+Asiago  "Cernidor"                                       22.41    23.41 
+Asiago  S.Bartolameo                                     22.42    23.42 
+Asiago "Villazzano FS"                                   22.43    23.43 
+Conci   "Villazzano 3"                                   22.44    23.44 
+SAN ROCCO  Piazza                                        22.47    23.47 
+SS 349  Pozzata                                          22.49    23.49 
+VILLAZZANO  "Stazione FS"                                  |         | 
+VILLAZZANO  "Villa Tambosi"                              22.49    23.49 
+VILLAZZANO  "Chiesa"                                     22.51    23.51 
+VILLAZZANO  Piazza Nicolini                              22.51    23.51 
+GROTTA  Piazza                                           22.56    23.56 
+
+Frequenze 
+  á    Feriale solo il Sabato 
+  Þ    Scolastica da Lunedì a Venerdì 
+  Ü    Feriale da Lunedì a Venerdì 
+  Ý    Scolastica da Lunedì a Sabato 
+
+www.eureka.ra.it                                                                                                  Pag. 8 

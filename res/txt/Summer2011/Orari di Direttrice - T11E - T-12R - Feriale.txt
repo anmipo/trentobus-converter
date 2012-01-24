@@ -1,0 +1,243 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza 
+Linea 
+
+ROMAGNANO  Piazza Condini                       5.59      6.49      7.09      7.29      7.49     8.09      8.29      8.49 
+ROMAGNANO  sud                                  6.00      6.50      7.10      7.30      7.50     8.10      8.30      8.50 
+ROMAGNANO  nord                                 6.01      6.51      7.11      7.31      7.51     8.11      8.31      8.51 
+RAVINA  "Maso Stella"                           6.03      6.53      7.13      7.33      7.53     8.13      8.33      8.53 
+RAVINA  "case ITEA"                             6.04      6.54      7.14      7.34      7.54     8.14      8.34      8.54 
+BELVEDERE                                       6.07        |         |         |        |         |         |         | 
+RAVINA  Piazza                                  6.08      6.56      7.16      7.36      7.56     8.16      8.36      8.56 
+RAVINA  del Ponte                               6.10      6.58      7.18      7.38      7.58     8.18      8.38      8.58 
+ "Ponte di Ravina"                              6.10      6.58      7.18      7.38      7.58     8.18      8.38      8.58 
+al Desert  Ragazzi del '99                        |       6.59      7.19      7.39      7.59     8.19      8.39      8.59 
+al Desert  Muredei                                |       7.00      7.20      7.40      8.00     8.20      8.40      9.00 
+Sanseverino  "area servizio"                    6.12        |         |         |        |         |         |         | 
+Jedin Sanseverino                               6.13        |         |         |        |         |         |         | 
+Ghiaie  Monte Baldo                             6.14      7.02      7.22      7.42      8.02     8.22      8.42      9.02 
+ Largo Prati                                    6.14      7.02      7.22      7.42      8.02     8.22      8.42      9.02 
+Bezzi   Filzi                                   6.16      7.04      7.24      7.44      8.04     8.24      8.44      9.04 
+Giusti  "Arcivescovile"                         6.17      7.05      7.25      7.45      8.05     8.25      8.45      9.05 
+Rosmini  "Cimitero"                             6.18      7.06      7.26      7.46      8.06     8.26      8.46      9.06 
+Rosmini  S.Maria Maggiore                       6.20      7.08      7.28      7.48      8.08     8.28      8.48      9.08 
+Piazza Dante "Pal. Regione"                     6.23      7.11      7.31      7.51      8.11     8.31      8.51      9.11 
+Gazzoletti  Piazza Dante 
+ Largo Sauro 
+Ambrosi   "caserma VVFF" 
+ Piazza Gen. Cantore 
+Brescia  "Piedicastello" 
+VELA    centro 
+
+www.eureka.ra.it          Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza 
+Linea 
+
+ROMAGNANO  Piazza Condini                       9.09     9.29      9.49     10.09     10.29     10.49    11.09     11.29 
+ROMAGNANO  sud                                  9.10     9.30      9.50     10.10     10.30     10.50    11.10     11.30 
+ROMAGNANO  nord                                 9.11     9.31      9.51     10.11     10.31     10.51    11.11     11.31 
+RAVINA  "Maso Stella"                           9.13     9.33      9.53     10.13     10.33     10.53    11.13     11.33 
+RAVINA  "case ITEA"                             9.14     9.34      9.54     10.14     10.34     10.54    11.14     11.34 
+BELVEDERE                                         |        |         |         |         |        |         |         | 
+RAVINA  Piazza                                  9.16     9.36      9.56     10.16     10.36     10.56    11.16     11.36 
+RAVINA  del Ponte                               9.18     9.38      9.58     10.18     10.38     10.58    11.18     11.38 
+ "Ponte di Ravina"                              9.18     9.38      9.58     10.18     10.38     10.58    11.18     11.38 
+al Desert  Ragazzi del '99                      9.19     9.39      9.59     10.19     10.39     10.59    11.19     11.39 
+al Desert  Muredei                              9.20     9.40     10.00     10.20     10.40     11.00    11.20     11.40 
+Sanseverino  "area servizio"                      |        |         |         |         |        |         |         | 
+Jedin Sanseverino                                 |        |         |         |         |        |         |         | 
+Ghiaie  Monte Baldo                             9.22     9.42     10.02     10.22     10.42     11.02    11.22     11.42 
+ Largo Prati                                    9.22     9.42     10.02     10.22     10.42     11.02    11.22     11.42 
+Bezzi   Filzi                                   9.24     9.44     10.04     10.24     10.44     11.04    11.24     11.44 
+Giusti  "Arcivescovile"                         9.25     9.45     10.05     10.25     10.45     11.05    11.25     11.45 
+Rosmini  "Cimitero"                             9.26     9.46     10.06     10.26     10.46     11.06    11.26     11.46 
+Rosmini  S.Maria Maggiore                       9.28     9.48     10.08     10.28     10.48     11.08    11.28     11.48 
+Piazza Dante "Pal. Regione"                     9.31     9.51     10.11     10.31     10.51     11.11    11.31     11.51 
+Gazzoletti  Piazza Dante 
+ Largo Sauro 
+Ambrosi   "caserma VVFF" 
+ Piazza Gen. Cantore 
+Brescia  "Piedicastello" 
+VELA    centro 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza                                                                                                Ü 
+Linea 
+
+ROMAGNANO  Piazza Condini                      11.49     12.09    12.29     12.49     13.09     13.29    13.49     14.09 
+ROMAGNANO  sud                                 11.50     12.10    12.30     12.50     13.10     13.30    13.50     14.10 
+ROMAGNANO  nord                                11.51     12.11    12.31     12.51     13.11     13.31    13.51     14.11 
+RAVINA  "Maso Stella"                          11.53     12.13    12.33     12.53     13.13     13.33    13.53     14.13 
+RAVINA  "case ITEA"                            11.54     12.14    12.34     12.54     13.14     13.34    13.54     14.14 
+BELVEDERE                                         |        |         |         |         |        |         |         | 
+RAVINA  Piazza                                 11.56     12.16    12.36     12.56     13.16     13.36    13.56     14.16 
+RAVINA  del Ponte                              11.58     12.18    12.38     12.58     13.18     13.38    13.58     14.18 
+ "Ponte di Ravina"                             11.58     12.18    12.38     12.58     13.18     13.38    13.58     14.18 
+al Desert  Ragazzi del '99                     11.59     12.19    12.39     12.59     13.19     13.39    13.59     14.19 
+al Desert  Muredei                             12.00     12.20    12.40     13.00     13.20     13.40    14.00     14.20 
+Sanseverino  "area servizio"                      |        |         |         |         |        |         |         | 
+Jedin Sanseverino                                 |        |         |         |         |        |         |         | 
+Ghiaie  Monte Baldo                            12.02     12.22    12.42     13.02     13.22     13.42    14.02     14.22 
+ Largo Prati                                   12.02     12.22    12.42     13.02     13.22     13.42    14.02     14.22 
+Bezzi   Filzi                                  12.04     12.24    12.44     13.04     13.24     13.44    14.04     14.24 
+Giusti  "Arcivescovile"                        12.05     12.25    12.45     13.05     13.25     13.45    14.05     14.25 
+Rosmini  "Cimitero"                            12.06     12.26    12.46     13.06     13.26     13.46    14.06     14.26 
+Rosmini  S.Maria Maggiore                      12.08     12.28    12.48     13.08     13.28     13.48    14.08     14.28 
+Piazza Dante "Pal. Regione"                    12.11     12.31    12.51     13.11     13.31     13.51    14.11     14.31 
+Gazzoletti  Piazza Dante 
+ Largo Sauro 
+Ambrosi   "caserma VVFF" 
+ Piazza Gen. Cantore 
+Brescia  "Piedicastello" 
+VELA    centro 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza                                               Ü                            Ü                            Ü 
+Linea 
+
+ROMAGNANO  Piazza Condini                      14.29     14.49    15.09     15.29     15.49     16.09    16.29     16.49 
+ROMAGNANO  sud                                 14.30     14.50    15.10     15.30     15.50     16.10    16.30     16.50 
+ROMAGNANO  nord                                14.31     14.51    15.11     15.31     15.51     16.11    16.31     16.51 
+RAVINA  "Maso Stella"                          14.33     14.53    15.13     15.33     15.53     16.13    16.33     16.53 
+RAVINA  "case ITEA"                            14.34     14.54    15.14     15.34     15.54     16.14    16.34     16.54 
+BELVEDERE                                         |        |         |         |         |        |         |         | 
+RAVINA  Piazza                                 14.36     14.56    15.16     15.36     15.56     16.16    16.36     16.56 
+RAVINA  del Ponte                              14.38     14.58    15.18     15.38     15.58     16.18    16.38     16.58 
+ "Ponte di Ravina"                             14.38     14.58    15.18     15.38     15.58     16.18    16.38     16.58 
+al Desert  Ragazzi del '99                     14.39     14.59    15.19     15.39     15.59     16.19    16.39     16.59 
+al Desert  Muredei                             14.40     15.00    15.20     15.40     16.00     16.20    16.40     17.00 
+Sanseverino  "area servizio"                      |        |         |         |         |        |         |         | 
+Jedin Sanseverino                                 |        |         |         |         |        |         |         | 
+Ghiaie  Monte Baldo                            14.42     15.02    15.22     15.42     16.02     16.22    16.42     17.02 
+ Largo Prati                                   14.42     15.02    15.22     15.42     16.02     16.22    16.42     17.02 
+Bezzi   Filzi                                  14.44     15.04    15.24     15.44     16.04     16.24    16.44     17.04 
+Giusti  "Arcivescovile"                        14.45     15.05    15.25     15.45     16.05     16.25    16.45     17.05 
+Rosmini  "Cimitero"                            14.46     15.06    15.26     15.46     16.06     16.26    16.46     17.06 
+Rosmini  S.Maria Maggiore                      14.48     15.08    15.28     15.48     16.08     16.28    16.48     17.08 
+Piazza Dante "Pal. Regione"                    14.51     15.11    15.31     15.51     16.11     16.31    16.51     17.11 
+Gazzoletti  Piazza Dante 
+ Largo Sauro 
+Ambrosi   "caserma VVFF" 
+ Piazza Gen. Cantore 
+Brescia  "Piedicastello" 
+VELA    centro 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza                                                         Ü                            Ü 
+Linea 
+
+ROMAGNANO  Piazza Condini                      17.09     17.29    17.49     18.09     18.29     18.49    19.09     19.29 
+ROMAGNANO  sud                                 17.10     17.30    17.50     18.10     18.30     18.50    19.10     19.30 
+ROMAGNANO  nord                                17.11     17.31    17.51     18.11     18.31     18.51    19.11     19.31 
+RAVINA  "Maso Stella"                          17.13     17.33    17.53     18.13     18.33     18.53    19.13     19.33 
+RAVINA  "case ITEA"                            17.14     17.34    17.54     18.14     18.34     18.54    19.14     19.34 
+BELVEDERE                                         |        |         |         |         |        |         |         | 
+RAVINA  Piazza                                 17.16     17.36    17.56     18.16     18.36     18.56    19.16     19.36 
+RAVINA  del Ponte                              17.18     17.38    17.58     18.18     18.38     18.58    19.18     19.38 
+ "Ponte di Ravina"                             17.18     17.38    17.58     18.18     18.38     18.58    19.18     19.38 
+al Desert  Ragazzi del '99                     17.19     17.39    17.59     18.19     18.39     18.59    19.19     19.39 
+al Desert  Muredei                             17.20     17.40    18.00     18.20     18.40     19.00    19.20     19.40 
+Sanseverino  "area servizio"                      |        |         |         |         |        |         |         | 
+Jedin Sanseverino                                 |        |         |         |         |        |         |         | 
+Ghiaie  Monte Baldo                            17.22     17.42    18.02     18.22     18.42     19.02    19.22     19.42 
+ Largo Prati                                   17.22     17.42    18.02     18.22     18.42     19.02    19.22     19.42 
+Bezzi   Filzi                                  17.24     17.44    18.04     18.24     18.44     19.04    19.24     19.44 
+Giusti  "Arcivescovile"                        17.25     17.45    18.05     18.25     18.45     19.05    19.25     19.45 
+Rosmini  "Cimitero"                            17.26     17.46    18.06     18.26     18.46     19.06    19.26     19.46 
+Rosmini  S.Maria Maggiore                      17.28     17.48    18.08     18.28     18.48     19.08    19.28     19.48 
+Piazza Dante "Pal. Regione"                    17.31     17.51    18.11     18.31     18.51     19.11    19.31     19.51 
+Gazzoletti  Piazza Dante 
+ Largo Sauro 
+Ambrosi   "caserma VVFF" 
+ Piazza Gen. Cantore 
+Brescia  "Piedicastello" 
+VELA    centro 
+
+www.eureka.ra.it         Le note dei simboli sono sull'ultima pagina di ogni linea                                Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2011      Valido dal 12/06/2011 al 11/09/2011 
+
+   12      Romagnano - Ravina - Via Ghiaie - P.Dante 
+
+Frequenza                                      Ü                                                          Ü        á 
+Linea 
+
+ROMAGNANO  Piazza Condini                      19.49     20.09     20.29     21.09    21.29     21.54     22.54     22.54 
+ROMAGNANO  sud                                 19.50     20.10     20.30     21.10    21.30     21.55     22.55     22.55 
+ROMAGNANO  nord                                19.51     20.11     20.31     21.11    21.31     21.56     22.56     22.56 
+RAVINA  "Maso Stella"                          19.53     20.13     20.33     21.13    21.33     21.58     22.58     22.58 
+RAVINA  "case ITEA"                            19.54     20.14     20.34     21.14    21.34     21.59     22.59     22.59 
+BELVEDERE                                         |         |         |         |        |         |         |         | 
+RAVINA  Piazza                                 19.56     20.16     20.36     21.16    21.36     22.01     23.01     23.01 
+RAVINA  del Ponte                              19.58     20.18     20.38     21.18    21.38     22.03     23.03     23.03 
+ "Ponte di Ravina"                             19.58     20.18     20.38     21.18    21.38     22.03     23.03     23.03 
+al Desert  Ragazzi del '99                     19.59     20.19     20.39        |        |         |         |         | 
+al Desert  Muredei                             20.00     20.20     20.40        |        |         |         |         | 
+Sanseverino  "area servizio"                      |         |         |      21.19    21.39     22.04     23.04     23.04 
+Jedin Sanseverino                                 |         |         |      21.20    21.40     22.05     23.05     23.05 
+Ghiaie  Monte Baldo                            20.02     20.22     20.42     21.21    21.41     22.06     23.06     23.06 
+ Largo Prati                                   20.02     20.22     20.42     21.22    21.42     22.07     23.07     23.07 
+Bezzi   Filzi                                  20.04     20.24     20.44     21.23    21.43     22.08     23.08     23.08 
+Giusti  "Arcivescovile"                        20.05     20.25     20.45     21.24    21.44     22.09     23.09     23.09 
+Rosmini  "Cimitero"                            20.06     20.26     20.46     21.25    21.45     22.10     23.10     23.10 
+Rosmini  S.Maria Maggiore                      20.08     20.28     20.48     21.26    21.46     22.11     23.11     23.11 
+Piazza Dante "Pal. Regione"                    20.11     20.31     20.51     21.28    21.48     22.13     23.13        | 
+Gazzoletti  Piazza Dante                                                                                            23.13 
+ Largo Sauro                                                                                                        23.15 
+Ambrosi   "caserma VVFF"                                                                                            23.17 
+ Piazza Gen. Cantore                                                                                                23.18 
+Brescia  "Piedicastello"                                                                                            23.20 
+VELA    centro                                                                                                      23.23 
+
+Frequenze 
+  á    Feriale solo il sabato 
+  Ü    Feriale da lunedì a venerdì 
+
+www.eureka.ra.it                                                                                                   Pag. 6 
