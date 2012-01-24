@@ -22,6 +22,8 @@ import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.util.Arrays;
+import java.util.Comparator;
 import java.util.LinkedList;
 
 import org.apache.commons.logging.Log;
@@ -86,7 +88,15 @@ public class ScheduleConverter {
             DataOutputStream dirInfoOutputStream = new DataOutputStream(new FileOutputStream(targetDirPath+BUS_INDEX_FILE_NAME));
             try {
                 File srcDir = new File(sourceDirPath);
+                
                 File[] files = srcDir.listFiles(new FileExtensionFilter(".txt"));
+                Arrays.sort(files, 0, files.length, new Comparator<File>() {
+					@Override
+					public int compare(File f1, File f2) {
+						return f1.getName().compareToIgnoreCase(f2.getName());
+					}
+                });
+                
                 dirInfoOutputStream.writeShort(files.length); //write number of schedules
                 for (int fileIndex=0; fileIndex<files.length; fileIndex++) {
                     String fullFileName = files[fileIndex].getAbsolutePath();
