@@ -16,6 +16,6 @@ The procedure:
 2. Download a free version of Foxit Reader from http://foxitsoftware.com.
 3. Use Foxit Reader to save PDF schedules as TXT files.
 4. Run ScheduleConverter: 
-   "java -jar converter.jar input/path/to/txt output/path/to/dat"
+   "java -Dfile.encoding=UTF8 -jar converter.jar input/path/to/txt output/path/to/dat"
    
 Contact: trentobus@popleteev.com 
