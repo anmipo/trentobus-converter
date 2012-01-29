@@ -27,8 +27,8 @@ public class RawSchedulePage extends LinkedList<String> {
     private static final String HEADER_FREQUENZA = "Frequenza";
     private static final String HEADER_LINEA = "Linea";
     private static final String FOOTER = "www.eureka.ra.it";
-    private static final String FOOTER_FREQUENZE = "Frequenze";
-    private static final String FOOTER_NOTE = "Note di corsa";
+    private static final String FOOTER_FREQUENZE = "frequenze";
+    private static final String FOOTER_NOTE = "note di corsa";
     private String frequenzaLine = null;
     private String lineaLine = null;
     private String scheduleTypeLine = null;
@@ -48,13 +48,14 @@ public class RawSchedulePage extends LinkedList<String> {
                 continue;
             
             String trimLine = line.trim();
+            String trimLineLower = line.trim().toLowerCase();
             if (headerLineNumber==0) {
                 //skipping "--- Page NN ---" separator
                 headerLineNumber = 1;
-            } else if (headerLineNumber==1 && trimLine.startsWith("ORARIO")) {
+            } else if (headerLineNumber==1 && trimLineLower.startsWith("orario")) {
                 page.scheduleTypeLine = trimLine;
                 headerLineNumber++;
-            } else if (headerLineNumber==2 && trimLine.startsWith("ORARIO Trento")) {
+            } else if (headerLineNumber==2 && trimLineLower.startsWith("orario trento")) {
                 page.validityLine = trimLine;
                 headerLineNumber++;
             } else if (headerLineNumber==3) {
@@ -71,7 +72,8 @@ public class RawSchedulePage extends LinkedList<String> {
                 result.add(page);
                 page = new RawSchedulePage();
                 headerLineNumber = 0;
-            } else if (line.startsWith(FOOTER_FREQUENZE) || line.startsWith(FOOTER_NOTE)) {
+            } else if (trimLineLower.startsWith(FOOTER_FREQUENZE) || 
+            		trimLineLower.startsWith(FOOTER_NOTE)) {
                 //Document end, legend found - skipping it
                 inLegend = true;
                 page.legendLines = new LinkedList<String>();
