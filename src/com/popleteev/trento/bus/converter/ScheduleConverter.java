@@ -18,12 +18,16 @@ package com.popleteev.trento.bus.converter;
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FilenameFilter;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Arrays;
 import java.util.Comparator;
+import java.util.Date;
 import java.util.LinkedList;
 
 import org.apache.commons.logging.Log;
@@ -43,8 +47,12 @@ public class ScheduleConverter {
     private static final String SCHEDULE_FILE_NAME_FORMAT = "%s-%s-%d.dat";
     private static final String BUS_INDEX_FILE_NAME = "bus.idx";
     private static final String BUSSTOP_INDEX_FILE_NAME = "busstop.idx";
+    private static final String DATES_FILE_NAME = "validity.dat";
 
     private Schedule schedule = null;
+    // validity dates for the whole dataset (intersection of schedules' validity)
+    private Date validFrom = null;
+    private Date validTo = null;
     
     public static void main(String[] args) {
         if (args.length<2) {
@@ -82,6 +90,8 @@ public class ScheduleConverter {
             log.info("Target directory did not exist, created.");
         }
         
+        validFrom = null;
+        validTo = null;
         BusStopIndex busStopIndex = new BusStopIndex();
         ScheduleConverter converter = new ScheduleConverter();
         try {
@@ -101,7 +111,9 @@ public class ScheduleConverter {
                 for (int fileIndex=0; fileIndex<files.length; fileIndex++) {
                     String fullFileName = files[fileIndex].getAbsolutePath();
                     Schedule sch = converter.loadRawSchedule(fullFileName);
+                    
                     String savedFileName = converter.saveScheduleToDirectory(targetDirPath);
+                    updateValidityDates(sch.getDetails());
                     saveDirInfoEntry(dirInfoOutputStream, savedFileName, sch);
                     addAllStopsToIndex(sch, busStopIndex, savedFileName);
                     log.info("Converted: " + files[fileIndex].getName()+" -> "+savedFileName);
@@ -111,12 +123,47 @@ public class ScheduleConverter {
                 dirInfoOutputStream.close();
             }
             busStopIndex.saveToFile(targetDirPath + BUSSTOP_INDEX_FILE_NAME);
+            saveValidityDates(targetDirPath);
         } catch (IOException ioe) {
             ioe.printStackTrace();
         }
     }
 
-    /**
+    private void saveValidityDates(String targetDirPath) throws IOException {
+    	DataOutputStream validityOutputStream = new DataOutputStream(
+    			new FileOutputStream(targetDirPath+DATES_FILE_NAME));
+    	try {
+    		validityOutputStream.writeLong(validFrom.getTime());
+    		validityOutputStream.writeLong(validTo.getTime());
+    		
+    		DateFormat dateFormat = new SimpleDateFormat("dd MMM yyyy"); 
+    		System.out.println("Validity: " 
+    				+ dateFormat.format(validFrom) + " - " 
+    				+ dateFormat.format(validTo));
+    	} finally {
+    		validityOutputStream.close();
+    	}
+	}
+
+	private void updateValidityDates(ScheduleDetails details) {
+		if (validFrom == null) {
+			validFrom = details.getValidFrom();
+		} else {
+			if (validFrom.compareTo(details.getValidFrom()) < 0) {
+				validFrom = details.getValidFrom();
+			} 
+		}
+		
+		if (validTo == null) {
+			validTo = details.getValidTo();
+		} else {
+			if (validTo.compareTo(details.getValidTo()) > 0) {
+				validTo = details.getValidTo();
+			}
+		}
+	}
+
+	/**
      * Ensures that the path exists.
      * @param path
      * @return true if successful, false if there are errors.
