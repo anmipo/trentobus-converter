@@ -92,21 +92,21 @@ public class BusStopIndex {
     /**
      * Writes data to the stream in human-readable text form.
      * @param out
+     * @throws IOException 
      */
-    public void saveToStream(OutputStream out) {
+    public void saveToStream(DataOutputStream out) throws IOException {
         PrintWriter pw = new PrintWriter(out);
         try {
             Iterator<String> stops = data.keySet().iterator();
             while (stops.hasNext()) {
                 String busStop = stops.next();
-                StringBuffer line = new StringBuffer();
-                line.append(busStop);
+                out.writeUTF(busStop);
+                
                 Collection<String> fileNames = data.get(busStop);
+                out.writeInt(fileNames.size());
                 for (String fileName: fileNames) {
-                    line.append("\t");
-                    line.append(fileName);
+                    out.writeUTF(fileName);
                 }
-                pw.println(line);
             }
         } finally {
             pw.close();
@@ -119,13 +119,13 @@ public class BusStopIndex {
      * @throws IOException
      */
     public void saveToDataStream(DataOutputStream out) throws IOException {
-        out.writeShort(data.size()); //write number of stops
+        out.writeInt(data.size()); //write number of stops
         Iterator<String> stops = data.keySet().iterator();
         while (stops.hasNext()) {
             String busStop = stops.next();
             out.writeUTF(busStop); //write busstop name
             Collection<String> fileNames = data.get(busStop);
-            out.writeShort(fileNames.size()); //write number of related files
+            out.writeInt(fileNames.size()); //write number of related files
             for (String fileName: fileNames) {
                 out.writeUTF(fileName); //write related file name
             }

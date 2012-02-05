@@ -46,7 +46,7 @@ public class ScheduleConverter {
     private static final int MAX_FILE_INDEX = 10;
     private static final String SCHEDULE_FILE_NAME_FORMAT = "%s-%s-%d.dat";
     private static final String BUS_INDEX_FILE_NAME = "bus.idx";
-    private static final String BUSSTOP_INDEX_FILE_NAME = "busstop.idx";
+    private static final String BUSSTOP_INDEX_FILE_NAME = "stops.idx";
     private static final String DATES_FILE_NAME = "validity.dat";
 
     private Schedule schedule = null;
