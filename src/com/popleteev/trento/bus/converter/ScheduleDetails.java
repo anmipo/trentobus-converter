@@ -25,7 +25,7 @@ import java.util.Date;
 import java.util.LinkedList;
 
 /**
- * Schedule details, such as bus number, direction, isHoliday flag, 
+ * Schedule details, such as bus number, route, isHoliday flag, 
  * validity dates and schedule legend.
  * Also capable of parsing {@link RawSchedulePage} and extracting these data.
  * 
@@ -40,7 +40,8 @@ public class ScheduleDetails {
     public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("dd/MM/yyyy");
 
     private String busNumber;  // bus number
-    private String direction;  // route direction text
+    private String route;      // route route text
+    private Direction direction; // route direction: forward/return/undefined
     private boolean isHoliday; // workday/holiday flag
     private Date validFrom;    // schedule validity start date
     private Date validTo;      // schedule validity end date
@@ -50,11 +51,12 @@ public class ScheduleDetails {
         //left empty, caller must fill the fields
     }
     
-    public ScheduleDetails(String busNumber, String direction,
+    public ScheduleDetails(String busNumber, String route,
             boolean isHoliday, Date validFrom, Date validTo,
             ScheduleLegend legend) {
         this.busNumber = busNumber;
-        this.direction = direction;
+        this.direction = Direction.UNDEFINED;
+        this.route = route;
         this.isHoliday  = isHoliday ;
         this.validFrom  = validFrom ;
         this.validTo = validTo;
@@ -66,7 +68,7 @@ public class ScheduleDetails {
     }
 
     /**
-     * Finds and returns schedule details (bus number, direction, validity)from the page.
+     * Finds and returns schedule details (bus number, route, validity)from the page.
      * @param rawPage
      * @return
      * @throws ScheduleConverterException
@@ -76,8 +78,8 @@ public class ScheduleDetails {
         ScheduleDetails result = new ScheduleDetails(); 
         String busNumberAndDirection = rawPage.getBusNumberAndRouteLine();
         result.busNumber = busNumberAndDirection.substring(0, 3).trim();
-        result.direction = busNumberAndDirection.substring(3).trim();
-        result.direction = result.direction.replaceAll("\\s{2,}", " "); //removing redundant spaces
+        result.route = busNumberAndDirection.substring(3).trim();
+        result.route = result.route.replaceAll("\\s{2,}", " "); //removing redundant spaces
 
         String schType = rawPage.getScheduleTypeLine();
         if (schType.endsWith(HOLIDAY))
@@ -104,8 +106,8 @@ public class ScheduleDetails {
         return busNumber;
     }
 
-    public String getDirection() {
-        return direction;
+    public String getRoute() {
+        return route;
     }
 
     public boolean isHoliday() {
@@ -134,13 +136,13 @@ public class ScheduleDetails {
      * The present fields must be equal, otherwise an exception is thrown.
      */
     public void join(ScheduleDetails src) throws ScheduleConverterException {
-        if (!this.busNumber.equals(src.busNumber) || !this.direction.equals(src.direction) || 
+        if (!this.busNumber.equals(src.busNumber) || !this.route.equals(src.route) || 
                 this.isHoliday!=src.isHoliday || !this.validFrom.equals(src.validFrom) || 
                 !this.validTo.equals(src.validTo))
             throw new ScheduleConverterException("Error joining schedule details");
 
         this.busNumber = src.busNumber; 
-        this.direction = src.direction; 
+        this.route = src.route; 
         this.isHoliday = src.isHoliday; 
         this.validFrom = src.validFrom!=null ? new Date(src.validFrom.getTime()) : null; 
         this.validTo = src.validTo!=null ? new Date(src.validTo.getTime()) : null;
@@ -152,7 +154,8 @@ public class ScheduleDetails {
     
     public void assign(ScheduleDetails src) {
         this.busNumber = src.busNumber; 
-        this.direction = src.direction; 
+        this.route = src.route; 
+        this.direction = src.direction;
         this.isHoliday = src.isHoliday; 
         this.validFrom = src.validFrom!=null ? new Date(src.validFrom.getTime()) : null; 
         this.validTo = src.validTo!=null ? new Date(src.validTo.getTime()) : null;  
@@ -165,7 +168,7 @@ public class ScheduleDetails {
     public String toString() {
         return String.format("Schedule for Bus #%s. Direction: %s (%s)\nValid from %s to %s.\n%s", 
                 busNumber,
-                direction, 
+                route, 
                 getIsHolidayString(), 
                 DATE_FORMAT.format(validFrom), 
                 DATE_FORMAT.format(validTo), 
@@ -184,7 +187,13 @@ public class ScheduleDetails {
     String getIsHolidayChar() {
         return isHoliday() ? "H" : "W";
     }
-
+	public void setDirection(Direction direction) {
+		this.direction = direction;
+	}
+	public Direction getDirection() {
+		return direction;
+	}
+	
     /**
      * Writes schedule data to stream in a human-readable form.
      * @param out
@@ -211,8 +220,9 @@ public class ScheduleDetails {
      */
     public void saveToDataStream(DataOutputStream out) throws IOException {
         out.writeUTF(getBusNumber());
+        out.writeUTF(getDirection().getSymbol());
         out.writeUTF(getIsHolidayChar());
-        out.writeUTF(getDirection());
+        out.writeUTF(getRoute());
         out.writeLong(getValidFrom().getTime()); //in millis from 1970/1/1
         out.writeLong(getValidTo().getTime()); 
         ScheduleLegend legend = getLegend();
@@ -224,9 +234,9 @@ public class ScheduleDetails {
     }
 
     /**
-     * @return string containing bus number, holiday flag and direction info.
+     * @return string containing bus number, holiday flag and route info.
      */
     public String getInfoLine() {
-        return getBusNumber() + "\t" + getIsHolidayString() + "\t" + getDirection();
+        return getBusNumber() + "\t" + getIsHolidayString() + "\t" + getRoute();
     }
 }

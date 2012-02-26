@@ -18,7 +18,6 @@ package com.popleteev.trento.bus.converter;
 import java.io.DataOutputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Collection;
@@ -33,21 +32,21 @@ import java.util.TreeMap;
  * @author Andrei Popleteev
  */
 public class BusStopIndex {
-    SortedMap<String, ArrayList<String>> data;
+	SortedMap<BusStop, ArrayList<String>> data;
     public BusStopIndex() {
-        data = new TreeMap<String, ArrayList<String>>();
+        data = new TreeMap<BusStop, ArrayList<String>>();
     }
     
     /**
      * Adds a filename containing busStopName into the index.
-     * @param busStopName
+     * @param busStop
      * @param scheduleFileName
      */
-    public void put(String busStopName, String scheduleFileName) {
-        ArrayList<String> subData = data.get(busStopName);
+    public void put(BusStop busStop, String scheduleFileName) {
+        ArrayList<String> subData = data.get(busStop);
         if (subData==null) {
             subData = new ArrayList<String>();
-            data.put(busStopName, subData);
+            data.put(busStop, subData);
         }
         if (!subData.contains(scheduleFileName))
             subData.add(scheduleFileName);
@@ -55,14 +54,14 @@ public class BusStopIndex {
     
     /**
      * Adds filenames containing busStopName into the index.
-     * @param busStopName
+     * @param busStop
      * @param scheduleFileNames
      */
-    public void putAll(String busStopName, Collection<String> scheduleFileNames) {
-        ArrayList<String> subData = data.get(busStopName);
+    public void putAll(BusStop busStop, Collection<String> scheduleFileNames) {
+        ArrayList<String> subData = data.get(busStop);
         if (subData==null) {
             subData = new ArrayList<String>();
-            data.put(busStopName, subData);
+            data.put(busStop, subData);
         }
         subData.addAll(scheduleFileNames);
     }
@@ -97,10 +96,10 @@ public class BusStopIndex {
     public void saveToStream(DataOutputStream out) throws IOException {
         PrintWriter pw = new PrintWriter(out);
         try {
-            Iterator<String> stops = data.keySet().iterator();
+            Iterator<BusStop> stops = data.keySet().iterator();
             while (stops.hasNext()) {
-                String busStop = stops.next();
-                out.writeUTF(busStop);
+                BusStop busStop = stops.next();
+                busStop.saveToDataStream(out);
                 
                 Collection<String> fileNames = data.get(busStop);
                 out.writeInt(fileNames.size());
@@ -120,10 +119,10 @@ public class BusStopIndex {
      */
     public void saveToDataStream(DataOutputStream out) throws IOException {
         out.writeInt(data.size()); //write number of stops
-        Iterator<String> stops = data.keySet().iterator();
+        Iterator<BusStop> stops = data.keySet().iterator();
         while (stops.hasNext()) {
-            String busStop = stops.next();
-            out.writeUTF(busStop); //write busstop name
+            BusStop busStop = stops.next();
+            busStop.saveToDataStream(out);
             Collection<String> fileNames = data.get(busStop);
             out.writeInt(fileNames.size()); //write number of related files
             for (String fileName: fileNames) {

@@ -190,8 +190,9 @@ public class ScheduleConverter {
     private static void saveDirInfoEntry(DataOutputStream out, String savedFileName, Schedule sch) throws IOException {
         out.writeUTF(savedFileName);
         out.writeUTF(sch.getDetails().getBusNumber());
+        sch.getDetails().getDirection().writeToDataStream(out);
         out.writeUTF(sch.getDetails().getIsHolidayChar());
-        out.writeUTF(sch.getDetails().getDirection());
+        out.writeUTF(sch.getDetails().getRoute());
     }
 
     /**
@@ -201,8 +202,10 @@ public class ScheduleConverter {
      * @param scheduleFileName
      */
     private static void addAllStopsToIndex(Schedule sch, BusStopIndex index, String scheduleFileName) {
+    	Direction dir = sch.getDetails().getDirection();
         for (TimeScheduleLine schLine: sch.getLines()) {
-            index.put(schLine.getBusStopName(), scheduleFileName);
+        	BusStop busStop = new BusStop(schLine.getBusStopName(), dir);
+            index.put(busStop, scheduleFileName);
         }
        }
 
@@ -288,6 +291,7 @@ public class ScheduleConverter {
             
             schedule = new Schedule();
             schedule.combineFromPages(pages);
+            schedule.getDetails().setDirection(Direction.fromFileName(fileName));
             //Log.log(sch.toString());
             
             //Log.log("Done!");

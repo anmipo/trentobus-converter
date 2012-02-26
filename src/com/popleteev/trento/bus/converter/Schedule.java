@@ -27,7 +27,9 @@ import java.util.LinkedList;
  */
 public class Schedule extends SchedulePage {
 
-    public Schedule() {
+    private Direction direction = Direction.UNDEFINED;
+
+	public Schedule() {
         super();
     }
 
@@ -79,5 +81,4 @@ public class Schedule extends SchedulePage {
             line.saveToDataStream(out);
         }
     }
-
 }
