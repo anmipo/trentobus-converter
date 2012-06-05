@@ -22,6 +22,7 @@ package com.popleteev.trento.bus.converter;
 public class ScheduleConverterException extends Exception {
 
     public ScheduleConverterException(String string) {
+    	super(string);
     }
 
 }

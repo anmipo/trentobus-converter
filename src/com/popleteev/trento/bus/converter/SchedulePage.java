@@ -179,6 +179,17 @@ public class SchedulePage {
      * Both pages must have the same line names, otherwise throws an exception.
      */
     protected void joinPage(SchedulePage page2) throws ScheduleConverterException {
+    	int lineCount1 = lines.size();
+    	int lineCount2 = page2.getLines().size();
+    	if (lineCount1 != lineCount2) {
+    		throw new ScheduleConverterException(String.format(
+    				"Schedule pages must have equal number of lines.\n" +
+    				"Got %d instead of %d lines in %s page beginning with\n%s",
+    				lineCount2, lineCount1,
+    				this.details.getInfoLine(),
+    				page2.getLines().getFirst().toString()));
+    	}
+    	
         for (int i=0; i<lines.size(); i++) {
             ScheduleLine line1 = lines.get(i);
             ScheduleLine line2 = page2.getLines().get(i);

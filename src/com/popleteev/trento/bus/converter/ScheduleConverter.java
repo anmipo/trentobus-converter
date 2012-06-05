@@ -57,7 +57,7 @@ public class ScheduleConverter {
     public static void main(String[] args) {
         if (args.length<2) {
             System.out.println("Schedule converter for TrentoBus project. Version 1.0.");
-            System.out.println("Copyright © 2008-2011 Andrei Popleteev\n");
+            System.out.println("Copyright ï¿½ 2008-2011 Andrei Popleteev\n");
             System.out.println("Takes two parameters:");
             System.out.println("1. input directory with .txt files");
             System.out.println("2. output directory for .dat files.");
@@ -292,11 +292,11 @@ public class ScheduleConverter {
             schedule = new Schedule();
             schedule.combineFromPages(pages);
             schedule.getDetails().setDirection(Direction.fromFileName(fileName));
-            //Log.log(sch.toString());
+            //log.info(schedule.toString());
             
             //Log.log("Done!");
         } catch (ScheduleConverterException e) {
-            log.error(e.toString());
+            log.error(e);
         } finally {
             br.close();
         }
