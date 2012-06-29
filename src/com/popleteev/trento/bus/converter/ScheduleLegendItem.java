@@ -22,7 +22,7 @@ package com.popleteev.trento.bus.converter;
  * @author Andrei Popleteev
  */
 public class ScheduleLegendItem {
-    private static final int SYMBOL_WIDTH = 3;
+    private static final int SYMBOL_WIDTH = 1;
     
     private String symbol;
     private String description;
