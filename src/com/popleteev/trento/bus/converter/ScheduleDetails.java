@@ -21,8 +21,11 @@ import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.text.ParsePosition;
 import java.text.SimpleDateFormat;
+import java.util.Calendar;
 import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.LinkedList;
+import java.util.TimeZone;
 
 /**
  * Schedule details, such as bus number, route, isHoliday flag, 
@@ -38,6 +41,7 @@ public class ScheduleDetails {
     private static final String VALIDO_DAL = "Valido dal ";
     private static final int SYMBOLS_BETWEEN_VALIDITY_DATES = 4;
     public static final SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("dd/MM/yyyy");
+    private static final TimeZone TIMEZONE = TimeZone.getTimeZone("GMT+0200"); 
 
     private String busNumber;  // bus number
     private String route;      // route route text
@@ -90,10 +94,7 @@ public class ScheduleDetails {
             throw new ScheduleConverterException("Unrecognized schedule type: "+schType);
         
         String validity = rawPage.getValidityLine();
-        ParsePosition startFrom = new ParsePosition(validity.indexOf(VALIDO_DAL)+VALIDO_DAL.length());
-        result.validFrom = DATE_FORMAT.parse(validity, startFrom);
-        startFrom.setIndex(startFrom.getIndex()+SYMBOLS_BETWEEN_VALIDITY_DATES);
-        result.validTo = DATE_FORMAT.parse(validity, startFrom);
+        parseValidityDates(validity, result);
         
         //if there are legend lines, convert them too
         LinkedList<String> rawLegend = rawPage.getLegendLines();
@@ -102,7 +103,27 @@ public class ScheduleDetails {
         return result;
     }
 
-    public String getBusNumber() {
+    private static void parseValidityDates(String validity,
+			ScheduleDetails result) {
+        ParsePosition startFrom = new ParsePosition(
+        		validity.indexOf(VALIDO_DAL)+VALIDO_DAL.length());
+        
+        Calendar itCalendar = new GregorianCalendar(TIMEZONE);
+        itCalendar.setTime(DATE_FORMAT.parse(validity, startFrom));
+        itCalendar.set(Calendar.HOUR_OF_DAY, 0);
+        itCalendar.set(Calendar.MINUTE, 0);
+        itCalendar.set(Calendar.SECOND, 0);
+        result.validFrom = itCalendar.getTime();
+        
+        startFrom.setIndex(startFrom.getIndex()+SYMBOLS_BETWEEN_VALIDITY_DATES);
+        itCalendar.setTime(DATE_FORMAT.parse(validity, startFrom));
+        itCalendar.set(Calendar.HOUR_OF_DAY, 23);
+        itCalendar.set(Calendar.MINUTE, 59);        
+        itCalendar.set(Calendar.SECOND, 59);        
+        result.validTo = itCalendar.getTime();
+	}
+
+	public String getBusNumber() {
         return busNumber;
     }
 
