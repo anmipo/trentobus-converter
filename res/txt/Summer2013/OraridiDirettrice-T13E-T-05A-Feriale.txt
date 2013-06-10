@@ -1,0 +1,423 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                                                                                   à 
+Linea                                                                               o 
+
+Piazza Dante  "Stazione FS"                    05.43     06.26     06.49     07.06                07.29     07.38     07.44 
+Rosmini  S.Maria Maggiore                      05.44     06.28     06.51     07.08                07.31     07.40     07.46 
+Travai  al Nuoto                               05.46     06.30     06.53     07.10                07.33     07.42     07.48 
+ Piazza di Fiera                               05.47     06.31     06.54     07.11                07.34     07.43     07.49 
+S.Francesco  Porta Nuova                       05.49     06.33     06.56     07.13                07.36     07.45     07.51 
+Venezia  "Port'Aquila"                         05.49     06.33     06.56     07.13                07.36     07.45     07.51 
+Venezia  Cave                                  05.50     06.34     06.57     07.14                07.37     07.46     07.52 
+Valsugana  "Corallo"                           05.52     06.36     06.59     07.16                07.39     07.48     07.54 
+ "Ponte Lodovico"                              05.53     06.37     07.00     07.17                07.40     07.49     07.55 
+SAN DONÀ                                         |         |         |         |                   |          |         |   
+SAN VITO                                         |         |         |         |                   |          |         |   
+COGNOLA  S.Vito                                  |         |         |         |                   |          |         |   
+MESIANO  "Fac. Ingegneria"                     05.54     06.38     07.01     07.18                07.41     07.50     07.56 
+MESIANO  "Stazione FS"                         05.54     06.39     07.02     07.19                07.42     07.51     07.57 
+POVO  Sommarive                                  |         |         |         |                   |          |         |   
+POVO  "IRST"                                     |         |         |         |                   |          |         |   
+POVO  Pantè                                      |         |         |         |                   |          |         |   
+POVO  "Fac. Scienze"                           05.56     06.41     07.04     07.21                07.44     07.53     07.59 
+POVO  Salé                                     05.57     06.42     07.05     07.22                07.45     07.54     08.00 
+POVO  "Centro Civico"                          05.57     06.42     07.05     07.22                07.45     07.54     08.00 
+POVO  Piazza Manci                             05.58     06.43     07.06     07.23    07.25       07.46     07.55     08.01 
+POVO  "Polo sociale"                           05.58     06.44     07.07     07.24    07.26       07.47     07.56     08.02 
+POVO  "Casa di riposo"                         05.59     06.45     07.08     07.25    07.27       07.48               08.03 
+SPRÉ  S.Lucia                                  06.01     06.46     07.09     07.26    07.28       07.49               08.04 
+BORINO                                         06.02     06.48     07.11     07.28       |        07.51               08.06 
+OLTRECASTELLO                                  06.03     06.50     07.13     07.30       |        07.53               08.08 
+BORINO                                                                                07.29 
+CIMIRLO                                                                               07.40 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                               Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                      à        à                   à                   à                   à 
+Linea                                                         o 
+
+Piazza Dante  "Stazione FS"                   07.53    07.53               08.09     08.10     08.11     08.27     08.33 
+Rosmini  S.Maria Maggiore                     07.55    07.55               08.11     08.12     08.13     08.29     08.35 
+Travai  al Nuoto                              07.57    07.57               08.13     08.14     08.15     08.31     08.37 
+ Piazza di Fiera                              07.58    07.58               08.14     08.15     08.16     08.32     08.38 
+S.Francesco  Porta Nuova                      08.00    08.00               08.16     08.17     08.18     08.34     08.40 
+Venezia  "Port'Aquila"                        08.00    08.00               08.16     08.17     08.18     08.34     08.40 
+Venezia  Cave                                 08.01    08.01               08.17     08.18     08.19     08.35     08.41 
+Valsugana  "Corallo"                          08.03    08.03               08.19     08.20     08.21     08.37     08.43 
+ "Ponte Lodovico"                             08.04    08.04               08.20     08.21     08.22     08.38     08.44 
+SAN DONÀ                                        |         |                  |         |         |         |         |   
+SAN VITO                                        |         |                  |         |         |         |         |   
+COGNOLA  S.Vito                                 |         |                  |         |         |         |         |   
+MESIANO  "Fac. Ingegneria"                    08.05    08.05               08.21     08.22     08.23     08.39     08.45 
+MESIANO  "Stazione FS"                        08.06    08.06               08.22     08.23     08.24     08.40     08.46 
+POVO  Sommarive                                 |      08.08               08.24       |       08.26       |       08.48 
+POVO  "IRST"                                    |      08.09               08.25       |       08.27       |       08.49 
+POVO  Pantè                                     |                                      |                   |   
+POVO  "Fac. Scienze"                          08.08                                  08.25               08.42 
+POVO  Salé                                    08.09                                  08.26               08.43 
+POVO  "Centro Civico"                         08.09                                  08.26               08.43 
+POVO  Piazza Manci                            08.10             08.10                08.27               08.44 
+POVO  "Polo sociale"                          08.11             08.11                08.28               08.45 
+POVO  "Casa di riposo"                                          08.12                08.29               08.46 
+SPRÉ  S.Lucia                                                   08.13                08.30               08.47 
+BORINO                                                             |                 08.32               08.49 
+OLTRECASTELLO                                                      |                 08.34               08.51 
+BORINO                                                          08.14 
+CIMIRLO                                                         08.25 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                            Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                    ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                      à                  à         à                   à                   à 
+Linea 
+
+Piazza Dante  "Stazione FS"                   08.39    08.49     08.59     09.09     09.10     09.19     09.29     09.34 
+Rosmini  S.Maria Maggiore                     08.41    08.51     09.01     09.11     09.12     09.21     09.31     09.36 
+Travai  al Nuoto                              08.43    08.53     09.03     09.13     09.14     09.23     09.33     09.38 
+ Piazza di Fiera                              08.44    08.54     09.04     09.14     09.15     09.24     09.34     09.39 
+S.Francesco  Porta Nuova                      08.46    08.56     09.06     09.16     09.17     09.26     09.36     09.41 
+Venezia  "Port'Aquila"                        08.46    08.56     09.06     09.16     09.17     09.26     09.36     09.41 
+Venezia  Cave                                 08.47    08.57     09.07     09.17     09.18     09.27     09.37     09.42 
+Valsugana  "Corallo"                          08.49    08.59     09.09     09.19     09.20     09.29     09.39     09.44 
+ "Ponte Lodovico"                             08.50    09.00     09.10     09.20     09.21     09.30     09.40     09.45 
+SAN DONÀ                                        |         |        |         |         |         |         |         |   
+SAN VITO                                        |         |        |         |         |         |         |         |   
+COGNOLA  S.Vito                                 |         |        |         |         |         |         |         |   
+MESIANO  "Fac. Ingegneria"                    08.51    09.01     09.11     09.21     09.22     09.31     09.41     09.46 
+MESIANO  "Stazione FS"                        08.52    09.02     09.12     09.22     09.23     09.32     09.42     09.47 
+POVO  Sommarive                               08.54       |      09.14     09.24       |       09.34       |       09.49 
+POVO  "IRST"                                  08.55       |      09.15     09.25       |       09.35       |       09.50 
+POVO  Pantè                                               |                            |                   |   
+POVO  "Fac. Scienze"                                   09.04                         09.25               09.44 
+POVO  Salé                                             09.05                         09.26               09.45 
+POVO  "Centro Civico"                                  09.05                         09.26               09.45 
+POVO  Piazza Manci                                     09.06                         09.27               09.46 
+POVO  "Polo sociale"                                   09.07                         09.28               09.47 
+POVO  "Casa di riposo"                                 09.08                         09.29               09.48 
+SPRÉ  S.Lucia                                          09.09                         09.30               09.49 
+BORINO                                                 09.11                         09.32               09.51 
+OLTRECASTELLO                                          09.13                         09.34               09.53 
+BORINO  
+CIMIRLO  
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                            Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                                à 
+Linea                                                                                         o 
+
+Piazza Dante  "Stazione FS"                   09.49      09.54     10.09     10.29     10.49               11.09     11.29 
+Rosmini  S.Maria Maggiore                     09.51      09.56     10.11     10.31     10.51               11.11     11.31 
+Travai  al Nuoto                              09.53      09.58     10.13     10.33     10.53               11.13     11.33 
+ Piazza di Fiera                              09.54      09.59     10.14     10.34     10.54               11.14     11.34 
+S.Francesco  Porta Nuova                      09.56      10.01     10.16     10.36     10.56               11.16     11.36 
+Venezia  "Port'Aquila"                        09.56      10.01     10.16     10.36     10.56               11.16     11.36 
+Venezia  Cave                                 09.57      10.02     10.17     10.37     10.57               11.17     11.37 
+Valsugana  "Corallo"                          09.59      10.04     10.19     10.39     10.59               11.19     11.39 
+ "Ponte Lodovico"                             10.00      10.05     10.20     10.40     11.00               11.20     11.40 
+SAN DONÀ                                        |         |          |         |         |                   |         |   
+SAN VITO                                        |         |          |         |         |                   |         |   
+COGNOLA  S.Vito                                 |         |          |         |         |                   |         |   
+MESIANO  "Fac. Ingegneria"                    10.01      10.06     10.21     10.41     11.01               11.21     11.41 
+MESIANO  "Stazione FS"                        10.02      10.07     10.22     10.42     11.02               11.22     11.42 
+POVO  Sommarive                                 |        10.09       |         |         |                   |         |   
+POVO  "IRST"                                    |        10.10       |         |         |                   |         |   
+POVO  Pantè                                     |                    |         |         |                   |         |   
+POVO  "Fac. Scienze"                          10.04                10.24     10.44     11.04               11.24     11.44 
+POVO  Salé                                    10.05                10.25     10.45     11.05               11.25     11.45 
+POVO  "Centro Civico"                         10.05                10.25     10.45     11.05               11.25     11.45 
+POVO  Piazza Manci                            10.06                10.26     10.46     11.06    11.08      11.26     11.46 
+POVO  "Polo sociale"                          10.07                10.27     10.47     11.07    11.09      11.27     11.47 
+POVO  "Casa di riposo"                        10.08                10.28     10.48     11.08    11.10      11.28     11.48 
+SPRÉ  S.Lucia                                 10.09                10.29     10.49     11.09    11.11      11.29     11.49 
+BORINO                                        10.11                10.31     10.51     11.11       |       11.31     11.51 
+OLTRECASTELLO                                 10.13                10.33     10.53     11.13       |       11.33     11.53 
+BORINO                                                                                          11.12 
+CIMIRLO                                                                                         11.23 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                              Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza 
+Linea                                                                     o                              o 
+
+Piazza Dante  "Stazione FS"                    11.49     12.09     12.29                12.49     13.09               13.29 
+Rosmini  S.Maria Maggiore                      11.51     12.11     12.31                12.51     13.11               13.31 
+Travai  al Nuoto                               11.53     12.13     12.33                12.53     13.13               13.33 
+ Piazza di Fiera                               11.54     12.14     12.34                12.54     13.14               13.34 
+S.Francesco  Porta Nuova                       11.56     12.16     12.36                12.56     13.16               13.36 
+Venezia  "Port'Aquila"                         11.56     12.16     12.36                12.56     13.16               13.36 
+Venezia  Cave                                  11.57     12.17     12.37                12.57     13.17               13.37 
+Valsugana  "Corallo"                           11.59     12.19     12.39                12.59     13.19               13.39 
+ "Ponte Lodovico"                              12.00     12.20     12.40                13.00     13.20               13.40 
+SAN DONÀ                                         |         |         |                   |         |                    |   
+SAN VITO                                         |         |         |                   |         |                    |   
+COGNOLA  S.Vito                                  |         |         |                   |         |                    |   
+MESIANO  "Fac. Ingegneria"                     12.01     12.21     12.41                13.01     13.21               13.41 
+MESIANO  "Stazione FS"                         12.02     12.22     12.42                13.02     13.22               13.42 
+POVO  Sommarive                                  |         |         |                   |         |                    |   
+POVO  "IRST"                                     |         |         |                   |         |                    |   
+POVO  Pantè                                      |         |         |                   |         |                    |   
+POVO  "Fac. Scienze"                           12.04     12.24     12.44                13.04     13.24               13.44 
+POVO  Salé                                     12.05     12.25     12.45                13.05     13.25               13.45 
+POVO  "Centro Civico"                          12.05     12.25     12.45                13.05     13.25               13.45 
+POVO  Piazza Manci                             12.06     12.26     12.46    12.50       13.06     13.26   13.40       13.46 
+POVO  "Polo sociale"                           12.07     12.27     12.47    12.51       13.07     13.27   13.41       13.47 
+POVO  "Casa di riposo"                         12.08     12.28     12.48    12.52       13.08     13.28   13.42       13.48 
+SPRÉ  S.Lucia                                  12.09     12.29     12.49    12.53       13.09     13.29   13.43       13.49 
+BORINO                                         12.11     12.31     12.51       |        13.11     13.31       |       13.51 
+OLTRECASTELLO                                  12.13     12.33     12.53       |        13.13     13.33       |       13.53 
+BORINO                                                                      12.54                         13.44 
+CIMIRLO                                                                     13.05                         13.55 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                               Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                       Ü                             Ü                             Ü          Ü 
+Linea                                                                                                              o 
+
+Piazza Dante  "Stazione FS"                    13.49     14.09     14.29     14.49      15.09     15.29     15.49 
+Rosmini  S.Maria Maggiore                      13.51     14.11     14.31     14.51      15.11     15.31     15.51 
+Travai  al Nuoto                               13.53     14.13     14.33     14.53      15.13     15.33     15.53 
+ Piazza di Fiera                               13.54     14.14     14.34     14.54      15.14     15.34     15.54 
+S.Francesco  Porta Nuova                       13.56     14.16     14.36     14.56      15.16     15.36     15.56 
+Venezia  "Port'Aquila"                         13.56     14.16     14.36     14.56      15.16     15.36     15.56 
+Venezia  Cave                                  13.57     14.17     14.37     14.57      15.17     15.37     15.57 
+Valsugana  "Corallo"                           13.59     14.19     14.39     14.59      15.19     15.39     15.59 
+ "Ponte Lodovico"                              14.00     14.20     14.40     15.00      15.20     15.40     16.00 
+SAN DONÀ                                         |         |         |         |         |         |          |   
+SAN VITO                                         |         |         |         |         |         |          |   
+COGNOLA  S.Vito                                  |         |         |         |         |         |          |   
+MESIANO  "Fac. Ingegneria"                     14.01     14.21     14.41     15.01      15.21     15.41     16.01 
+MESIANO  "Stazione FS"                         14.02     14.22     14.42     15.02      15.22     15.42     16.02 
+POVO  Sommarive                                  |         |         |         |         |         |          |   
+POVO  "IRST"                                     |         |         |         |         |         |          |   
+POVO  Pantè                                      |         |         |         |         |         |          |   
+POVO  "Fac. Scienze"                           14.04     14.24     14.44     15.04      15.24     15.44     16.04 
+POVO  Salé                                     14.05     14.25     14.45     15.05      15.25     15.45     16.05 
+POVO  "Centro Civico"                          14.05     14.25     14.45     15.05      15.25     15.45     16.05 
+POVO  Piazza Manci                             14.06     14.26     14.46     15.06      15.26     15.46     16.06    16.10 
+POVO  "Polo sociale"                           14.07     14.27     14.47     15.07      15.27     15.47     16.07    16.11 
+POVO  "Casa di riposo"                         14.08     14.28     14.48     15.08      15.28     15.48     16.08    16.12 
+SPRÉ  S.Lucia                                  14.09     14.29     14.49     15.09      15.29     15.49     16.09    16.13 
+BORINO                                         14.11     14.31     14.51     15.11      15.31     15.51     16.11       |   
+OLTRECASTELLO                                  14.13     14.33     14.53     15.13      15.33     15.53     16.13       |   
+BORINO                                                                                                               16.14 
+CIMIRLO                                                                                                              16.25 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                               Pag. 6 
+
+----------------------- Page 7-----------------------
+
+                                                                                                ORARIO FERIALE 
+
+                                                       ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                                  à                    Ü         à                    à 
+Linea 
+
+Piazza Dante  "Stazione FS"                     16.09      16.18     16.29     16.49      16.54     17.09      17.18     17.29 
+Rosmini  S.Maria Maggiore                       16.11       |        16.31     16.51       |        17.11       |        17.31 
+Travai  al Nuoto                                16.13       |        16.33     16.53       |        17.13       |        17.33 
+ Piazza di Fiera                                16.14       |        16.34     16.54       |        17.14       |        17.34 
+S.Francesco  Porta Nuova                        16.16       |        16.36     16.56       |        17.16       |        17.36 
+Venezia  "Port'Aquila"                          16.16      16.23     16.36     16.56      16.59     17.16      17.23     17.36 
+Venezia  Cave                                   16.17      16.24     16.37     16.57      17.00     17.17      17.24     17.37 
+Valsugana  "Corallo"                            16.19      16.26     16.39     16.59      17.02     17.19      17.26     17.39 
+ "Ponte Lodovico"                               16.20      16.27     16.40     17.00      17.03     17.20      17.27     17.40 
+SAN DONÀ                                          |         |          |         |         |          |         |          |   
+SAN VITO                                          |         |          |         |         |          |         |          |   
+COGNOLA  S.Vito                                   |         |          |         |         |          |         |          |   
+MESIANO  "Fac. Ingegneria"                      16.21      16.28     16.41     17.01      17.04     17.21      17.28     17.41 
+MESIANO  "Stazione FS"                          16.22      16.29     16.42     17.02      17.05     17.22      17.29     17.42 
+POVO  Sommarive                                   |         |          |         |         |          |         |          |   
+POVO  "IRST"                                      |         |          |         |         |          |         |          |   
+POVO  Pantè                                       |        16.31       |         |        17.07       |        17.31       |   
+POVO  "Fac. Scienze"                            16.24       |        16.44     17.04       |        17.24       |        17.44 
+POVO  Salé                                      16.25       |        16.45     17.05       |        17.25       |        17.45 
+POVO  "Centro Civico"                           16.25       |        16.45     17.05       |        17.25       |        17.45 
+POVO  Piazza Manci                              16.26      16.32     16.46     17.06      17.08     17.26      17.32     17.46 
+POVO  "Polo sociale"                            16.27      16.33     16.47     17.07      17.09     17.27      17.33     17.47 
+POVO  "Casa di riposo"                          16.28                16.48     17.08                17.28                17.48 
+SPRÉ  S.Lucia                                   16.29                16.49     17.09                17.29                17.49 
+BORINO                                          16.31                16.51     17.11                17.31                17.51 
+OLTRECASTELLO                                   16.33                16.53     17.13                17.33                17.53 
+BORINO  
+CIMIRLO  
+
+www.eureka.ra.it               Le note dei simboli sono sull'ultima pagina di ogni linea                                 Pag. 7 
+
+----------------------- Page 8-----------------------
+
+                                                                                                ORARIO FERIALE 
+
+                                                       ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                        à          Ü         à          Ü                    à                   à 
+Linea                                                                        o 
+
+Piazza Dante  "Stazione FS"                      17.34     17.49      17.54                18.09     18.18     18.29      18.34 
+Rosmini  S.Maria Maggiore                         |        17.51       |                   18.11       |       18.31        |   
+Travai  al Nuoto                                  |        17.53       |                   18.13       |       18.33        |   
+ Piazza di Fiera                                  |        17.54       |                   18.14       |       18.34        |   
+S.Francesco  Porta Nuova                          |        17.56       |                   18.16       |       18.36        |   
+Venezia  "Port'Aquila"                           17.39     17.56      17.59                18.16     18.23     18.36      18.39 
+Venezia  Cave                                    17.40     17.57      18.00                18.17     18.24     18.37      18.40 
+Valsugana  "Corallo"                             17.42     17.59      18.02                18.19     18.26     18.39      18.42 
+ "Ponte Lodovico"                                17.43     18.00      18.03                18.20     18.27     18.40      18.43 
+SAN DONÀ                                          |          |         |                    |          |         |          |   
+SAN VITO                                          |          |         |                    |          |         |          |   
+COGNOLA  S.Vito                                   |          |         |                    |          |         |          |   
+MESIANO  "Fac. Ingegneria"                       17.44     18.01      18.04                18.21     18.28     18.41      18.44 
+MESIANO  "Stazione FS"                           17.45     18.02      18.05                18.22     18.29     18.42      18.45 
+POVO  Sommarive                                   |          |         |                    |          |         |          |   
+POVO  "IRST"                                      |          |         |                    |          |         |          |   
+POVO  Pantè                                      17.47       |        18.07                 |        18.31       |        18.47 
+POVO  "Fac. Scienze"                              |        18.04       |                   18.24       |       18.44        |   
+POVO  Salé                                        |        18.05       |                   18.25       |       18.45        |   
+POVO  "Centro Civico"                             |        18.05       |                   18.25       |       18.45        |   
+POVO  Piazza Manci                               17.48     18.06      18.08   18.10        18.26     18.32     18.46      18.48 
+POVO  "Polo sociale"                             17.49     18.07      18.09   18.11        18.27     18.33     18.47      18.49 
+POVO  "Casa di riposo"                                     18.08              18.12        18.28               18.48 
+SPRÉ  S.Lucia                                              18.09              18.13        18.29               18.49 
+BORINO                                                     18.11                  |        18.31               18.51 
+OLTRECASTELLO                                              18.13                  |        18.33               18.53 
+BORINO                                                                        18.14 
+CIMIRLO                                                                       18.25 
+
+www.eureka.ra.it               Le note dei simboli sono sull'ultima pagina di ogni linea                                  Pag. 8 
+
+----------------------- Page 9-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                     ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza                                      Ü         Ü                              Ü 
+Linea                                      o 
+
+Piazza Dante  "Stazione FS"                              18.49     19.09     19.29     19.49     20.09     20.29     21.30 
+Rosmini  S.Maria Maggiore                                18.51     19.11     19.31     19.51     20.11     20.31     21.31 
+Travai  al Nuoto                                         18.53     19.13     19.33     19.53     20.13     20.33     21.33 
+ Piazza di Fiera                                         18.54     19.14     19.34     19.54     20.14     20.34     21.34 
+S.Francesco  Porta Nuova                                 18.56     19.16     19.36     19.56     20.16     20.36     21.36 
+Venezia  "Port'Aquila"                                   18.56     19.16     19.36     19.56     20.16     20.36     21.36 
+Venezia  Cave                                            18.57     19.17     19.37     19.57     20.17     20.37     21.37 
+Valsugana  "Corallo"                                     18.59     19.19     19.39     19.59     20.19     20.39     21.39 
+ "Ponte Lodovico"                                        19.00     19.20     19.40     20.00     20.20     20.40     21.40 
+SAN DONÀ                                                  |          |         |         |         |         |       21.40 
+SAN VITO                                                  |          |         |         |         |         |       21.42 
+COGNOLA  S.Vito                                           |          |         |         |         |         |       21.43 
+MESIANO  "Fac. Ingegneria"                               19.01     19.21     19.41     20.01     20.21     20.41     21.46 
+MESIANO  "Stazione FS"                                   19.02     19.22     19.42     20.02     20.22     20.42     21.46 
+POVO  Sommarive                                           |          |         |         |         |         |         |   
+POVO  "IRST"                                              |          |         |         |         |         |         |   
+POVO  Pantè                                               |          |         |         |         |         |         |   
+POVO  "Fac. Scienze"                                     19.04     19.24     19.44     20.04     20.24     20.44     21.48 
+POVO  Salé                                               19.05     19.25     19.45     20.05     20.25     20.45     21.49 
+POVO  "Centro Civico"                                    19.05     19.25     19.45     20.05     20.25     20.45     21.49 
+POVO  Piazza Manci                           18.48       19.06     19.26     19.46     20.06     20.26     20.46     21.50 
+POVO  "Polo sociale"                         18.49       19.07     19.27     19.47     20.07     20.27     20.47     21.50 
+POVO  "Casa di riposo"                       18.50       19.08     19.28     19.48     20.08     20.28     20.48     21.51 
+SPRÉ  S.Lucia                                18.51       19.09     19.29     19.49     20.09     20.29     20.49     21.53 
+BORINO                                          |        19.11     19.31     19.51     20.11     20.31     20.51     21.54 
+OLTRECASTELLO                                   |        19.13     19.33     19.53     20.13     20.33     20.53     21.55 
+BORINO                                       18.52 
+CIMIRLO                                      19.03 
+
+www.eureka.ra.it              Le note dei simboli sono sull'ultima pagina di ogni linea                              Pag. 9 
+
+----------------------- Page 10-----------------------
+
+                                                                                         ORARIO FERIALE 
+
+                                                   ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   5       Piazza Dante - P.Fiera - Povo - Oltrecastello 
+
+Frequenza 
+Linea 
+
+Piazza Dante  "Stazione FS"                 22.30     23.30 
+Rosmini  S.Maria Maggiore                   22.31     23.31 
+Travai  al Nuoto                            22.33     23.33 
+ Piazza di Fiera                            22.34     23.34 
+S.Francesco  Porta Nuova                    22.36     23.36 
+Venezia  "Port'Aquila"                      22.36     23.36 
+Venezia  Cave                               22.37     23.37 
+Valsugana  "Corallo"                        22.39     23.39 
+ "Ponte Lodovico"                           22.40     23.40 
+SAN DONÀ                                    22.40     23.40 
+SAN VITO                                    22.42     23.42 
+COGNOLA  S.Vito                             22.43     23.43 
+MESIANO  "Fac. Ingegneria"                  22.46     23.46 
+MESIANO  "Stazione FS"                      22.46     23.46 
+POVO  Sommarive                                |        |   
+POVO  "IRST"                                   |        |   
+POVO  Pantè                                    |        |   
+POVO  "Fac. Scienze"                        22.48     23.48 
+POVO  Salé                                  22.49     23.49 
+POVO  "Centro Civico"                       22.49     23.49 
+POVO  Piazza Manci                          22.50     23.50 
+POVO  "Polo sociale"                        22.50     23.50 
+POVO  "Casa di riposo"                      22.51     23.51 
+SPRÉ  S.Lucia                               22.53     23.53 
+BORINO                                      22.54     23.54 
+OLTRECASTELLO                               22.55     23.55 
+BORINO  
+CIMIRLO  
+
+Frequenze                                  Note di Corsa 
+  à Lun-Ven sospesa 22/07 - 30/08           o Servizio effettuato da autonoleggiatore privato. 
+  Ü Feriale da Lunedì a Venerdì 
+
+www.eureka.ra.it                                                                                               Pag. 10 

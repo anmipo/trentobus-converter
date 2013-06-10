@@ -1,0 +1,266 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                        ORARIO FERIALE 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                                                 Ü                  Ü                  Ü 
+Linea                                        NP 
+RONCAFORT nord                                                                    07.04              07.24 
+
+RONCAFORT                                                                06.49    07.04     07.14    07.24 
+RONCAFORT  Caproni                                                       06.50    07.05     07.15    07.25 
+RONCAFORT  Bettine                                                       06.51    07.06     07.16    07.26 
+Maccani  Commercio                                                       06.53    07.08     07.18    07.28 
+Maccani  "rotatoria"                                                     06.55    07.10     07.20    07.30 
+F.lli Fontana  Gen. Cantore                                              06.58    07.13     07.23    07.33 
+Segantini  Centa                                                         07.00    07.15     07.25    07.35 
+Piazza Dante  "Stazione FS"                                              07.01    07.16     07.26    07.36 
+Rosmini  S.Maria Maggiore                  06.25                         07.03    07.18     07.28    07.38 
+Rosmini  "Cimitero"                        06.27                         07.05    07.20     07.30    07.40 
+Giusti  Pascoli                            06.28                         07.06    07.21     07.31    07.41 
+Vittorio Veneto  "S.Giuseppe"              06.33                         07.08    07.23     07.33    07.43 
+Milano  a Prato                               |                          07.10    07.25     07.35    07.45 
+Bolghera  "S.Antonio"                         |                          07.13    07.28     07.38    07.48 
+Gerola  "Ospedale S.Chiara"                06.39                         07.14    07.29     07.39    07.49 
+ Piazza Vicenza                               |                          07.16    07.31     07.41    07.51 
+Giovanelli  "Osp. S.Camillo"               06.45                         07.17    07.32     07.42    07.52 
+Grazioli  Brigata Acqui                    06.46                         07.18    07.33     07.43    07.53 
+Sanzio  "Castello"                         06.50                         07.22    07.37     07.47    07.57 
+Gazzoletti  Piazza Dante                             06.48     07.08     07.25    07.40     07.50    08.00     08.10 
+ Largo Sauro                                         06.50     07.10     07.27    07.42     07.52    08.02     08.12 
+F.lli Fontana  Gen. Cantore                          06.54     07.14     07.31    07.46     07.56    08.06     08.16 
+degli Alpini  Oberziner                              06.55     07.15     07.32    07.47     07.57    08.07     08.17 
+Maccani  "rotatoria"                                 06.56     07.16     07.33    07.48     07.58    08.08     08.18 
+Maccani  Commercio                                   06.59     07.19     07.36    07.51     08.01    08.11     08.21 
+Caneppele Goio                                       07.00     07.20     07.37    07.52     08.02    08.12     08.22 
+RONCAFORT  Bettine                                   07.01     07.21     07.38    07.53     08.03    08.13     08.23 
+RONCAFORT                                            07.02     07.22     07.39    07.54     08.04    08.14     08.24 
+RONCAFORT nord                                       07.03     07.23     07.40    07.55     08.05    08.15     08.25 
+
+www.eureka.ra.it             Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                       ORARIO FERIALE 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                             Ü 
+Linea 
+
+RONCAFORT nord                                       07.53    08.06     08.30    08.54     09.18    09.42     10.06 
+RONCAFORT                                  07.40     07.53    08.06     08.30    08.54     09.18    09.42     10.06 
+RONCAFORT  Caproni                         07.41     07.54    08.07     08.31    08.55     09.19    09.43     10.07 
+RONCAFORT  Bettine                         07.42     07.55    08.08     08.32    08.56     09.20    09.44     10.08 
+Maccani  Commercio                         07.44     07.57    08.10     08.34    08.58     09.22    09.46     10.10 
+Maccani  "rotatoria"                       07.46     07.59    08.12     08.36    09.00     09.24    09.48     10.12 
+F.lli Fontana  Gen. Cantore                07.49     08.02    08.15     08.39    09.03     09.27    09.51     10.15 
+Segantini  Centa                           07.51     08.04    08.17     08.41    09.05     09.29    09.53     10.17 
+Piazza Dante  "Stazione FS"                07.52     08.05    08.18     08.42    09.06     09.30    09.54     10.18 
+Rosmini  S.Maria Maggiore                  07.54              08.20     08.44    09.08     09.32    09.56     10.20 
+Rosmini  "Cimitero"                        07.56              08.22     08.46    09.10     09.34    09.58     10.22 
+Giusti  Pascoli                            07.57              08.23     08.47    09.11     09.35    09.59     10.23 
+Vittorio Veneto  "S.Giuseppe"              07.59              08.25     08.49    09.13     09.37    10.01     10.25 
+Milano  a Prato                            08.01              08.27     08.51    09.15     09.39    10.03     10.27 
+Bolghera  "S.Antonio"                      08.04              08.30     08.54    09.18     09.42    10.06     10.30 
+Gerola  "Ospedale S.Chiara"                08.05              08.31     08.55    09.19     09.43    10.07     10.31 
+ Piazza Vicenza                            08.07              08.33     08.57    09.21     09.45    10.09     10.33 
+Giovanelli  "Osp. S.Camillo"               08.08              08.34     08.58    09.22     09.46    10.10     10.34 
+Grazioli  Brigata Acqui                    08.09              08.35     08.59    09.23     09.47    10.11     10.35 
+Sanzio  "Castello"                         08.13              08.39     09.03    09.27     09.51    10.15     10.39 
+Gazzoletti  Piazza Dante                   08.16              08.42     09.06    09.30     09.54    10.18     10.42 
+ Largo Sauro                               08.18              08.44     09.08    09.32     09.56    10.20     10.44 
+F.lli Fontana  Gen. Cantore                08.22              08.48     09.12    09.36     10.00    10.24     10.48 
+degli Alpini  Oberziner                    08.23              08.49     09.13    09.37     10.01    10.25     10.49 
+Maccani  "rotatoria"                       08.24              08.50     09.14    09.38     10.02    10.26     10.50 
+Maccani  Commercio                         08.27              08.53     09.17    09.41     10.05    10.29     10.53 
+Caneppele Goio                             08.28              08.54     09.18    09.42     10.06    10.30     10.54 
+RONCAFORT  Bettine                         08.29              08.55     09.19    09.43     10.07    10.31     10.55 
+RONCAFORT                                  08.30              08.56     09.20    09.44     10.08    10.32     10.56 
+RONCAFORT nord                             08.31              08.57     09.21    09.45     10.09    10.33     10.57 
+
+www.eureka.ra.it            Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                        ORARIO FERIALE 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                                                                             Ü 
+Linea                                                                              11                           11 
+RONCAFORT nord                              10.30     10.54    11.18     11.38              12.04    12.14        
+
+RONCAFORT                                   10.30     10.54    11.18     11.38              12.04    12.14    12.17 
+RONCAFORT  Caproni                          10.31     10.55    11.19     11.39              12.05    12.15    12.18 
+RONCAFORT  Bettine                          10.32     10.56    11.20     11.40              12.06    12.16    12.19 
+Maccani  Commercio                          10.34     10.58    11.22     11.42              12.08    12.18    12.21 
+Maccani  "rotatoria"                        10.36     11.00    11.24     11.44              12.10    12.20 
+F.lli Fontana  Gen. Cantore                 10.39     11.03    11.27     11.47              12.13    12.23 
+Segantini  Centa                            10.41     11.05    11.29     11.49              12.15    12.25 
+Piazza Dante  "Stazione FS"                 10.42     11.06    11.30     11.50              12.16    12.26 
+Rosmini  S.Maria Maggiore                   10.44     11.08    11.32     11.52              12.18 
+Rosmini  "Cimitero"                         10.46     11.10    11.34     11.54              12.20 
+Giusti  Pascoli                             10.47     11.11    11.35     11.55              12.21 
+Vittorio Veneto  "S.Giuseppe"               10.49     11.13    11.37     11.57              12.23 
+Milano  a Prato                             10.51     11.15    11.39     11.59              12.25 
+Bolghera  "S.Antonio"                       10.54     11.18    11.42     12.02              12.28 
+Gerola  "Ospedale S.Chiara"                 10.55     11.19    11.43     12.03              12.29 
+ Piazza Vicenza                             10.57     11.21    11.45     12.05              12.31 
+Giovanelli  "Osp. S.Camillo"                10.58     11.22    11.46     12.06              12.32 
+Grazioli  Brigata Acqui                     10.59     11.23    11.47     12.07              12.33 
+Sanzio  "Castello"                          11.03     11.27    11.51     12.11              12.37 
+Gazzoletti  Piazza Dante                    11.06     11.30    11.54     12.14              12.40 
+ Largo Sauro                                11.08     11.32    11.56     12.16              12.42 
+F.lli Fontana  Gen. Cantore                 11.12     11.36    12.00     12.20              12.46 
+degli Alpini  Oberziner                     11.13     11.37    12.01     12.21              12.47 
+Maccani  "rotatoria"                        11.14     11.38    12.02     12.22              12.48 
+Maccani  Commercio                          11.17     11.41    12.05     12.25              12.51 
+Caneppele Goio                              11.18     11.42    12.06     12.26   12.38      12.52 
+RONCAFORT  Bettine                          11.19     11.43    12.07     12.27   12.39      12.53 
+RONCAFORT                                   11.20     11.44    12.08     12.28   12.40      12.54 
+RONCAFORT nord                              11.21     11.45    12.09     12.29              12.55 
+
+www.eureka.ra.it             Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                       ORARIO FERIALE 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                    Ü                                              Ü 
+Linea 
+
+RONCAFORT nord                                       12.34     13.00    13.20     13.42    14.06     14.30    14.54 
+RONCAFORT                                            12.34     13.00    13.20     13.42    14.06     14.30    14.54 
+RONCAFORT  Caproni                                   12.35     13.01    13.21     13.43    14.07     14.31    14.55 
+RONCAFORT  Bettine                                   12.36     13.02    13.22     13.44    14.08     14.32    14.56 
+Maccani  Commercio                                   12.38     13.04    13.24     13.46    14.10     14.34    14.58 
+Maccani  "rotatoria"                                 12.40     13.06    13.26     13.48    14.12     14.36    15.00 
+F.lli Fontana  Gen. Cantore                          12.43     13.09    13.29     13.51    14.15     14.39    15.03 
+Segantini  Centa                                     12.45     13.11    13.31     13.53    14.17     14.41    15.05 
+Piazza Dante  "Stazione FS"                          12.46     13.12    13.32     13.54    14.18     14.42    15.06 
+Rosmini  S.Maria Maggiore                            12.48     13.14    13.34     13.56    14.20     14.44    15.08 
+Rosmini  "Cimitero"                                  12.50     13.16    13.36     13.58    14.22     14.46    15.10 
+Giusti  Pascoli                                      12.51     13.17    13.37     13.59    14.23     14.47    15.11 
+Vittorio Veneto  "S.Giuseppe"                        12.53     13.19    13.39     14.01    14.25     14.49    15.13 
+Milano  a Prato                                      12.55     13.21    13.41     14.03    14.27     14.51    15.15 
+Bolghera  "S.Antonio"                                12.58     13.24    13.44     14.06    14.30     14.54    15.18 
+Gerola  "Ospedale S.Chiara"                          12.59     13.25    13.45     14.07    14.31     14.55    15.19 
+ Piazza Vicenza                                      13.01     13.27    13.47     14.09    14.33     14.57    15.21 
+Giovanelli  "Osp. S.Camillo"                         13.02     13.28    13.48     14.10    14.34     14.58    15.22 
+Grazioli  Brigata Acqui                              13.03     13.29    13.49     14.11    14.35     14.59    15.23 
+Sanzio  "Castello"                                   13.07     13.33    13.53     14.15    14.39     15.03    15.27 
+Gazzoletti  Piazza Dante                    12.55    13.10     13.36    13.56     14.18    14.42     15.06    15.30 
+ Largo Sauro                                12.57    13.12     13.38    13.58     14.20    14.44     15.08    15.32 
+F.lli Fontana  Gen. Cantore                 13.01    13.16     13.42    14.02     14.24    14.48     15.12    15.36 
+degli Alpini  Oberziner                     13.02    13.17     13.43    14.03     14.25    14.49     15.13    15.37 
+Maccani  "rotatoria"                        13.03    13.18     13.44    14.04     14.26    14.50     15.14    15.38 
+Maccani  Commercio                          13.06    13.21     13.47    14.07     14.29    14.53     15.17    15.41 
+Caneppele Goio                              13.07    13.22     13.48    14.08     14.30    14.54     15.18    15.42 
+RONCAFORT  Bettine                          13.08    13.23     13.49    14.09     14.31    14.55     15.19    15.43 
+RONCAFORT                                   13.09    13.24     13.50    14.10     14.32    14.56     15.20    15.44 
+RONCAFORT nord                              13.10    13.25     13.51    14.11     14.33    14.57     15.21    15.45 
+
+www.eureka.ra.it            Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                       ORARIO FERIALE 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                    Ü                           Ü                           Ü 
+Linea 
+
+RONCAFORT nord                              15.18    15.42     16.06    16.32     16.58    17.22     17.46    18.08 
+RONCAFORT                                   15.18    15.42     16.06    16.32     16.58    17.22     17.46    18.08 
+RONCAFORT  Caproni                          15.19    15.43     16.07    16.33     16.59    17.23     17.47    18.09 
+RONCAFORT  Bettine                          15.20    15.44     16.08    16.34     17.00    17.24     17.48    18.10 
+Maccani  Commercio                          15.22    15.46     16.10    16.36     17.02    17.26     17.50    18.12 
+Maccani  "rotatoria"                        15.24    15.48     16.12    16.38     17.04    17.28     17.52    18.14 
+F.lli Fontana  Gen. Cantore                 15.27    15.51     16.15    16.41     17.07    17.31     17.55    18.17 
+Segantini  Centa                            15.29    15.53     16.17    16.43     17.09    17.33     17.57    18.19 
+Piazza Dante  "Stazione FS"                 15.30    15.54     16.18    16.44     17.10    17.34     17.58    18.20 
+Rosmini  S.Maria Maggiore                   15.32    15.56     16.20    16.46     17.12    17.36     18.00    18.22 
+Rosmini  "Cimitero"                         15.34    15.58     16.22    16.48     17.14    17.38     18.02    18.24 
+Giusti  Pascoli                             15.35    15.59     16.23    16.49     17.15    17.39     18.03    18.25 
+Vittorio Veneto  "S.Giuseppe"               15.37    16.01     16.25    16.51     17.17    17.41     18.05    18.27 
+Milano  a Prato                             15.39    16.03     16.27    16.53     17.19    17.43     18.07    18.29 
+Bolghera  "S.Antonio"                       15.42    16.06     16.30    16.56     17.22    17.46     18.10    18.32 
+Gerola  "Ospedale S.Chiara"                 15.43    16.07     16.31    16.57     17.23    17.47     18.11    18.33 
+ Piazza Vicenza                             15.45    16.09     16.33    16.59     17.25    17.49     18.13    18.35 
+Giovanelli  "Osp. S.Camillo"                15.46    16.10     16.34    17.00     17.26    17.50     18.14    18.36 
+Grazioli  Brigata Acqui                     15.47    16.11     16.35    17.01     17.27    17.51     18.15    18.37 
+Sanzio  "Castello"                          15.51    16.15     16.39    17.05     17.31    17.55     18.19    18.41 
+Gazzoletti  Piazza Dante                    15.54    16.18     16.42    17.08     17.34    17.58     18.22    18.44 
+ Largo Sauro                                15.56    16.20     16.44    17.10     17.36    18.00     18.24    18.46 
+F.lli Fontana  Gen. Cantore                 16.00    16.24     16.48    17.14     17.40    18.04     18.28    18.50 
+degli Alpini  Oberziner                     16.01    16.25     16.49    17.15     17.41    18.05     18.29    18.51 
+Maccani  "rotatoria"                        16.02    16.26     16.50    17.16     17.42    18.06     18.30    18.52 
+Maccani  Commercio                          16.05    16.29     16.53    17.19     17.45    18.09     18.33    18.55 
+Caneppele Goio                              16.06    16.30     16.54    17.20     17.46    18.10     18.34    18.56 
+RONCAFORT  Bettine                          16.07    16.31     16.55    17.21     17.47    18.11     18.35    18.57 
+RONCAFORT                                   16.08    16.32     16.56    17.22     17.48    18.12     18.36    18.58 
+RONCAFORT nord                              16.09    16.33     16.57    17.23     17.49    18.13     18.37    18.59 
+
+www.eureka.ra.it            Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                         ORARIO FERIALE 
+
+                                                   ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+   1       Roncafort - P.Dante - Osp.S.Chiara- Roncafort 
+
+Frequenza                                              Ü 
+Linea 
+
+RONCAFORT nord                              18.30     18.52     19.12    19.37     20.03     20.28 
+RONCAFORT                                   18.30     18.52     19.12    19.37     20.03     20.28 
+RONCAFORT  Caproni                          18.31     18.53     19.13    19.38     20.04     20.29 
+RONCAFORT  Bettine                          18.32     18.54     19.14    19.39     20.05     20.30 
+Maccani  Commercio                          18.34     18.56     19.16    19.41     20.07     20.32 
+Maccani  "rotatoria"                        18.36     18.58     19.18    19.43     20.09     20.34 
+F.lli Fontana  Gen. Cantore                 18.39     19.01     19.21    19.46     20.12     20.37 
+Segantini  Centa                            18.41     19.03     19.23    19.48     20.14     20.39 
+Piazza Dante  "Stazione FS"                 18.42     19.04     19.24    19.49     20.15     20.40 
+Rosmini  S.Maria Maggiore                   18.44     19.06     19.26    19.51 
+Rosmini  "Cimitero"                         18.46     19.08     19.28    19.53 
+Giusti  Pascoli                             18.47     19.09     19.29    19.54 
+Vittorio Veneto  "S.Giuseppe"               18.49     19.11     19.31    19.56 
+Milano  a Prato                             18.51     19.13     19.33    19.58 
+Bolghera  "S.Antonio"                       18.54     19.16     19.36    20.01 
+Gerola  "Ospedale S.Chiara"                 18.55     19.17     19.37    20.02 
+ Piazza Vicenza                             18.57     19.19     19.39    20.04 
+Giovanelli  "Osp. S.Camillo"                18.58     19.20     19.40    20.05 
+Grazioli  Brigata Acqui                     18.59     19.21     19.41    20.06 
+Sanzio  "Castello"                          19.03     19.25     19.45    20.10 
+Gazzoletti  Piazza Dante                    19.06     19.28     19.48    20.13 
+ Largo Sauro                                19.08     19.30     19.50    20.15 
+F.lli Fontana  Gen. Cantore                 19.12     19.34     19.54    20.19 
+degli Alpini  Oberziner                     19.13     19.35     19.55    20.20 
+Maccani  "rotatoria"                        19.14     19.36     19.56    20.21 
+Maccani  Commercio                          19.17     19.39     19.59    20.24 
+Caneppele Goio                              19.18     19.40     20.00    20.25 
+RONCAFORT  Bettine                          19.19     19.41     20.01    20.26 
+RONCAFORT                                   19.20     19.42     20.02    20.27 
+RONCAFORT nord                              19.21     19.43     20.03    20.28 
+
+Frequenze 
+  Ü Feriale da Lunedì a Venerdì 
+
+www.eureka.ra.it                                                                                                Pag. 6 

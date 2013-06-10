@@ -1,0 +1,75 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                        ORARIO FESTIVO 
+
+                                                  ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+  13       P.Dante - Via Degasperi - Villazzano - Povo 
+
+Frequenza 
+Linea 
+
+Piazza Dante  "Stazione FS"                 07.27    08.27     09.27     10.27    11.27     12.27    13.27     14.27 
+Rosmini  S.Maria Maggiore                   07.28    08.28     09.28     10.28    11.28     12.28    13.28     14.28 
+Rosmini  "Cimitero"                         07.29    08.29     09.29     10.29    11.29     12.29    13.29     14.29 
+Giusti  Pascoli                             07.30    08.30     09.30     10.30    11.30     12.30    13.30     14.30 
+S.Pio X  Largo Prati                        07.31    08.31     09.31     10.31    11.31     12.31    13.31     14.31 
+S.Pio X  Benevoli                           07.32    08.32     09.32     10.32    11.32     12.32    13.32     14.32 
+Degasperi  Anna Frank                       07.34    08.34     09.34     10.34    11.34     12.34    13.34     14.34 
+Degasperi  la Clarina                       07.35    08.35     09.35     10.35    11.35     12.35    13.35     14.35 
+Degasperi  "Big Center"                     07.36    08.36     09.36     10.36    11.36     12.36    13.36     14.36 
+Degasperi  "Palazzo Stella"                 07.37    08.37     09.37     10.37    11.37     12.37    13.37     14.37 
+Menguzzato  "Centro civico"                 07.39    08.39     09.39     10.39    11.39     12.39    13.39     14.39 
+Menguzzato  al Casteller                    07.40    08.40     09.40     10.40    11.40     12.40    13.40     14.40 
+Conci  ferrovia                             07.40    08.40     09.40     10.40    11.40     12.40    13.40     14.40 
+Conci  de Riccabona                         07.41    08.41     09.41     10.41    11.41     12.41    13.41     14.41 
+VILLAZZANO  "Villa Tambosi"                 07.43    08.43     09.43     10.43    11.43     12.43    13.43     14.43 
+VILLAZZANO  "Villa de Mersi"                07.44    08.44     09.44     10.44    11.44     12.44    13.44     14.44 
+VILLAZZANO  "Chiesa"                        07.45    08.45     09.45     10.45    11.45     12.45    13.45     14.45 
+VILLAZZANO  Valnigra                        07.45    08.45     09.45     10.45    11.45     12.45    13.45     14.45 
+GABBIOLO  "Campo sportivo"                  07.46    08.46     09.46     10.46    11.46     12.46    13.46     14.46 
+POVO  Salé                                  07.47    08.47     09.47     10.47    11.47     12.47    13.47     14.47 
+POVO  "Centro Civico"                       07.47    08.47     09.47     10.47    11.47     12.47    13.47     14.47 
+POVO  Piazza Manci                          07.48    08.48     09.48     10.48    11.48     12.48    13.48     14.48 
+POVO  "Polo sociale"                        07.48    08.48     09.48     10.48    11.48     12.48    13.48     14.48 
+
+www.eureka.ra.it             Le note dei simboli sono sull'ultima pagina di ogni linea                         Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                         ORARIO FESTIVO 
+
+                                                   ORARIO Trento Estate 2013   Valido dal 12/06/2013 al 10/09/2013  
+
+  13       P.Dante - Via Degasperi - Villazzano - Povo 
+
+Frequenza 
+Linea 
+
+Piazza Dante  "Stazione FS"                 15.27     16.27     17.27    18.27     19.27     20.27 
+Rosmini  S.Maria Maggiore                   15.28     16.28     17.28    18.28     19.28     20.28 
+Rosmini  "Cimitero"                         15.29     16.29     17.29    18.29     19.29     20.29 
+Giusti  Pascoli                             15.30     16.30     17.30    18.30     19.30     20.30 
+S.Pio X  Largo Prati                        15.31     16.31     17.31    18.31     19.31     20.31 
+S.Pio X  Benevoli                           15.32     16.32     17.32    18.32     19.32     20.32 
+Degasperi  Anna Frank                       15.34     16.34     17.34    18.34     19.34     20.34 
+Degasperi  la Clarina                       15.35     16.35     17.35    18.35     19.35     20.35 
+Degasperi  "Big Center"                     15.36     16.36     17.36    18.36     19.36     20.36 
+Degasperi  "Palazzo Stella"                 15.37     16.37     17.37    18.37     19.37     20.37 
+Menguzzato  "Centro civico"                 15.39     16.39     17.39    18.39     19.39     20.39 
+Menguzzato  al Casteller                    15.40     16.40     17.40    18.40     19.40     20.40 
+Conci  ferrovia                             15.40     16.40     17.40    18.40     19.40     20.40 
+Conci  de Riccabona                         15.41     16.41     17.41    18.41     19.41     20.41 
+VILLAZZANO  "Villa Tambosi"                 15.43     16.43     17.43    18.43     19.43     20.43 
+VILLAZZANO  "Villa de Mersi"                15.44     16.44     17.44    18.44     19.44     20.44 
+VILLAZZANO  "Chiesa"                        15.45     16.45     17.45    18.45     19.45     20.45 
+VILLAZZANO  Valnigra                        15.45     16.45     17.45    18.45     19.45     20.45 
+GABBIOLO  "Campo sportivo"                  15.46     16.46     17.46    18.46     19.46     20.46 
+POVO  Salé                                  15.47     16.47     17.47    18.47     19.47     20.47 
+POVO  "Centro Civico"                       15.47     16.47     17.47    18.47     19.47     20.47 
+POVO  Piazza Manci                          15.48     16.48     17.48    18.48     19.48     20.48 
+POVO  "Polo sociale"                        15.48     16.48     17.48    18.48     19.48     20.48 
+
+Frequenze 
+
+www.eureka.ra.it                                                                                                Pag. 2 
