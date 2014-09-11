@@ -11,11 +11,26 @@ This utility parses the schedule files published on Trentino Trasporti website
 in a more manageable binary format.
 
 The procedure:
-1. Go to http://ttesercizio.it and download all the PDF schedules 
-   for each bus number (multipage files, not per-bus-stop posters).
-2. Download a free version of Foxit Reader from http://foxitsoftware.com.
-3. Use Foxit Reader to save PDF schedules as TXT files.
-4. Run ScheduleConverter: 
-   "java -Dfile.encoding=UTF8 -jar converter.jar input/path/to/txt output/path/to/dat"
-   
+1. In "res/pdf/schedule-pdfs-trento.txt" replace all entries of "T14E" with appropriate 
+   year and season (Inverno/Estivo). E.g. "T17I" for 2017 winter schedules.
+   The file contains brute-force paths to schedule PDFs for buses 1-17, A-D, NP.
+   Add new entries if required (for funivia see below).
+2. Download schedule files (
+   "wget --random-wait -i schedule-pdfs-trento.txt"  (or whatever is the new file)
+3. Download a free version of Foxit Reader from http://foxitsoftware.com.
+4. Use Foxit Reader to save PDF schedules as TXT files (1 pdf -> 1 txt).
+   Coverting 60+ files is rather boring and time-consuming, so open many PDFs
+   simultaneously and let Ctrl-Shift-S be your friend.
+   After conversion, move *.txt to "res/txt" folder.
+5. Trento cablecar (funivia) timetable has a different PDF format, but luckily
+   these data rarely change. So just manually update the dates in two files:
+   "res/txt/OraridiDirettrice-*-T-zFVA.txt"
+   Update the year in the file names and put them with the other TXT schedules.
+5. Run ScheduleConverter: 
+   "java -Dfile.encoding=UTF8 -jar converter.jar input/path/to/txt/ output/path/to/dat/"
+   IMPORTANT: The converter DOES NOT replace files in the output folder, it just
+   adds new ones. So make sure the output folder is empty before conversion.
+6. If there are any error messages, try to fix the offending .txt manually.
+
+
 Contact: trentobus@popleteev.com 
