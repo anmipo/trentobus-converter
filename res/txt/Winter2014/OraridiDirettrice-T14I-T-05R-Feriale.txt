@@ -1,0 +1,454 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                                    Ý 
+Linea                                                          o                                        o 
+
+CIMIRLO                                                            07.00                                   07.41 
+CELVA                                                              07.05                                   07.46 
+via Eremo                                                          07.07                                   07.48 
+ "Maso di Brenz"                                                   07.08                                   07.49 
+BORINO                                        05.59     06.48      07.10               07.08     07.28     07.51     07.41 
+OLTRECASTELLO                                 06.03     06.52        |                 07.12     07.32       |       07.52 
+SPRÉ  S.Lucia                                 06.04     06.53      07.11               07.13     07.33     07.52     07.53 
+SPRÉ  Pinara                                  06.04     06.53      07.11               07.13     07.33     07.52     07.53 
+POVO  "Casa di riposo"                        06.06     06.55      07.13               07.15     07.35     07.54     07.55 
+POVO  "Polo sociale"                          06.07     06.56      07.14     07.15     07.16     07.36     07.55     07.56 
+POVO  Piazza Manci                            06.08     06.57      07.15     07.16     07.17     07.37     07.56     07.57 
+POVO  "Centro Civico"                         06.09     06.58                  |       07.18     07.38               07.58 
+POVO  Salé                                    06.09     06.58                  |       07.18     07.38               07.58 
+POVO  "Fac. Scienze"                          06.10     06.59                  |       07.19     07.39               07.59 
+POVO  Pantè                                     |         |                  07.17       |         |                   |   
+POVO  Sommarive                                 |         |                    |         |         |                   |   
+POVO  "Polo scientifico"                        |         |                    |         |         |                   |   
+POVO  alla cascata                              |         |                    |         |         |                   |   
+POVO  Valoni                                  06.11     07.00                07.18     07.20     07.40               08.00 
+MESIANO  "Stazione FS"                        06.12     07.01                07.19     07.21     07.41               08.01 
+MESIANO  "Fac. Ingegneria"                    06.12     07.01                07.19     07.21     07.41               08.01 
+ "Ponte Lodovico"                             06.13     07.02                07.20     07.22     07.42               08.02 
+Valsugana  "Corallo"                          06.14     07.03                07.21     07.23     07.43               08.03 
+Venezia  Cave                                 06.15     07.04                  |       07.24     07.44               08.04 
+Venezia  "Port'Aquila"                        06.17     07.06                07.24     07.26     07.46               08.06 
+Sanzio  "Castello"                            06.18     07.07                07.25     07.27     07.47               08.07 
+Romagnosi  Vannetti                           06.20     07.09                07.27     07.29     07.49               08.09 
+Piazza Dante  Dogana                          06.21     07.10                07.28     07.30     07.50               08.10 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                     Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                      Ü         Ü         Ü                   Ü         Ü 
+Linea                                          3                                       3                         o 
+CIMIRLO                                                                                                             08.40 
+
+CELVA                                                                                                               08.45 
+via Eremo                                                                                                           08.47 
+ "Maso di Brenz"                                                                                                    08.48 
+BORINO                                                                      08.06                         08.35     08.50 
+OLTRECASTELLO                                                               08.12                         08.42       |   
+SPRÉ  S.Lucia                                                               08.13                         08.43     08.51 
+SPRÉ  Pinara                                                                08.13                         08.43     08.51 
+POVO  "Casa di riposo"                                                      08.15                         08.45     08.53 
+POVO  "Polo sociale"                          07.59     08.11               08.16     08.22               08.46     08.54 
+POVO  Piazza Manci                            08.00     08.12               08.17     08.23               08.47     08.55 
+POVO  "Centro Civico"                         08.01       |                 08.18     08.24               08.48 
+POVO  Salé                                    08.01       |                 08.18     08.24               08.48 
+POVO  "Fac. Scienze"                          08.02       |                 08.19     08.25               08.49 
+POVO  Pantè                                     |       08.13                 |         |                   |   
+POVO  Sommarive                                 |         |       08.09       |         |       08.23       |   
+POVO  "Polo scientifico"                        |         |       08.10       |         |       08.24       |   
+POVO  alla cascata                              |         |       08.16       |         |       08.29       |   
+POVO  Valoni                                  08.03     08.14     08.18     08.20     08.26     08.31     08.50 
+MESIANO  "Stazione FS"                        08.04     08.15     08.19     08.21     08.27     08.32     08.51 
+MESIANO  "Fac. Ingegneria"                    08.04     08.15     08.19     08.21     08.27     08.32     08.51 
+ "Ponte Lodovico"                             08.05     08.16     08.20     08.22     08.28     08.33     08.52 
+Valsugana  "Corallo"                          08.06     08.17     08.21     08.23     08.29     08.34     08.53 
+Venezia  Cave                                 08.07       |       08.22     08.24     08.30       |       08.54 
+Venezia  "Port'Aquila"                        08.09     08.20     08.24     08.26     08.32     08.37     08.56 
+Sanzio  "Castello"                            08.10     08.21     08.25     08.27     08.33     08.38     08.57 
+Romagnosi  Vannetti                           08.12     08.23     08.27     08.29     08.35     08.40     08.59 
+Piazza Dante  Dogana                            |       08.24     08.28     08.30       |       08.41     09.00 
+Gazzoletti  Piazza Dante                      08.13                                   08.36 
+Brennero  "Bren Center"                       08.22                                   08.45 
+Zambra  "Top Center"                          08.23                                   08.46 
+
+www.eureka.ra.it                                                                                                    Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                      Ü                            Ü                   Ü                   Ü 
+Linea 
+
+CIMIRLO  
+CELVA  
+via Eremo  
+ "Maso di Brenz" 
+BORINO                                                 08.51     09.11               09.31               09.51 
+OLTRECASTELLO                                          08.57     09.17               09.37               09.57 
+SPRÉ  S.Lucia                                          08.58     09.18               09.38               09.58 
+SPRÉ  Pinara                                           08.58     09.18               09.38               09.58 
+POVO  "Casa di riposo"                                 09.00     09.20               09.40               10.00 
+POVO  "Polo sociale"                                   09.01     09.21               09.41               10.01 
+POVO  Piazza Manci                                     09.02     09.22               09.42               10.02 
+POVO  "Centro Civico"                                  09.03     09.23               09.43               10.03 
+POVO  Salé                                             09.03     09.23               09.43               10.03 
+POVO  "Fac. Scienze"                                   09.04     09.24               09.44               10.04 
+POVO  Pantè                                               |        |                   |                   |   
+POVO  Sommarive                               08.49       |        |       09.14       |       09.49       |       10.09 
+POVO  "Polo scientifico"                      08.50       |        |       09.15       |       09.50       |       10.10 
+POVO  alla cascata                            08.53       |        |       09.33       |       09.53       |       10.13 
+POVO  Valoni                                  08.55    09.05     09.25     09.35     09.45     09.55     10.05     10.15 
+MESIANO  "Stazione FS"                        08.56    09.06     09.26     09.36     09.46     09.56     10.06     10.16 
+MESIANO  "Fac. Ingegneria"                    08.56    09.06     09.26     09.36     09.46     09.56     10.06     10.16 
+ "Ponte Lodovico"                             08.57    09.07     09.27     09.37     09.47     09.57     10.07     10.17 
+Valsugana  "Corallo"                          08.58    09.08     09.28     09.38     09.48     09.58     10.08     10.18 
+Venezia  Cave                                   |      09.09     09.29       |       09.49       |       10.09       |   
+Venezia  "Port'Aquila"                        09.01    09.11     09.31     09.41     09.51     10.01     10.11     10.21 
+Sanzio  "Castello"                            09.02    09.12     09.32     09.42     09.52     10.02     10.12     10.22 
+Romagnosi  Vannetti                           09.04    09.14     09.34     09.44     09.54     10.04     10.14     10.24 
+Piazza Dante  Dogana                          09.05    09.15     09.35     09.45     09.55     10.05     10.15     10.25 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                   Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                                                                             Þ 
+Linea 
+
+CIMIRLO  
+CELVA  
+via Eremo  
+ "Maso di Brenz" 
+BORINO                                         10.11     10.31     10.51     11.11     11.31     11.51     12.11 
+OLTRECASTELLO                                  10.17     10.37     10.57     11.17     11.37     11.57     12.17 
+SPRÉ  S.Lucia                                  10.18     10.38     10.58     11.18     11.38     11.58     12.18 
+SPRÉ  Pinara                                   10.18     10.38     10.58     11.18     11.38     11.58     12.18 
+POVO  "Casa di riposo"                         10.20     10.40     11.00     11.20     11.40     12.00     12.20 
+POVO  "Polo sociale"                           10.21     10.41     11.01     11.21     11.41     12.01     12.21     12.31 
+POVO  Piazza Manci                             10.22     10.42     11.02     11.22     11.42     12.02     12.22     12.32 
+POVO  "Centro Civico"                          10.23     10.43     11.03     11.23     11.43     12.03     12.23       |   
+POVO  Salé                                     10.23     10.43     11.03     11.23     11.43     12.03     12.23       |   
+POVO  "Fac. Scienze"                           10.24     10.44     11.04     11.24     11.44     12.04     12.24       |   
+POVO  Pantè                                     |         |          |         |         |         |         |       12.33 
+POVO  Sommarive                                 |         |          |         |         |         |         |         |   
+POVO  "Polo scientifico"                        |         |          |         |         |         |         |         |   
+POVO  alla cascata                              |         |          |         |         |         |         |         |   
+POVO  Valoni                                   10.25     10.45     11.05     11.25     11.45     12.05     12.25     12.34 
+MESIANO  "Stazione FS"                         10.26     10.46     11.06     11.26     11.46     12.06     12.26     12.35 
+MESIANO  "Fac. Ingegneria"                     10.26     10.46     11.06     11.26     11.46     12.06     12.26     12.35 
+ "Ponte Lodovico"                              10.27     10.47     11.07     11.27     11.47     12.07     12.27     12.36 
+Valsugana  "Corallo"                           10.28     10.48     11.08     11.28     11.48     12.08     12.28     12.37 
+Venezia  Cave                                  10.29     10.49     11.09     11.29     11.49     12.09     12.29       |   
+Venezia  "Port'Aquila"                         10.31     10.51     11.11     11.31     11.51     12.11     12.31     12.40 
+Sanzio  "Castello"                             10.32     10.52     11.12     11.32     11.52     12.12     12.32     12.41 
+Romagnosi  Vannetti                            10.34     10.54     11.14     11.34     11.54     12.14     12.34     12.43 
+Piazza Dante  Dogana                           10.35     10.55     11.15     11.35     11.55     12.15     12.35     12.44 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                     Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                          Þ                                       Þ         Þ 
+Linea                                      o                                                 o 
+
+CIMIRLO                                       12.23                                             13.15 
+CELVA                                         12.28                                             13.20 
+via Eremo                                     12.30                                             13.22 
+ "Maso di Brenz"                              12.31                                             13.23 
+BORINO                                        12.33     12.31               12.51     13.11     13.25 
+OLTRECASTELLO                                   |       12.37               12.57     13.17       |   
+SPRÉ  S.Lucia                                 12.34     12.38               12.58     13.18     13.26 
+SPRÉ  Pinara                                  12.34     12.38               12.58     13.18     13.26 
+POVO  "Casa di riposo"                        12.36     12.40               13.00     13.20     13.28 
+POVO  "Polo sociale"                          12.37     12.41     12.46     13.01     13.21     13.29     13.29     13.36 
+POVO  Piazza Manci                            12.38     12.42     12.47     13.02     13.22     13.30     13.30     13.37 
+POVO  "Centro Civico"                                   12.43     12.48     13.03     13.23               13.31       |   
+POVO  Salé                                              12.43     12.48     13.03     13.23               13.31       |   
+POVO  "Fac. Scienze"                                    12.44     12.49     13.04     13.24               13.32       |   
+POVO  Pantè                                               |         |         |         |                   |       13.38 
+POVO  Sommarive                                           |         |         |         |                   |         |   
+POVO  "Polo scientifico"                                  |         |         |         |                   |         |   
+POVO  alla cascata                                        |         |         |         |                   |         |   
+POVO  Valoni                                            12.45     12.50     13.05     13.25               13.33     13.39 
+MESIANO  "Stazione FS"                                  12.46     12.51     13.06     13.26               13.34     13.40 
+MESIANO  "Fac. Ingegneria"                              12.46     12.51     13.06     13.26               13.34     13.40 
+ "Ponte Lodovico"                                       12.47     12.52     13.07     13.27               13.35     13.41 
+Valsugana  "Corallo"                                    12.48     12.53     13.08     13.28               13.36     13.42 
+Venezia  Cave                                           12.49     12.54     13.09     13.29               13.37       |   
+Venezia  "Port'Aquila"                                  12.51     12.56     13.11     13.31               13.39     13.45 
+Sanzio  "Castello"                                      12.52     12.57     13.12     13.32               13.40     13.46 
+Romagnosi  Vannetti                                     12.54     12.59     13.14     13.34               13.42     13.48 
+Piazza Dante  Dogana                                    12.55     13.00     13.15     13.35               13.43     13.49 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                    Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                          Þ         Ü                             Ü         Ü 
+Linea                                                                                                  o 
+
+CIMIRLO                                                                                                   15.00 
+CELVA                                                                                                     15.05 
+via Eremo                                                                                                 15.07 
+ "Maso di Brenz"                                                                                          15.08 
+BORINO                                        13.31     13.51               14.11     14.31     14.51     15.10     15.11 
+OLTRECASTELLO                                 13.37     13.57               14.17     14.37     14.57       |       15.17 
+SPRÉ  S.Lucia                                 13.38     13.58               14.18     14.38     14.58     15.11     15.18 
+SPRÉ  Pinara                                  13.38     13.58               14.18     14.38     14.58     15.11     15.18 
+POVO  "Casa di riposo"                        13.40     14.00               14.20     14.40     15.00     15.13     15.20 
+POVO  "Polo sociale"                          13.41     14.01     14.09     14.21     14.41     15.01     15.14     15.21 
+POVO  Piazza Manci                            13.42     14.02     14.10     14.22     14.42     15.02     15.15     15.22 
+POVO  "Centro Civico"                         13.43     14.03     14.11     14.23     14.43     15.03               15.23 
+POVO  Salé                                    13.43     14.03     14.11     14.23     14.43     15.03               15.23 
+POVO  "Fac. Scienze"                          13.44     14.04     14.12     14.24     14.44     15.04               15.24 
+POVO  Pantè                                     |         |         |         |         |         |                   |   
+POVO  Sommarive                                 |         |         |         |         |         |                   |   
+POVO  "Polo scientifico"                        |         |         |         |         |         |                   |   
+POVO  alla cascata                              |         |         |         |         |         |                   |   
+POVO  Valoni                                  13.45     14.05     14.13     14.25     14.45     15.05               15.25 
+MESIANO  "Stazione FS"                        13.46     14.06     14.14     14.26     14.46     15.06               15.26 
+MESIANO  "Fac. Ingegneria"                    13.46     14.06     14.14     14.26     14.46     15.06               15.26 
+ "Ponte Lodovico"                             13.47     14.07     14.15     14.27     14.47     15.07               15.27 
+Valsugana  "Corallo"                          13.48     14.08     14.16     14.28     14.48     15.08               15.28 
+Venezia  Cave                                 13.49     14.09     14.17     14.29     14.49     15.09               15.29 
+Venezia  "Port'Aquila"                        13.51     14.11     14.19     14.31     14.51     15.11               15.31 
+Sanzio  "Castello"                            13.52     14.12     14.20     14.32     14.52     15.12               15.32 
+Romagnosi  Vannetti                           13.54     14.14     14.22     14.34     14.54     15.14               15.34 
+Piazza Dante  Dogana                          13.55     14.15     14.23     14.35     14.55     15.15               15.35 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                    Pag. 6 
+
+----------------------- Page 7-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                          Ü         Ü                    Ü                   Ü 
+Linea                                                                                         o 
+
+CIMIRLO                                                                                          16.40 
+CELVA                                                                                            16.45 
+via Eremo                                                                                        16.47 
+ "Maso di Brenz"                                                                                 16.48 
+BORINO                                         15.31     15.51     16.11               16.31     16.50     16.51 
+OLTRECASTELLO                                  15.37     15.57     16.17               16.37       |       16.57 
+SPRÉ  S.Lucia                                  15.38     15.58     16.18               16.38     16.51     16.58 
+SPRÉ  Pinara                                   15.38     15.58     16.18               16.38     16.51     16.58 
+POVO  "Casa di riposo"                         15.40     16.00     16.20               16.40     16.53     17.00 
+POVO  "Polo sociale"                           15.41     16.01     16.21     16.36     16.41     16.54     17.01     17.11 
+POVO  Piazza Manci                             15.42     16.02     16.22     16.37     16.42     16.55     17.02     17.12 
+POVO  "Centro Civico"                          15.43     16.03     16.23       |       16.43               17.03       |   
+POVO  Salé                                     15.43     16.03     16.23       |       16.43               17.03       |   
+POVO  "Fac. Scienze"                           15.44     16.04     16.24       |       16.44               17.04       |   
+POVO  Pantè                                     |         |          |       16.38       |                   |       17.13 
+POVO  Sommarive                                 |         |          |         |         |                   |         |   
+POVO  "Polo scientifico"                        |         |          |         |         |                   |         |   
+POVO  alla cascata                              |         |          |         |         |                   |         |   
+POVO  Valoni                                   15.45     16.05     16.25     16.39     16.45               17.05     17.14 
+MESIANO  "Stazione FS"                         15.46     16.06     16.26     16.40     16.46               17.06     17.15 
+MESIANO  "Fac. Ingegneria"                     15.46     16.06     16.26     16.40     16.46               17.06     17.15 
+ "Ponte Lodovico"                              15.47     16.07     16.27     16.41     16.47               17.07     17.16 
+Valsugana  "Corallo"                           15.48     16.08     16.28     16.42     16.48               17.08     17.17 
+Venezia  Cave                                  15.49     16.09     16.29       |       16.49               17.09       |   
+Venezia  "Port'Aquila"                         15.51     16.11     16.31     16.45     16.51               17.11     17.20 
+Sanzio  "Castello"                             15.52     16.12     16.32     16.46     16.52               17.12     17.21 
+Romagnosi  Vannetti                            15.54     16.14     16.34     16.48     16.54               17.14     17.23 
+Piazza Dante  Dogana                           15.55     16.15     16.35     16.49     16.55               17.15     17.24 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                     Pag. 7 
+
+----------------------- Page 8-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                      Ü         Ü                   Ü          Ü                   Ü         Ü 
+Linea                                                                     o 
+
+CIMIRLO                                                                      17.30 
+CELVA                                                                        17.35 
+via Eremo                                                                    17.37 
+ "Maso di Brenz"                                                             17.38 
+BORINO                                         17.11               17.31     17.40               17.51               18.11 
+OLTRECASTELLO                                  17.17               17.37       |                 17.57               18.17 
+SPRÉ  S.Lucia                                  17.18               17.38     17.41               17.58               18.18 
+SPRÉ  Pinara                                   17.18               17.38     17.41               17.58               18.18 
+POVO  "Casa di riposo"                         17.20               17.40     17.43               18.00               18.20 
+POVO  "Polo sociale"                           17.21     17.36     17.41     17.44     17.51     18.01     18.11     18.21 
+POVO  Piazza Manci                             17.22     17.37     17.42     17.45     17.52     18.02     18.12     18.22 
+POVO  "Centro Civico"                          17.23      |        17.43                 |       18.03       |       18.23 
+POVO  Salé                                     17.23      |        17.43                 |       18.03       |       18.23 
+POVO  "Fac. Scienze"                           17.24      |        17.44                 |       18.04       |       18.24 
+POVO  Pantè                                     |        17.38       |                 17.53       |       18.13       |   
+POVO  Sommarive                                 |         |          |                   |         |         |         |   
+POVO  "Polo scientifico"                        |         |          |                   |         |         |         |   
+POVO  alla cascata                              |         |          |                   |         |         |         |   
+POVO  Valoni                                   17.25     17.39     17.45               17.54     18.05     18.14     18.25 
+MESIANO  "Stazione FS"                         17.26     17.40     17.46               17.55     18.06     18.15     18.26 
+MESIANO  "Fac. Ingegneria"                     17.26     17.40     17.46               17.55     18.06     18.15     18.26 
+ "Ponte Lodovico"                              17.27     17.41     17.47               17.56     18.07     18.16     18.27 
+Valsugana  "Corallo"                           17.28     17.42     17.48               17.57     18.08     18.17     18.28 
+Venezia  Cave                                  17.29      |        17.49                 |       18.09       |       18.29 
+Venezia  "Port'Aquila"                         17.31     17.45     17.51               18.00     18.11     18.20     18.31 
+Sanzio  "Castello"                             17.32     17.46     17.52               18.01     18.12     18.21     18.32 
+Romagnosi  Vannetti                            17.34     17.48     17.54               18.03     18.14     18.23     18.34 
+Piazza Dante  Dogana                           17.35     17.49     17.55               18.04     18.15     18.24     18.35 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                     Pag. 8 
+
+----------------------- Page 9-----------------------
+
+                                                                                           ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                      Ü        Ü                   Ü                   Ü         Ü 
+Linea                                                o 
+
+CIMIRLO                                                 18.25 
+CELVA                                                   18.30 
+via Eremo                                               18.32 
+ "Maso di Brenz"                                        18.33 
+BORINO                                                  18.35     18.31              18.51     19.11               19.31 
+OLTRECASTELLO                                             |       18.37              18.57     19.17               19.37 
+SPRÉ  S.Lucia                                           18.36     18.38              18.58     19.18               19.38 
+SPRÉ  Pinara                                            18.36     18.38              18.58     19.18               19.38 
+POVO  "Casa di riposo"                                  18.38     18.40              19.00     19.20               19.40 
+POVO  "Polo sociale"                          18.36     18.39     18.41    18.51     19.01     19.21     19.36     19.41 
+POVO  Piazza Manci                            18.37     18.40     18.42    18.52     19.02     19.22     19.37     19.42 
+POVO  "Centro Civico"                           |                 18.43      |       19.03     19.23       |       19.43 
+POVO  Salé                                      |                 18.43      |       19.03     19.23       |       19.43 
+POVO  "Fac. Scienze"                            |                 18.44      |       19.04     19.24       |       19.44 
+POVO  Pantè                                   18.38                |       18.53       |         |       19.38       |   
+POVO  Sommarive                               18.38                |       18.53       |         |       19.38       |   
+POVO  "Polo scientifico"                      18.39                |       18.54       |         |       19.39       |   
+POVO  alla cascata                            18.39                |       18.54       |         |       19.39       |   
+POVO  Valoni                                  18.41               18.45    18.56     19.05     19.25     19.41     19.45 
+MESIANO  "Stazione FS"                        18.42               18.46    18.57     19.06     19.26     19.42     19.46 
+MESIANO  "Fac. Ingegneria"                    18.42               18.46    18.57     19.06     19.26     19.42     19.46 
+ "Ponte Lodovico"                             18.43               18.47    18.58     19.07     19.27     19.43     19.47 
+Valsugana  "Corallo"                          18.44               18.48    18.59     19.08     19.28     19.44     19.48 
+Venezia  Cave                                   |                 18.49      |       19.09     19.29     19.45     19.49 
+Venezia  "Port'Aquila"                        18.47               18.51    19.02     19.11     19.31     19.47     19.51 
+Sanzio  "Castello"                            18.48               18.52    19.03     19.12     19.32     19.48     19.52 
+Romagnosi  Vannetti                           18.50               18.54    19.05     19.14     19.34     19.50     19.54 
+Piazza Dante  Dogana                          18.51               18.55    19.06     19.15     19.35     19.51     19.55 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+www.eureka.ra.it                                                                                                   Pag. 9 
+
+----------------------- Page 10-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                ORARIO Trento Inverno 2014-15   Valido dal 10/09/2014 al 09/06/2015  
+
+   5       Oltrecastello - Povo - P.Aquila - P.Dante 
+
+Frequenza                                                Ü 
+Linea 
+
+CIMIRLO  
+CELVA  
+via Eremo  
+ "Maso di Brenz" 
+BORINO                                       19.51      20.11     20.31     20.51     21.57     22.57 
+OLTRECASTELLO                                 19.57     20.17     20.37     21.07     22.00     23.00 
+SPRÉ  S.Lucia                                 19.58     20.18     20.38     21.08     22.01     23.01 
+SPRÉ  Pinara                                  19.58     20.18     20.38     21.08     22.01     23.01 
+POVO  "Casa di riposo"                        20.00     20.20     20.40     21.09     22.02     23.02 
+POVO  "Polo sociale"                          20.01     20.21     20.41     21.10     22.03     23.03 
+POVO  Piazza Manci                            20.02     20.22     20.42     21.11     22.04     23.04 
+POVO  "Centro Civico"                         20.03     20.23     20.43     21.12     22.05     23.05 
+POVO  Salé                                    20.03     20.23     20.43     21.12     22.05     23.05 
+POVO  "Fac. Scienze"                          20.04     20.24     20.44     21.13     22.06     23.06 
+POVO  Pantè                                     |         |         |         |         |         |   
+POVO  Sommarive                                 |         |         |         |         |         |   
+POVO  "Polo scientifico"                        |         |         |         |         |         |   
+POVO  alla cascata                              |         |         |         |         |         |   
+POVO  Valoni                                  20.05     20.25     20.45     21.13     22.06     23.06 
+MESIANO  "Stazione FS"                        20.06     20.26     20.46     21.14     22.07     23.07 
+MESIANO  "Fac. Ingegneria"                    20.06     20.26     20.46     21.14     22.07     23.07 
+ "Ponte Lodovico"                             20.07     20.27     20.47     21.15     22.08     23.08 
+Valsugana  "Corallo"                          20.08     20.28     20.48     21.16     22.09     23.09 
+Venezia  Cave                                 20.09     20.29     20.49     21.17     22.10     23.10 
+Venezia  "Port'Aquila"                        20.11     20.31     20.51     21.19     22.12     23.12 
+Sanzio  "Castello"                            20.12     20.32     20.52     21.20     22.13     23.13 
+Romagnosi  Vannetti                           20.14     20.34     20.54     21.21     22.14     23.14 
+Piazza Dante  Dogana                          20.15     20.35     20.55     21.22     22.15     23.15 
+Gazzoletti  Piazza Dante 
+Brennero  "Bren Center" 
+Zambra  "Top Center" 
+
+Frequenze                                   Note di Corsa 
+  Þ Scolastica da Lunedì a Venerdì            o Servizio effettuato da autonoleggiatore privato. 
+  Ü Feriale da Lunedì a Venerdì 
+  Ý Scolastica da Lunedì a Sabato 
+
+www.eureka.ra.it                                                                                                   Pag. 10 
