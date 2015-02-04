@@ -1,0 +1,391 @@
+﻿----------------------- Page 1-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                                                                                   Ü         á 
+Linea                                                                        1/                  1/        1/         1/ 
+POVO  "Polo sociale" cap.                                                                                  07.02     07.07 
+Verona  "S.Bartolameo"                                                                                       |         |   
+Bolghera  "S.Antonio"                                                                  06.56     07.16       |         |   
+Gerola  "Ospedale S.Chiara"                                                            06.57     07.17       |         |   
+Pasubio  Adamello                                                                      06.58     07.18       |         |   
+ Piazza Vicenza                                                                        06.59     07.19     07.21     07.26 
+Giovanelli  "Osp. S.Camillo"                                                           07.00     07.20     07.22     07.27 
+Grazioli  Brigata Acqui                                                                07.01     07.21     07.23     07.28 
+Sanzio  "Castello"                                                                     07.05     07.25     07.27     07.32 
+Romagnosi  Vannetti                                                                    07.07     07.27     07.29     07.34 
+Piazza Dante  "Stazione FS"                   05.45     06.15      06.48     06.58     07.08     07.28     07.30     07.35 
+S.Lorenzo  "Funivia"                          05.46     06.16      06.49     06.59     07.09     07.29     07.31     07.36 
+Brescia  "Piedicastello"                      05.48     06.18      06.51     07.01     07.11     07.31     07.33     07.38 
+Brescia  Divisioni Alpine                     05.48     06.18      06.51     07.01     07.11     07.31     07.33     07.38 
+Brescia  "Ca dei Gai"                         05.49     06.19      06.52     07.02     07.12     07.32     07.34     07.39 
+Brescia  "Villa Salvotti"                     05.50     06.20      06.53     07.03     07.13     07.33     07.35     07.40 
+SS 45 S.Giorgio                               05.51     06.21      06.54     07.04     07.14     07.34     07.36     07.41 
+SP 85 bivio Sopramonte                        05.55     06.25      06.58       |       07.18       |         |         |   
+SP 85  "Soraval"                              05.57     06.27      07.00       |       07.20       |         |         |   
+SOPRAMONTE  "Campra"                          05.59     06.29      07.02       |       07.22       |         |         |   
+CADINE  Strada Gardesana                        |         |          |       07.09       |       07.39     07.41     07.46 
+BASELGA DEL BONDONE                             |         |          |       07.14       |       07.44     07.46     07.51 
+SOPRAMONTE  bivio Baselga                     05.59     06.29      07.02     07.18     07.22     07.48     07.50     07.55 
+SOPRAMONTE  Piazza Oveno                      06.00     06.30      07.03       |       07.23     07.49     07.51     07.56 
+SOPRAMONTE  "Bunaga"                          06.01     06.31      07.04       |       07.24     07.50     07.52     07.57 
+SOPRAMONTE  "M.Petoci"                        06.02                            |       07.25     07.51     07.53     07.58 
+SOPRAMONTE  "Novai"                           06.02                            |       07.25     07.51     07.53     07.58 
+SOPRAMONTE  "Maso Banal"                      06.02                            |       07.25     07.51     07.53     07.58 
+SOPRAMONTE  "Bunaga"                          06.03                            |       07.26     07.52     07.54     07.59 
+SOPRAMONTE  Piazza Oveno                      06.04                          07.20     07.27     07.53     07.55     08.00 
+
+www.eureka.ra.it                                                                                                     Pag. 1 
+
+----------------------- Page 2-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza 
+Linea                                          1/                  1/                  1/                  1/ 
+POVO  "Polo sociale" cap.                                                                                    
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                         07.36     07.56                08.16     08.36     08.56               09.16 
+Gerola  "Ospedale S.Chiara"                   07.37     07.57                08.17     08.37     08.57               09.17 
+Pasubio  Adamello                             07.38     07.58                08.18     08.38     08.58               09.18 
+ Piazza Vicenza                               07.39     07.59                08.19     08.39     08.59               09.19 
+Giovanelli  "Osp. S.Camillo"                  07.40     08.00                08.20     08.40     09.00               09.20 
+Grazioli  Brigata Acqui                       07.41     08.01                08.21     08.41     09.01               09.21 
+Sanzio  "Castello"                            07.45     08.05                08.25     08.45     09.05               09.25 
+Romagnosi  Vannetti                           07.47     08.07                08.27     08.47     09.07               09.27 
+Piazza Dante  "Stazione FS"                   07.48     08.08      08.18     08.28     08.48     09.08     09.18     09.28 
+S.Lorenzo  "Funivia"                          07.49     08.09      08.19     08.29     08.49     09.09     09.19     09.29 
+Brescia  "Piedicastello"                      07.51     08.11      08.21     08.31     08.51     09.11     09.21     09.31 
+Brescia  Divisioni Alpine                     07.51     08.11      08.21     08.31     08.51     09.11     09.21     09.31 
+Brescia  "Ca dei Gai"                         07.52     08.12      08.22     08.32     08.52     09.12     09.22     09.32 
+Brescia  "Villa Salvotti"                     07.53     08.13      08.23     08.33     08.53     09.13     09.23     09.33 
+SS 45 S.Giorgio                               07.54     08.14      08.24     08.34     08.54     09.14     09.24     09.34 
+SP 85 bivio Sopramonte                          |       08.18        |       08.38       |       09.18       |       09.38 
+SP 85  "Soraval"                                |       08.20        |       08.40       |       09.20       |       09.40 
+SOPRAMONTE  "Campra"                            |       08.22        |       08.42       |       09.22       |       09.42 
+CADINE  Strada Gardesana                      07.59       |        08.29       |       08.59       |       09.29       |   
+BASELGA DEL BONDONE                           08.04       |        08.34       |       09.04       |       09.34       |   
+SOPRAMONTE  bivio Baselga                     08.08     08.22      08.38     08.42     09.08     09.22     09.38     09.42 
+SOPRAMONTE  Piazza Oveno                      08.09     08.23        |       08.43     09.09     09.23       |       09.43 
+SOPRAMONTE  "Bunaga"                          08.10     08.24        |       08.44     09.10     09.24       |       09.44 
+SOPRAMONTE  "M.Petoci"                        08.11     08.25        |       08.45     09.11     09.25       |       09.45 
+SOPRAMONTE  "Novai"                           08.11     08.25        |       08.45     09.11     09.25       |       09.45 
+SOPRAMONTE  "Maso Banal"                      08.11     08.25        |       08.45     09.11     09.25       |       09.45 
+SOPRAMONTE  "Bunaga"                          08.12     08.26        |       08.46     09.12     09.26       |       09.46 
+SOPRAMONTE  Piazza Oveno                      08.13     08.27      08.40     08.47     09.13     09.27     09.40     09.47 
+
+www.eureka.ra.it                                                                                                     Pag. 2 
+
+----------------------- Page 3-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza 
+Linea                                          1/                  1/                  1/                  1/ 
+POVO  "Polo sociale" cap.                                                                                    
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                         09.36      09.56               10.16     10.36     10.56               11.16 
+Gerola  "Ospedale S.Chiara"                   09.37      09.57               10.17     10.37     10.57               11.17 
+Pasubio  Adamello                             09.38      09.58               10.18     10.38     10.58               11.18 
+ Piazza Vicenza                               09.39      09.59               10.19     10.39     10.59               11.19 
+Giovanelli  "Osp. S.Camillo"                  09.40      10.00               10.20     10.40     11.00               11.20 
+Grazioli  Brigata Acqui                       09.41      10.01               10.21     10.41     11.01               11.21 
+Sanzio  "Castello"                            09.45      10.05               10.25     10.45     11.05               11.25 
+Romagnosi  Vannetti                           09.47      10.07               10.27     10.47     11.07               11.27 
+Piazza Dante  "Stazione FS"                   09.48      10.08     10.18     10.28     10.48     11.08     11.18     11.28 
+S.Lorenzo  "Funivia"                          09.49      10.09     10.19     10.29     10.49     11.09     11.19     11.29 
+Brescia  "Piedicastello"                      09.51      10.11     10.21     10.31     10.51     11.11     11.21     11.31 
+Brescia  Divisioni Alpine                     09.51      10.11     10.21     10.31     10.51     11.11     11.21     11.31 
+Brescia  "Ca dei Gai"                         09.52      10.12     10.22     10.32     10.52     11.12     11.22     11.32 
+Brescia  "Villa Salvotti"                     09.53      10.13     10.23     10.33     10.53     11.13     11.23     11.33 
+SS 45 S.Giorgio                               09.54      10.14     10.24     10.34     10.54     11.14     11.24     11.34 
+SP 85 bivio Sopramonte                          |        10.18       |       10.38       |       11.18       |       11.38 
+SP 85  "Soraval"                                |        10.20       |       10.40       |       11.20       |       11.40 
+SOPRAMONTE  "Campra"                            |        10.22       |       10.42       |       11.22       |       11.42 
+CADINE  Strada Gardesana                      09.59       |        10.29       |       10.59       |       11.29       |   
+BASELGA DEL BONDONE                           10.04       |        10.34       |       11.04       |       11.34       |   
+SOPRAMONTE  bivio Baselga                     10.08      10.22     10.38     10.42     11.08     11.22     11.38     11.42 
+SOPRAMONTE  Piazza Oveno                      10.09      10.23       |       10.43     11.09     11.23       |       11.43 
+SOPRAMONTE  "Bunaga"                          10.10      10.24       |       10.44     11.10     11.24       |       11.44 
+SOPRAMONTE  "M.Petoci"                        10.11      10.25       |       10.45     11.11     11.25       |       11.45 
+SOPRAMONTE  "Novai"                           10.11      10.25       |       10.45     11.11     11.25       |       11.45 
+SOPRAMONTE  "Maso Banal"                      10.11      10.25       |       10.45     11.11     11.25       |       11.45 
+SOPRAMONTE  "Bunaga"                          10.12      10.26       |       10.46     11.12     11.26       |       11.46 
+SOPRAMONTE  Piazza Oveno                      10.13      10.27     10.40     10.47     11.13     11.27     11.40     11.47 
+
+www.eureka.ra.it                                                                                                     Pag. 3 
+
+----------------------- Page 4-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                                                               Ü 
+Linea                                          1/                  1/                  1/        1/                   1/ 
+POVO  "Polo sociale" cap.                                                                                              
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                          11.36     11.56               12.16               12.36     12.56 
+Gerola  "Ospedale S.Chiara"                    11.37     11.57               12.17               12.37     12.57 
+Pasubio  Adamello                              11.38     11.58               12.18               12.38     12.58 
+ Piazza Vicenza                                11.39     11.59               12.19               12.39     12.59 
+Giovanelli  "Osp. S.Camillo"                   11.40     12.00               12.20               12.40     13.00 
+Grazioli  Brigata Acqui                        11.41     12.01               12.21               12.41     13.01 
+Sanzio  "Castello"                             11.45     12.05               12.25               12.45     13.05 
+Romagnosi  Vannetti                            11.47     12.07               12.27               12.47     13.07 
+Piazza Dante  "Stazione FS"                    11.48     12.08     12.18     12.28     12.35     12.48     13.08     13.18 
+S.Lorenzo  "Funivia"                           11.49     12.09     12.19     12.29     12.36     12.49     13.09     13.19 
+Brescia  "Piedicastello"                       11.51     12.11     12.21     12.31     12.38     12.51     13.11     13.21 
+Brescia  Divisioni Alpine                      11.51     12.11     12.21     12.31     12.38     12.51     13.11     13.21 
+Brescia  "Ca dei Gai"                          11.52     12.12     12.22     12.32     12.39     12.52     13.12     13.22 
+Brescia  "Villa Salvotti"                      11.53     12.13     12.23     12.33     12.40     12.53     13.13     13.23 
+SS 45 S.Giorgio                                11.54     12.14     12.24     12.34     12.41     12.54     13.14     13.24 
+SP 85 bivio Sopramonte                          |        12.18       |       12.38       |         |       13.18       |   
+SP 85  "Soraval"                                |        12.20       |       12.40       |         |       13.20       |   
+SOPRAMONTE  "Campra"                            |        12.22       |       12.42       |         |       13.22       |   
+CADINE  Strada Gardesana                       11.59      |        12.29       |       12.46     12.59       |       13.29 
+BASELGA DEL BONDONE                            12.04      |        12.34       |       12.51     13.04       |       13.34 
+SOPRAMONTE  bivio Baselga                      12.08     12.22     12.38     12.42     12.55     13.08     13.22     13.38 
+SOPRAMONTE  Piazza Oveno                       12.09     12.23       |       12.43     12.56     13.09     13.23       |   
+SOPRAMONTE  "Bunaga"                           12.10     12.24       |       12.44     12.57     13.10     13.24       |   
+SOPRAMONTE  "M.Petoci"                         12.11     12.25       |       12.45     12.58     13.11     13.25       |   
+SOPRAMONTE  "Novai"                            12.11     12.25       |       12.45     12.58     13.11     13.25       |   
+SOPRAMONTE  "Maso Banal"                       12.11     12.25       |       12.45     12.58     13.11     13.25       |   
+SOPRAMONTE  "Bunaga"                           12.12     12.26       |       12.46     12.59     13.12     13.26       |   
+SOPRAMONTE  Piazza Oveno                       12.13     12.27     12.40     12.47     13.00     13.13     13.27     13.40 
+
+www.eureka.ra.it                                                                                                     Pag. 4 
+
+----------------------- Page 5-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                      Ý                                        Ü 
+Linea                                          1/                  1/                  1/                  1/ 
+POVO  "Polo sociale" cap.                                                                                    
+Verona  "S.Bartolameo"                         13.13 
+Bolghera  "S.Antonio"                           |        13.16     13.36     13.56               14.16     14.36     14.56 
+Gerola  "Ospedale S.Chiara"                     |        13.17     13.37     13.57               14.17     14.37     14.57 
+Pasubio  Adamello                               |        13.18     13.38     13.58               14.18     14.38     14.58 
+ Piazza Vicenza                                 |        13.19     13.39     13.59               14.19     14.39     14.59 
+Giovanelli  "Osp. S.Camillo"                    |        13.20     13.40     14.00               14.20     14.40     15.00 
+Grazioli  Brigata Acqui                         |        13.21     13.41     14.01               14.21     14.41     15.01 
+Sanzio  "Castello"                              |        13.25     13.45     14.05               14.25     14.45     15.05 
+Romagnosi  Vannetti                             |        13.27     13.47     14.07               14.27     14.47     15.07 
+Piazza Dante  "Stazione FS"                    13.25     13.28     13.48     14.08     14.18     14.28     14.48     15.08 
+S.Lorenzo  "Funivia"                           13.26     13.29     13.49     14.09     14.19     14.29     14.49     15.09 
+Brescia  "Piedicastello"                       13.28     13.31     13.51     14.11     14.21     14.31     14.51     15.11 
+Brescia  Divisioni Alpine                      13.28     13.31     13.51     14.11     14.21     14.31     14.51     15.11 
+Brescia  "Ca dei Gai"                          13.29     13.32     13.52     14.12     14.22     14.32     14.52     15.12 
+Brescia  "Villa Salvotti"                      13.30     13.33     13.53     14.13     14.23     14.33     14.53     15.13 
+SS 45 S.Giorgio                                13.31     13.34     13.54     14.14     14.24     14.34     14.54     15.14 
+SP 85 bivio Sopramonte                          |        13.38       |       14.18       |       14.38       |       15.18 
+SP 85  "Soraval"                                |        13.40       |       14.20       |       14.40       |       15.20 
+SOPRAMONTE  "Campra"                            |        13.42       |       14.22       |       14.42       |       15.22 
+CADINE  Strada Gardesana                       13.36      |        13.59       |       14.29       |       14.59       |   
+BASELGA DEL BONDONE                            13.41      |        14.04       |       14.34       |       15.04       |   
+SOPRAMONTE  bivio Baselga                      13.45     13.42     14.08     14.22     14.38     14.42     15.08     15.22 
+SOPRAMONTE  Piazza Oveno                       13.46     13.43     14.09     14.23       |       14.43     15.09     15.23 
+SOPRAMONTE  "Bunaga"                           13.47     13.44     14.10     14.24       |       14.44     15.10     15.24 
+SOPRAMONTE  "M.Petoci"                         13.48     13.45     14.11     14.25       |       14.45     15.11     15.25 
+SOPRAMONTE  "Novai"                            13.48     13.45     14.11     14.25       |       14.45     15.11     15.25 
+SOPRAMONTE  "Maso Banal"                       13.48     13.45     14.11     14.25       |       14.45     15.11     15.25 
+SOPRAMONTE  "Bunaga"                           13.49     13.46     14.12     14.26       |       14.46     15.12     15.26 
+SOPRAMONTE  Piazza Oveno                       13.50     13.47     14.13     14.27     14.40     14.47     15.13     15.27 
+
+www.eureka.ra.it                                                                                                     Pag. 5 
+
+----------------------- Page 6-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                   ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                      Ü                                       Ü 
+Linea                                          1/                  1/                  1/                  1/ 
+POVO  "Polo sociale" cap.                                                                                   
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                                   15.16     15.36     15.56               16.16     16.36     16.56 
+Gerola  "Ospedale S.Chiara"                             15.17     15.37     15.57               16.17     16.37     16.57 
+Pasubio  Adamello                                       15.18     15.38     15.58               16.18     16.38     16.58 
+ Piazza Vicenza                                         15.19     15.39     15.59               16.19     16.39     16.59 
+Giovanelli  "Osp. S.Camillo"                            15.20     15.40     16.00               16.20     16.40     17.00 
+Grazioli  Brigata Acqui                                 15.21     15.41     16.01               16.21     16.41     17.01 
+Sanzio  "Castello"                                      15.25     15.45     16.05               16.25     16.45     17.05 
+Romagnosi  Vannetti                                     15.27     15.47     16.07               16.27     16.47     17.07 
+Piazza Dante  "Stazione FS"                   15.18     15.28     15.48     16.08     16.18     16.28     16.48     17.08 
+S.Lorenzo  "Funivia"                          15.19     15.29     15.49     16.09     16.19     16.29     16.49     17.09 
+Brescia  "Piedicastello"                      15.21     15.31     15.51     16.11     16.21     16.31     16.51     17.11 
+Brescia  Divisioni Alpine                     15.21     15.31     15.51     16.11     16.21     16.31     16.51     17.11 
+Brescia  "Ca dei Gai"                         15.22     15.32     15.52     16.12     16.22     16.32     16.52     17.12 
+Brescia  "Villa Salvotti"                     15.23     15.33     15.53     16.13     16.23     16.33     16.53     17.13 
+SS 45 S.Giorgio                               15.24     15.34     15.54     16.14     16.24     16.34     16.54     17.14 
+SP 85 bivio Sopramonte                          |       15.38       |       16.18       |       16.38       |       17.18 
+SP 85  "Soraval"                                |       15.40       |       16.20       |       16.40       |       17.20 
+SOPRAMONTE  "Campra"                            |       15.42       |       16.22       |       16.42       |       17.22 
+CADINE  Strada Gardesana                      15.29       |       15.59       |       16.29       |       16.59       |   
+BASELGA DEL BONDONE                           15.34       |       16.04       |       16.34       |       17.04       |   
+SOPRAMONTE  bivio Baselga                     15.38     15.42     16.08     16.22     16.38     16.42     17.08     17.22 
+SOPRAMONTE  Piazza Oveno                        |       15.43     16.09     16.23       |       16.43     17.09     17.23 
+SOPRAMONTE  "Bunaga"                            |       15.44     16.10     16.24       |       16.44     17.10     17.24 
+SOPRAMONTE  "M.Petoci"                          |       15.45     16.11     16.25       |       16.45     17.11     17.25 
+SOPRAMONTE  "Novai"                             |       15.45     16.11     16.25       |       16.45     17.11     17.25 
+SOPRAMONTE  "Maso Banal"                        |       15.45     16.11     16.25       |       16.45     17.11     17.25 
+SOPRAMONTE  "Bunaga"                            |       15.46     16.12     16.26       |       16.46     17.12     17.26 
+SOPRAMONTE  Piazza Oveno                      15.40     15.47     16.13     16.27     16.40     16.47     17.13     17.27 
+
+www.eureka.ra.it                                                                                                    Pag. 6 
+
+----------------------- Page 7-----------------------
+
+                                                                                            ORARIO FERIALE 
+
+                                                   ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                      Ü                                       Ü 
+Linea                                          1/                  1/                  1/                  1/ 
+POVO  "Polo sociale" cap.                                                                                   
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                                   17.16     17.36     17.56               18.16     18.36     18.56 
+Gerola  "Ospedale S.Chiara"                             17.17     17.37     17.57               18.17     18.37     18.57 
+Pasubio  Adamello                                       17.18     17.38     17.58               18.18     18.38     18.58 
+ Piazza Vicenza                                         17.19     17.39     17.59               18.19     18.39     18.59 
+Giovanelli  "Osp. S.Camillo"                            17.20     17.40     18.00               18.20     18.40     19.00 
+Grazioli  Brigata Acqui                                 17.21     17.41     18.01               18.21     18.41     19.01 
+Sanzio  "Castello"                                      17.25     17.45     18.05               18.25     18.45     19.05 
+Romagnosi  Vannetti                                     17.27     17.47     18.07               18.27     18.47     19.07 
+Piazza Dante  "Stazione FS"                   17.18     17.28     17.48     18.08     18.18     18.28     18.48     19.08 
+S.Lorenzo  "Funivia"                          17.19     17.29     17.49     18.09     18.19     18.29     18.49     19.09 
+Brescia  "Piedicastello"                      17.21     17.31     17.51     18.11     18.21     18.31     18.51     19.11 
+Brescia  Divisioni Alpine                     17.21     17.31     17.51     18.11     18.21     18.31     18.51     19.11 
+Brescia  "Ca dei Gai"                         17.22     17.32     17.52     18.12     18.22     18.32     18.52     19.12 
+Brescia  "Villa Salvotti"                     17.23     17.33     17.53     18.13     18.23     18.33     18.53     19.13 
+SS 45 S.Giorgio                               17.24     17.34     17.54     18.14     18.24     18.34     18.54     19.14 
+SP 85 bivio Sopramonte                          |       17.38       |       18.18       |       18.38       |       19.18 
+SP 85  "Soraval"                                |       17.40       |       18.20       |       18.40       |       19.20 
+SOPRAMONTE  "Campra"                            |       17.42       |       18.22       |       18.42       |       19.22 
+CADINE  Strada Gardesana                      17.29       |       17.59       |       18.29       |       18.59       |   
+BASELGA DEL BONDONE                           17.34       |       18.04       |       18.34       |       19.04       |   
+SOPRAMONTE  bivio Baselga                     17.38     17.42     18.08     18.22     18.38     18.42     19.08     19.22 
+SOPRAMONTE  Piazza Oveno                        |       17.43     18.09     18.23       |       18.43     19.09     19.23 
+SOPRAMONTE  "Bunaga"                            |       17.44     18.10     18.24       |       18.44     19.10     19.24 
+SOPRAMONTE  "M.Petoci"                          |       17.45     18.11     18.25       |       18.45     19.11     19.25 
+SOPRAMONTE  "Novai"                             |       17.45     18.11     18.25       |       18.45     19.11     19.25 
+SOPRAMONTE  "Maso Banal"                        |       17.45     18.11     18.25       |       18.45     19.11     19.25 
+SOPRAMONTE  "Bunaga"                            |       17.46     18.12     18.26       |       18.46     19.12     19.26 
+SOPRAMONTE  Piazza Oveno                      17.40     17.47     18.13     18.27     18.40     18.47     19.13     19.27 
+
+www.eureka.ra.it                                                                                                    Pag. 7 
+
+----------------------- Page 8-----------------------
+
+                                                                                             ORARIO FERIALE 
+
+                                                    ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza                                      Ü 
+Linea                                          1/                  1/                  1/        1/        1/         1/ 
+POVO  "Polo sociale" cap.                                                                                              
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio"                                    19.16     19.36     19.56     20.16 
+Gerola  "Ospedale S.Chiara"                              19.17     19.37     19.57     20.17 
+Pasubio  Adamello                                        19.18     19.38     19.58     20.18 
+ Piazza Vicenza                                          19.19     19.39     19.59     20.19 
+Giovanelli  "Osp. S.Camillo"                             19.20     19.40     20.00     20.20 
+Grazioli  Brigata Acqui                                  19.21     19.41     20.01     20.21 
+Sanzio  "Castello"                                       19.25     19.45     20.05     20.25 
+Romagnosi  Vannetti                                      19.27     19.47     20.07     20.27 
+Piazza Dante  "Stazione FS"                    19.18     19.28     19.48     20.08     20.28     21.08     21.48     22.43 
+S.Lorenzo  "Funivia"                           19.19     19.29     19.49     20.09     20.29     21.09     21.49     22.44 
+Brescia  "Piedicastello"                       19.21     19.31     19.51     20.11     20.31     21.11     21.51     22.46 
+Brescia  Divisioni Alpine                      19.21     19.31     19.51     20.11     20.31     21.11     21.51     22.46 
+Brescia  "Ca dei Gai"                          19.22     19.32     19.52     20.12     20.32     21.12     21.52     22.47 
+Brescia  "Villa Salvotti"                      19.23     19.33     19.53     20.13     20.33     21.13     21.53     22.48 
+SS 45 S.Giorgio                                19.24     19.34     19.54     20.14     20.34     21.14     21.54     22.49 
+SP 85 bivio Sopramonte                          |        19.38       |       20.18       |         |         |         |   
+SP 85  "Soraval"                                |        19.40       |       20.20       |         |         |         |   
+SOPRAMONTE  "Campra"                            |        19.42       |       20.22       |         |         |         |   
+CADINE  Strada Gardesana                       19.29      |        19.59       |       20.39     21.19     21.59     22.54 
+BASELGA DEL BONDONE                            19.34      |        20.04       |       20.44     21.24     22.04     22.59 
+SOPRAMONTE  bivio Baselga                      19.38     19.42     20.08     20.22     20.48     21.28     22.08     23.03 
+SOPRAMONTE  Piazza Oveno                        |        19.43     20.09     20.23     20.49     21.29     22.09     23.04 
+SOPRAMONTE  "Bunaga"                            |        19.44     20.10     20.24     20.50     21.30     22.10     23.05 
+SOPRAMONTE  "M.Petoci"                          |        19.45     20.11     20.25     20.51     21.31     22.11     23.06 
+SOPRAMONTE  "Novai"                             |        19.45     20.11     20.25     20.51     21.31     22.11     23.06 
+SOPRAMONTE  "Maso Banal"                        |        19.45     20.11     20.25     20.51     21.31     22.11     23.06 
+SOPRAMONTE  "Bunaga"                            |        19.46     20.12     20.26     20.52     21.32     22.12     23.07 
+SOPRAMONTE  Piazza Oveno                       19.40     19.47     20.13     20.27     20.53     21.33     22.13     23.08 
+
+www.eureka.ra.it                                                                                                     Pag. 8 
+
+----------------------- Page 9-----------------------
+
+                                                                                          ORARIO FERIALE 
+
+                                                  ORARIO Trento Inverno 2015   Valido dal 02/02/2015 al 09/06/2015  
+
+   1       Ospedale - P.Dante - Sopramonte 
+
+Frequenza 
+Linea                                         1/ 
+POVO  "Polo sociale" cap.                       
+Verona  "S.Bartolameo" 
+Bolghera  "S.Antonio" 
+Gerola  "Ospedale S.Chiara" 
+Pasubio  Adamello 
+ Piazza Vicenza 
+Giovanelli  "Osp. S.Camillo" 
+Grazioli  Brigata Acqui 
+Sanzio  "Castello" 
+Romagnosi  Vannetti 
+Piazza Dante  "Stazione FS"                  23.38 
+S.Lorenzo  "Funivia"                         23.39 
+Brescia  "Piedicastello"                     23.41 
+Brescia  Divisioni Alpine                    23.41 
+Brescia  "Ca dei Gai"                        23.42 
+Brescia  "Villa Salvotti"                    23.43 
+SS 45 S.Giorgio                              23.44 
+SP 85 bivio Sopramonte                         |   
+SP 85  "Soraval"                               |   
+SOPRAMONTE  "Campra"                           |   
+CADINE  Strada Gardesana                     23.49 
+BASELGA DEL BONDONE                          23.54 
+SOPRAMONTE  bivio Baselga                    23.58 
+SOPRAMONTE  Piazza Oveno                     23.59 
+SOPRAMONTE  "Bunaga"                         00.00 
+SOPRAMONTE  "M.Petoci"                       00.01 
+SOPRAMONTE  "Novai"                          00.01 
+SOPRAMONTE  "Maso Banal"                     00.01 
+SOPRAMONTE  "Bunaga"                         00.02 
+SOPRAMONTE  Piazza Oveno                     00.03 
+
+Frequenze 
+  á Feriale solo il Sabato 
+  Ü Feriale da Lunedì a Venerdì 
+  Ý Scolastica da Lunedì a Sabato 
+
+www.eureka.ra.it                                                                                                  Pag. 9 
